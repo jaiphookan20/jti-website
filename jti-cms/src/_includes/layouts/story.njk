@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }} | Jungle Travels India</title><meta name="description" content="{{ description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>{% include "_css_story.njk" %}</style></head><body>
+<div class="progress" id="progress"></div>
+{% include "_nav_story.njk" %}
+<header class="hero"><div class="hero-img"{% if hero_image %} style="background-image:url('{{ hero_image }}')"{% endif %}></div><div class="hero-overlay"></div>
+<div class="hero-inner"><p class="kicker">{{ kicker }}</p><h1>{{ title }}</h1><p class="byline">{{ byline }}</p></div></header>
+<div class="wrap"><p class="standfirst">{{ standfirst }}</p>
+<div class="meta-row">{% for m in meta %}<span>{{ m.key }}<b>{{ m.value }}</b></span>{% endfor %}</div></div>
+<article class="wrap article">{{ content | safe }}<div class="endmark"></div></article>
+{% include "_cta_story.njk" %}
+<section class="related"><p class="label">More From the Field</p><div class="cards">
+{% for s in collections.stories %}{% if s.data.slug != slug %}
+<a class="card" href="/field-notes/{{ s.data.slug }}/"><div class="thumb"></div><p class="ck">{{ s.data.kicker }}</p><p class="ct">{{ s.data.title }}</p></a>
+{% endif %}{% endfor %}
+<a class="card" href="/field-notes/"><div class="thumb"></div><p class="ck">The Field Notes</p><p class="ct">Read the full journal</p></a>
+</div></section>
+{% include "_footer_story.njk" %}
+<script>var bar=document.getElementById('progress');window.addEventListener('scroll',function(){var h=document.documentElement.scrollHeight-window.innerHeight;bar.style.width=(h>0?(window.scrollY/h)*100:0)+'%';});</script>
+</body></html>

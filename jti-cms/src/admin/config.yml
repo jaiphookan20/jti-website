@@ -1,0 +1,187 @@
+# ---------------------------------------------------------------
+# JTI website — content manager configuration (Sveltia CMS)
+# Change YOUR-GITHUB-USERNAME/jti-website to your actual repo.
+# ---------------------------------------------------------------
+backend:
+  name: github
+  repo: jaiphookan20/jti-website
+  branch: main
+
+media_folder: "src/assets/uploads"
+public_folder: "/assets/uploads"
+publish_mode: simple
+
+collections:
+  # ------------------------- ITINERARIES -------------------------
+  - name: itineraries
+    label: Journeys (Itineraries)
+    label_singular: Journey
+    folder: "src/content/itineraries"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    summary: "{{title}}  —  {{category}}"
+    sortable_fields: [title, category]
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: slug, label: "Web address (slug)", widget: string, hint: "Lowercase, dashes. Changing this changes the page URL." }
+      - { name: category, label: Category, widget: select, options: [wildlife, birding, culture] }
+      - { name: kicker, label: "Kicker (small line above the title)", widget: string, required: false }
+      - { name: description, label: "Search description (SEO)", widget: text, required: false }
+      - { name: hero_image, label: "Hero photo", widget: image, required: false, hint: "Leave empty to keep the current stand-in image." }
+      - { name: hero_fallback, label: "Stand-in photo URL", widget: string, required: false }
+      - { name: lead, label: "Opening line (large italic)", widget: text }
+      - { name: intro, label: "Intro paragraph", widget: text, required: false }
+      - name: facts
+        label: "Hero facts (the 4 items under the title)"
+        widget: list
+        fields:
+          - { name: value, label: Value, widget: string }
+          - { name: label, label: Label, widget: string }
+      - { name: route, label: "Route stops", widget: list, field: { name: stop, label: Stop, widget: string } }
+      - name: days
+        label: "Day by day"
+        widget: list
+        summary: "{{fields.label}} — {{fields.title}}"
+        fields:
+          - { name: label, label: "Day label (e.g. Day 1 / Days 4–7)", widget: string }
+          - { name: title, label: "Day title", widget: string, required: false }
+          - { name: body, label: "Description", widget: text }
+          - { name: stay, label: "Overnight / accommodation", widget: string, required: false }
+          - { name: photo, label: "Photo for this day", widget: image, required: false }
+      - { name: wildlife, label: "Wildlife tags", widget: list, required: false, field: { name: item, widget: string } }
+      - { name: birds, label: "Bird tags", widget: list, required: false, field: { name: item, widget: string } }
+      - name: glance
+        label: "At a glance (sidebar)"
+        widget: list
+        fields:
+          - { name: key, label: Label, widget: string }
+          - { name: value, label: Value, widget: string }
+      - name: gallery
+        label: "Gallery photos"
+        widget: list
+        required: false
+        fields:
+          - { name: image, label: Photo, widget: image, required: false }
+          - { name: fallback, label: "Stand-in URL", widget: string, required: false }
+      - { name: goodtoknow, label: "Good to know", widget: text, required: false }
+
+  # ---------------------------- PARKS ----------------------------
+  - name: parks
+    label: Park Field Guides
+    label_singular: Park
+    folder: "src/content/parks"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields:
+      - { name: title, label: Park name, widget: string }
+      - { name: slug, label: "Web address (slug)", widget: string }
+      - { name: kicker, label: Kicker, widget: string, required: false }
+      - { name: region, label: Region, widget: string, required: false }
+      - { name: description, label: "Search description (SEO)", widget: text, required: false }
+      - { name: hero_image, label: "Hero photo", widget: image, required: false }
+      - { name: hero_fallback, label: "Stand-in photo URL", widget: string, required: false }
+      - { name: lead, label: "Opening line", widget: text }
+      - { name: intro, label: "Intro paragraphs", widget: list, field: { name: paragraph, widget: text } }
+      - { name: see, label: "What you'll see (tags)", widget: list, field: { name: item, widget: string } }
+      - { name: birdline, label: "Birds paragraph", widget: text, required: false }
+      - { name: best, label: "Best time to visit", widget: text, required: false }
+      - { name: reach, label: "How to reach it", widget: text, required: false }
+      - name: glance
+        label: "At a glance (sidebar)"
+        widget: list
+        fields:
+          - { name: key, label: Label, widget: string }
+          - { name: value, label: Value, widget: string }
+      - { name: tours, label: "Journeys that visit this park (slugs)", widget: list, required: false, field: { name: slug, widget: string } }
+
+  # --------------------------- STORIES ---------------------------
+  - name: stories
+    label: Field Notes (Journal)
+    label_singular: Story
+    folder: "src/content/stories"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: slug, label: "Web address (slug)", widget: string }
+      - { name: kicker, label: "Kicker (e.g. Assam · Ritual)", widget: string, required: false }
+      - { name: byline, label: Byline, widget: string, required: false }
+      - { name: description, label: "Search description (SEO)", widget: text, required: false }
+      - { name: hero_image, label: "Hero photo", widget: image, required: false }
+      - { name: hero_fallback, label: "Stand-in photo URL", widget: string, required: false }
+      - { name: standfirst, label: "Standfirst (intro line)", widget: text }
+      - name: meta
+        label: "Fact row"
+        widget: list
+        fields:
+          - { name: key, label: Label, widget: string }
+          - { name: value, label: Value, widget: string }
+      - { name: body, label: "Story", widget: markdown }
+
+  # --------------------------- SETTINGS --------------------------
+  - name: settings
+    label: Pages & Settings
+    files:
+      - name: home
+        label: Homepage
+        file: "src/_data/home.json"
+        fields:
+          - { name: hero_eyebrow, label: "Hero — small line", widget: string }
+          - { name: hero_title, label: "Hero — headline", widget: string }
+          - { name: hero_lede, label: "Hero — intro line", widget: text }
+          - name: hero_slides
+            label: "Hero carousel photos"
+            widget: list
+            fields:
+              - { name: image, label: Photo, widget: image, required: false }
+              - { name: fallback, label: "Stand-in URL", widget: string, required: false }
+          - name: cred
+            label: "Credibility strip"
+            widget: list
+            fields:
+              - { name: value, label: Value, widget: string }
+              - { name: label, label: Label, widget: string }
+          - { name: intro_eyebrow, label: "Intro — small line", widget: string }
+          - { name: intro_title, label: "Intro — heading", widget: string }
+          - { name: intro_paras, label: "Intro — paragraphs", widget: list, field: { name: paragraph, widget: text } }
+          - { name: intro_strip, label: "Intro — species strip", widget: string }
+          - { name: intro_image, label: "Intro photo", widget: image, required: false }
+          - { name: intro_fallback, label: "Intro stand-in URL", widget: string, required: false }
+          - name: journeys
+            label: "Signature journey cards"
+            widget: list
+            fields:
+              - { name: href, label: Link, widget: string }
+              - { name: eyebrow, label: Kicker, widget: string }
+              - { name: title, label: Title, widget: string }
+              - { name: text, label: Text, widget: text }
+              - { name: image, label: Photo, widget: image, required: false }
+              - { name: fallback, label: "Stand-in URL", widget: string, required: false }
+          - name: parks
+            label: "Parks strip"
+            widget: list
+            fields:
+              - { name: href, label: Link, widget: string }
+              - { name: kicker, label: Kicker, widget: string }
+              - { name: title, label: Title, widget: string }
+              - { name: image, label: Photo, widget: image, required: false }
+              - { name: fallback, label: "Stand-in URL", widget: string, required: false }
+          - { name: quote, label: "Testimonial quote", widget: text }
+          - { name: quote_who, label: "Testimonial attribution", widget: string }
+          - { name: enquire_title, label: "Enquiry section — heading", widget: string }
+          - { name: enquire_text, label: "Enquiry section — text", widget: text }
+          - { name: enquire_image, label: "Enquiry background photo", widget: image, required: false }
+          - { name: enquire_fallback, label: "Enquiry stand-in URL", widget: string, required: false }
+      - name: site
+        label: Contact details
+        file: "src/_data/site.json"
+        fields:
+          - { name: name, label: Company name, widget: string }
+          - { name: phone, label: "Phone (display)", widget: string }
+          - { name: phone_raw, label: "Phone (dial format)", widget: string }
+          - { name: email, label: Email, widget: string }
+          - { name: address, label: Address, widget: string }
+          - { name: url, label: Website URL, widget: string }

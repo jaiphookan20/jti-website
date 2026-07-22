@@ -1,0 +1,64 @@
+<footer class="site">
+    <div class="wrap">
+      <div class="grid">
+        <div>
+          <div class="brand"><span class="jti" style="font-family:var(--serif);font-weight:600;font-size:26px;letter-spacing:2px;">JTI</span> <span class="sq" style="display:inline-block;width:11px;height:11px;background:var(--red);margin:0 8px;"></span><span class="full" style="font-family:var(--sans);font-size:10px;letter-spacing:3px;text-transform:uppercase;">Jungle Travels India</span></div>
+          <p class="tag">Award-winning, family-run wildlife, birding and culture journeys across India since 1989.</p>
+        </div>
+        <div>
+          <h4>Journeys</h4>
+          <ul>
+            <li><a href="#journeys">Wildlife tours</a></li>
+            <li><a href="#journeys">Birding tours</a></li>
+            <li><a href="#journeys">Culture tours</a></li>
+            <li><a href="#featured">Featured itineraries</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="#parks">National parks</a></li>
+            <li><a href="#fieldnotes">The Field Notes</a></li>
+            <li><a href="/our-story/">Our story</a></li>
+            <li><a href="#enquire">Contact &amp; enquire</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Get in touch</h4>
+          <p class="contact">
+            <a href="tel:+919209200013">+91 920 920 0013</a><br>
+            <a href="mailto:info@jungletravels.in">info@jungletravels.in</a><br>
+            3B, Dirang Arcade, GNB Road,<br>Chandmari, Guwahati 781003<br>
+            <a href="https://www.facebook.com/jtigroupexperiences/">Facebook</a> · <a href="https://www.instagram.com/jungletravelsindia">Instagram</a>
+          </p>
+        </div>
+      </div>
+      <div class="sub">
+        <span>© 2026 Jungle Travels India · Part of JTI Group</span>
+        <span>Design concept · imagery © Jungle Travels India</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- FLOATING WHATSAPP -->
+  <a class="wa" href="https://wa.me/919209200013" target="_blank" rel="noopener">WhatsApp us</a>
+
+  <script>
+    // nav: transparent over hero, solid on scroll
+    var nav = document.querySelector('header.nav');
+    function onScroll(){ nav.classList.toggle('solid', window.scrollY > 60); }
+    window.addEventListener('scroll', onScroll); onScroll();
+
+    // hero carousel (slow crossfade)
+    var slides = document.querySelectorAll('.hero .slide');
+    var dots = document.querySelectorAll('.hero .dots i');
+    var ci = 0, ct = null;
+    function show(i){
+      slides.forEach(function(s,n){ s.classList.toggle('on', n===i); });
+      dots.forEach(function(d,n){ d.classList.toggle('on', n===i); });
+      ci = i;
+    }
+    function goSlide(i){ show(i); restart(); }
+    function restart(){ if(ct) clearInterval(ct); ct = setInterval(function(){ show((ci+1)%slides.length); }, 4600); }
+    if(slides.length) restart();
+  </script>

@@ -1,0 +1,1 @@
+{ "layout": "layouts/park.njk", "permalink": "/parks/{{ slug }}/index.html", "tags": "parks" }

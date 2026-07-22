@@ -1,0 +1,1 @@
+{ "layout": "layouts/story.njk", "permalink": "/field-notes/{{ slug }}/index.html", "tags": "stories" }

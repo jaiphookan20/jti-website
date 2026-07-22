@@ -1,0 +1,44 @@
+---
+permalink: /tours/index.html
+---
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Journeys — Wildlife, Birding &amp; Culture Tours | Jungle Travels India</title>
+<meta name="description" content="Browse our private, tailor-made wildlife, birding and culture journeys across India and the Northeast.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_tours.njk" %}</style></head><body>
+{% include "_nav_tours.njk" %}
+<section class="phero"><img src="{{ collections.itineraries[0].data.hero_fallback }}" alt=""><div class="scrim"></div>
+<div class="wrap"><div class="inner"><p class="eyebrow">Private &amp; tailor-made</p><h1>Our Journeys</h1>
+<p>Wildlife, birding and culture — every trip built around you, led by our own naturalists.</p></div></div></section>
+<div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; Journeys</div></div>
+<div class="filter"><div class="wrap">
+<button class="active" data-f="all" onclick="filt(this,'all')">All journeys</button>
+<button data-f="wildlife" onclick="filt(this,'wildlife')">Wildlife</button>
+<button data-f="birding" onclick="filt(this,'birding')">Birding</button>
+<button data-f="culture" onclick="filt(this,'culture')">Culture</button>
+</div></div>
+<section class="tours" id="tours"><div class="wrap"><div class="grid" id="grid">
+{% for t in collections.itineraries %}
+  <div class="card" data-cat="{{ t.data.category }}">
+    <div class="ph"><span class="cat">{{ t.data.category | capitalize }}</span>
+    <img src="{{ t.data.hero_image if t.data.hero_image else t.data.hero_fallback }}" alt="{{ t.data.title }}"></div>
+    <div class="body"><p class="tags"><b>{{ t.data.facts[0].value }} {{ t.data.facts[0].label }}</b> · {{ t.data.facts[1].value }}</p>
+    <h3>{{ t.data.title }}</h3><p>{{ t.data.lead | truncate(130) }}</p>
+    <div class="foot"><a class="view" href="/tours/{{ t.data.slug }}/">View itinerary &rarr;</a><a class="enq" href="/tours/{{ t.data.slug }}/#enquire">Enquire</a></div></div>
+  </div>
+{% endfor %}
+</div></div></section>
+<section class="tailor"><img src="{{ home.enquire_fallback }}" alt=""><div class="scrim"></div>
+<div class="inner"><div class="center-mark"></div><p class="eyebrow">Nothing quite right?</p>
+<h2>Every journey is made to measure</h2>
+<p>These are starting points. Tell us what you dream of seeing and we'll craft a private itinerary around your interests, pace and dates.</p>
+<a class="btn btn-red" href="/#enquire">Plan a tailor-made trip</a></div></section>
+{% include "_footer_tours.njk" %}
+<script>
+function filt(btn,cat){document.querySelectorAll('.filter button').forEach(function(b){b.classList.remove('active');});btn.classList.add('active');
+document.querySelectorAll('.card').forEach(function(c){c.classList.toggle('hide',!(cat==='all'||c.dataset.cat===cat));});}
+window.addEventListener('DOMContentLoaded',function(){var h=(location.hash||'').replace('#','');
+if(['wildlife','birding','culture'].indexOf(h)>=0){var b=document.querySelector('.filter button[data-f="'+h+'"]');if(b)filt(b,h);}});
+</script></body></html>

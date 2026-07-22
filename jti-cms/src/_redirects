@@ -1,0 +1,17 @@
+# Old Wix URLs -> new structure (301)
+/wildlife-tours-in-india          /tours/                              301
+/birding-tours-in-india           /tours/                              301
+/culture-tours                    /tours/                              301
+/our-story                        /our-story/                          301
+/contact                          /#enquire                            301
+/best-of-assam-wildlife-birding   /tours/best-of-assam/                301
+/assam-arunachal-wildlife-birding /tours/assam-arunachal/              301
+/on-the-tigers-trail              /tours/tigers-trail/                 301
+/northeast-india-ultimate-birding /tours/northeast-ultimate-birding/   301
+/in-search-of-hornbills           /tours/in-search-of-hornbills/       301
+/birding-in-the-eastern-himalayas /tours/birding-eastern-himalayas/    301
+/kaziranga-national-park-tours    /parks/kaziranga/                    301
+/manas-national-park-tours        /parks/manas/                        301
+/nameri-national-park-tours       /parks/nameri/                       301
+/namdapha-national-park-tours     /parks/namdapha/                     301
+/eagles-nest-sanctuary-tours      /parks/eagles-nest/                  301

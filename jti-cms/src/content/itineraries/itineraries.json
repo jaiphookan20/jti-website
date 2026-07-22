@@ -1,0 +1,1 @@
+{ "layout": "layouts/itinerary.njk", "permalink": "/tours/{{ slug }}/index.html", "tags": "itineraries" }

@@ -1,0 +1,19 @@
+
+    // nav: transparent over hero, solid on scroll
+    var nav = document.querySelector('header.nav');
+    function onScroll(){ nav.classList.toggle('solid', window.scrollY > 60); }
+    window.addEventListener('scroll', onScroll); onScroll();
+
+    // hero carousel (slow crossfade)
+    var slides = document.querySelectorAll('.hero .slide');
+    var dots = document.querySelectorAll('.hero .dots i');
+    var ci = 0, ct = null;
+    function show(i){
+      slides.forEach(function(s,n){ s.classList.toggle('on', n===i); });
+      dots.forEach(function(d,n){ d.classList.toggle('on', n===i); });
+      ci = i;
+    }
+    function goSlide(i){ show(i); restart(); }
+    function restart(){ if(ct) clearInterval(ct); ct = setInterval(function(){ show((ci+1)%slides.length); }, 4600); }
+    if(slides.length) restart();
+  

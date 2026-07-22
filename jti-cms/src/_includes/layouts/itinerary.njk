@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title | safe }} &mdash; {{ facts[0].value }} {{ facts[0].label }} | Jungle Travels India</title>
+<meta name="description" content="{{ description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_itinerary.njk" %}</style></head><body>
+{% include "_nav_itinerary.njk" %}
+<section class="hero"><img class="bg" src="{{ hero_image if hero_image else hero_fallback }}" alt="{{ title }}"><div class="scrim"></div>
+  <div class="wrap"><div class="inner"><p class="eyebrow">{{ kicker }}</p><h1>{{ title }}</h1>
+  <div class="facts">{% for f in facts %}<span><b>{{ f.value }}</b> {{ f.label }}</span>{% endfor %}</div></div></div></section>
+<div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; <a href="/tours/">Journeys</a> &nbsp;/&nbsp; {{ title }}</div></div>
+<div class="wrap"><div class="layout"><div class="main">
+  <p class="lead">{{ lead }}</p>{% if intro %}<p>{{ intro }}</p>{% endif %}
+  {% if route %}<h2>The route</h2><div class="route">{% for s in route %}<span class="stop">{{ s }}</span>{% if not loop.last %}<span class="arrow">&rarr;</span>{% endif %}{% endfor %}</div>{% endif %}
+  <h2>Day by day</h2><div class="timeline">
+  {% for d in days %}<div class="day"><div class="num">{{ d.label }}</div>{% if d.title %}<h3>{{ d.title }}</h3>{% endif %}<p>{{ d.body }}</p>{% if d.stay %}<p class="stay"><b>Overnight:</b> {{ d.stay }}</p>{% endif %}{% if d.photo %}<img class="day-photo" src="{{ d.photo }}" alt="" loading="lazy">{% endif %}</div>{% endfor %}
+  </div>
+  {% if wildlife %}<h2>Wildlife you may see</h2><div class="chips">{% for c in wildlife %}<span class="chip">{{ c }}</span>{% endfor %}</div>{% endif %}
+  {% if birds %}<h2>Birds to look for</h2><div class="chips">{% for c in birds %}<span class="chip">{{ c }}</span>{% endfor %}</div>{% endif %}
+  <h2>Good to know</h2><p>{% if goodtoknow %}{{ goodtoknow }}{% else %}Every JTI itinerary is fully customisable and can be tailor-made to your interests, pace and dates. Tell us what you'd love and we'll craft it around you.{% endif %}</p>
+</div>
+<aside class="side"><div class="card-side"><h3>At a glance</h3>
+  {% for g in glance %}<div class="fact"><span class="k">{{ g.key }}</span><span class="v">{{ g.value }}</span></div>{% endfor %}</div>
+  <div class="enqbox"><h3>Enquire about this journey</h3><p>Private departures on your dates. A real specialist, no obligation.</p>
+  <a class="btn btn-red" href="#enquire">Start your enquiry</a><p class="call">or call <a href="tel:{{ site.phone_raw }}">{{ site.phone }}</a></p></div></aside>
+</div></div>
+{% if gallery %}<section class="gallery-sec"><div class="wrap"><div class="gallery">
+{% for g in gallery %}<div class="g"><img src="{{ g.image if g.image else g.fallback }}" alt="{{ title }}"></div>{% endfor %}
+</div></div></section>{% endif %}
+<section class="enquire-sec" id="enquire"><img class="bg" src="{{ hero_image if hero_image else hero_fallback }}" alt=""><div class="scrim"></div>
+  <div class="wrap"><div class="inner"><div><div class="center-mark" style="margin-bottom:20px;"></div>
+  <p class="eyebrow" style="color:var(--sand);">Let's begin</p><h2>Enquire about this journey</h2>
+  <p>Tell us your dates and what you most hope to see. One of our specialists will tailor this journey to you and reply personally.</p>
+  <p style="font-family:var(--sans);font-size:13px;letter-spacing:1px;color:#EDE7DA;line-height:2;margin-top:20px;">Call <a href="tel:{{ site.phone_raw }}" style="color:#fff;">{{ site.phone }}</a><br>Email <a href="mailto:{{ site.email }}" style="color:#fff;">{{ site.email }}</a></p></div>
+  <form class="form" name="enquiry" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thanks/">
+  <input type="hidden" name="form-name" value="enquiry"><input type="hidden" name="source-page" value="{{ title }}">
+  <p hidden><label>Skip: <input name="bot-field"></label></p><h3>Start your enquiry</h3>
+  <label>Name</label><input type="text" name="name" required><label>Email</label><input type="email" name="email" required>
+  <label>Preferred dates</label><input type="text" name="dates"><label>What would you love to see?</label><textarea name="message" rows="3"></textarea>
+  <button class="btn btn-red" type="submit">Send enquiry</button></form></div></div></section>
+{% include "_footer_itinerary.njk" %}
+</body></html>

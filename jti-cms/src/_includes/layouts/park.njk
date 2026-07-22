@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }} — Field Guide | Jungle Travels India</title>
+<meta name="description" content="{{ description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_park.njk" %}</style></head><body>
+{% include "_nav_park.njk" %}
+<section class="hero"><img class="bg" src="{{ hero_image if hero_image else hero_fallback }}" alt="{{ title }}"><div class="scrim"></div>
+  <div class="wrap"><div class="inner"><p class="eyebrow">{{ kicker }}</p><h1>{{ title }}</h1>
+  <div class="facts">{% for f in facts %}<span><b>{{ f.value }}</b> {{ f.label }}</span>{% endfor %}</div></div></div></section>
+<div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; <a href="/#parks">Parks</a> &nbsp;/&nbsp; {{ title }}</div></div>
+<div class="wrap"><div class="layout">
+  <div class="main"><p class="lead">{{ lead }}</p>{% for p in intro %}<p>{{ p }}</p>{% endfor %}
+  {% if see %}<h2>What you'll see</h2><div class="chips">{% for c in see %}<span class="chip">{{ c }}</span>{% endfor %}</div>{% endif %}
+  {% if birdline %}<p style="margin-top:16px;">{{ birdline }}</p>{% endif %}
+  {% if best %}<h2>Best time to visit</h2><p>{{ best }}</p>{% endif %}
+  {% if reach %}<h2>How to reach it</h2><p>{{ reach }}</p>{% endif %}</div>
+  <aside class="side"><div class="card-side"><h3>At a glance</h3>
+  {% for g in glance %}<div class="fact"><span class="k">{{ g.key }}</span><span class="v">{{ g.value }}</span></div>{% endfor %}</div>
+  <div class="enqbox"><h3>Visit {{ title }} with us</h3><p>Private, expert-led safaris on your dates.</p>
+  <a class="btn btn-red" href="/#enquire">Plan your visit</a><p class="call">or call <a href="tel:{{ site.phone_raw }}">{{ site.phone }}</a></p></div></aside>
+</div></div>
+{% set linked = [] %}{% for t in collections.itineraries %}{% if t.data.slug in tours %}{% set linked = (linked.push(t), linked) %}{% endif %}{% endfor %}
+{% if linked.length %}<section class="featured"><div class="wrap">
+<div class="sec-head"><div class="center-mark"></div><p class="eyebrow">Journeys featuring this park</p><h2>Tours that visit {{ title }}</h2></div>
+<div class="fcards">{% for t in linked %}<div class="fcard"><div class="ph"><img src="{{ t.data.hero_image if t.data.hero_image else t.data.hero_fallback }}" alt="{{ t.data.title }}"></div>
+<div class="b"><p class="tags">{{ t.data.facts[0].value }} {{ t.data.facts[0].label }}</p><h3>{{ t.data.title }}</h3>
+<a class="view" href="/tours/{{ t.data.slug }}/">View itinerary &rarr;</a></div></div>{% endfor %}</div>
+</div></section>{% endif %}
+{% include "_footer_park.njk" %}
+</body></html>

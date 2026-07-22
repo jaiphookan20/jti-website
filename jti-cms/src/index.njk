@@ -1,0 +1,81 @@
+---
+permalink: /index.html
+---
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jungle Travels India — Wildlife, Birding &amp; Culture Journeys Since 1989</title>
+<meta name="description" content="Award-winning, family-run wildlife and birding journeys across India and the Northeast. Private, expert-led, tailor-made.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_home.njk" %}</style></head><body>
+{% include "_nav_home.njk" %}
+{% include "_mmenu_home.njk" %}
+<section class="hero" id="top"><div class="split">
+  <div class="panel"><div class="inner">
+    <p class="eyebrow">{{ home.hero_eyebrow }}</p><h1>{{ home.hero_title }}</h1>
+    <p class="lede">{{ home.hero_lede }}</p>
+    <div class="cta-row"><a class="btn btn-red" href="#enquire">Plan your journey</a><a class="btn btn-outline" href="#journeys">Explore journeys</a></div>
+  </div></div>
+  <div class="visual">
+    {% for s in home.hero_slides %}<div class="slide{% if loop.first %} on{% endif %}"><img src="{{ s.image if s.image else s.fallback }}" alt=""></div>{% endfor %}
+    <div class="vscrim"></div>
+    <div class="dots">{% for s in home.hero_slides %}<i{% if loop.first %} class="on"{% endif %} onclick="goSlide({{ loop.index0 }})"></i>{% endfor %}</div>
+  </div></div></section>
+<div class="cred"><div class="wrap">{% for c in home.cred %}<div class="item"><div class="n">{{ c.value }}</div><div class="l">{{ c.label }}</div></div>{% endfor %}</div></div>
+<section class="intro"><div class="wrap"><div class="grid">
+  <div><img src="{{ home.intro_image if home.intro_image else home.intro_fallback }}" alt=""></div>
+  <div><div class="center-mark" style="margin:0 0 22px;"></div>
+  <p class="eyebrow">{{ home.intro_eyebrow }}</p><h2>{{ home.intro_title }}</h2>
+  {% for p in home.intro_paras %}<p>{{ p }}</p>{% endfor %}
+  <p class="big5">{{ home.intro_strip }}</p></div>
+</div></div></section>
+<section class="journeys" id="journeys"><div class="wrap">
+  <div class="sec-head"><div class="center-mark"></div><p class="eyebrow">Three ways to travel with us</p><h2>Signature journeys</h2>
+  <p>Every trip is private and fully tailor-made. Begin with a passion — the wild, the winged, or the living cultures of the Northeast.</p></div>
+  <div class="cards">{% for j in home.journeys %}
+  <a class="jcard" href="{{ j.href }}"><img src="{{ j.image if j.image else j.fallback }}" alt=""><div class="scrim"></div>
+  <div class="c"><p class="eyebrow">{{ j.eyebrow }}</p><h3>{{ j.title }}</h3><p>{{ j.text }}</p><span class="go">Explore &rarr;</span></div></a>
+  {% endfor %}</div></div></section>
+<section class="featured" id="featured"><div class="wrap">
+  <div class="sec-head"><div class="center-mark"></div><p class="eyebrow">Ready to travel, endlessly adaptable</p><h2>Featured itineraries</h2>
+  <p>A starting point, not a script — every journey below is fully customisable to your interests, pace and dates.</p></div>
+  <div class="cards">{% for t in collections.itineraries | head(6) %}
+  <div class="fcard"><div class="ph"><img src="{{ t.data.hero_image if t.data.hero_image else t.data.hero_fallback }}" alt="{{ t.data.title }}"></div>
+  <div class="body"><p class="tags"><b>{{ t.data.facts[0].value }} {{ t.data.facts[0].label }}</b> · {{ t.data.facts[1].value }}</p>
+  <h3>{{ t.data.title }}</h3><p>{{ t.data.lead | truncate(120) }}</p>
+  <div class="foot"><a class="view" href="/tours/{{ t.data.slug }}/">View itinerary &rarr;</a><a class="enq" href="/tours/{{ t.data.slug }}/#enquire">Enquire</a></div></div></div>
+  {% endfor %}</div>
+  <div class="more"><a class="btn btn-outline" href="/tours/">See all journeys &amp; enquire</a></div></div></section>
+<section class="parks" id="parks"><div class="wrap">
+  <div class="sec-head"><div class="center-mark"></div><p class="eyebrow">Field guides to the wild</p><h2>National parks &amp; sanctuaries</h2>
+  <p>The places we know best — what you'll see, when to come, and how to reach them.</p></div>
+  <div class="strip">{% for p in home.parks %}
+  <a class="park" href="{{ p.href }}"><img src="{{ p.image if p.image else p.fallback }}" alt="{{ p.title }}"><div class="scrim"></div>
+  <div class="c"><div class="k">{{ p.kicker }}</div><h3>{{ p.title }}</h3></div></a>{% endfor %}</div></div></section>
+{% include "_why_home.njk" %}
+<section class="testi"><div class="wrap"><div class="sec-head"><div class="center-mark"></div>
+  <p class="eyebrow">In our travellers' words</p><h2>Trusted by serious naturalists</h2></div>
+  <div class="quote"><p>{{ home.quote }}</p><div class="who">{{ home.quote_who }}</div></div></div></section>
+<section class="fieldnotes" id="fieldnotes"><div class="wrap">
+  <div class="sec-head"><div class="center-mark"></div><p class="eyebrow">Stories from the field</p><h2>The Field Notes</h2>
+  <p>Our monthly journal — the rituals, wildlife and long roads we travel.</p></div>
+  <div class="cards">{% for s in collections.stories %}
+  <a class="fn" href="/field-notes/{{ s.data.slug }}/"><div class="band"><img src="{{ s.data.hero_image if s.data.hero_image else s.data.hero_fallback }}" alt=""></div>
+  <div class="b"><p class="k">{{ s.data.kicker }}</p><h3>{{ s.data.title }}</h3></div></a>{% endfor %}</div></div></section>
+<section class="enquire-sec" id="enquire"><div class="bg"><img src="{{ home.enquire_image if home.enquire_image else home.enquire_fallback }}" alt=""></div><div class="scrim"></div>
+  <div class="wrap"><div class="inner"><div><div class="center-mark" style="margin:0 0 22px;"></div>
+  <p class="eyebrow" style="color:#F0C9A8;">Let's begin</p><h2>{{ home.enquire_title }}</h2><p>{{ home.enquire_text }}</p>
+  <div class="contacts"><b>Call</b> &nbsp; <a href="tel:{{ site.phone_raw }}" style="color:#fff;">{{ site.phone }}</a><br>
+  <b>Email</b> &nbsp; <a href="mailto:{{ site.email }}" style="color:#fff;">{{ site.email }}</a><br>
+  <b>Visit</b> &nbsp; <span style="color:#CFD8C8;">{{ site.address }}</span></div></div>
+  <form class="form" name="enquiry" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thanks/">
+  <input type="hidden" name="form-name" value="enquiry"><input type="hidden" name="source-page" value="Homepage">
+  <p hidden><label>Skip this field: <input name="bot-field"></label></p><h3>Start your enquiry</h3>
+  <div class="row"><div><label>Name</label><input type="text" name="name" required></div><div><label>Email</label><input type="email" name="email" required></div></div>
+  <div class="row"><div><label>Interest</label><select name="interest"><option>Wildlife safari</option><option>Birding tour</option><option>Culture &amp; festivals</option><option>A mix / not sure yet</option></select></div>
+  <div><label>Approx. dates</label><input type="text" name="dates"></div></div>
+  <label>What would you love to see?</label><textarea name="message" rows="3"></textarea>
+  <button class="btn btn-red" type="submit">Send enquiry</button></form></div></div></section>
+{% include "_footer_home.njk" %}
+<script>{% include "_script_home.njk" %}</script>
+</body></html>
