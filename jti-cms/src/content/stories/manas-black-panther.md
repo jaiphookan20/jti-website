@@ -1,21 +1,21 @@
 ---
-slug: manas-black-panther
 title: A Shadow in the Grass
+slug: manas-black-panther
 kicker: 02  ·  Manas National Park  ·  Wildlife
 byline: From the field · Manas, Assam · June 2026 · 6 min read
-hero_image: ''
+description: Along the Bhutan foothills, where the elephant grass runs gold, a melanistic leopard has been turning up on camera traps and, on rare mornings, in the open.
+hero_image: /assets/uploads/black-leopard-safari-in-india.jpg
 hero_fallback: ''
 standfirst: Along the Bhutan foothills, where the elephant grass runs gold and the rivers braid out of the Himalaya, a melanistic leopard has been turning up on camera traps — and, on rare mornings, in the open.
 meta:
-- key: Park
-  value: Manas, Assam
-- key: Status
-  value: UNESCO & tiger reserve
-- key: Subject
-  value: Black panther
-- key: Best season
-  value: Nov – April
-description: Along the Bhutan foothills, where the elephant grass runs gold, a melanistic leopard has been turning up on camera traps and, on rare mornings, in the open.
+  - key: Park
+    value: Manas, Assam
+  - key: Status
+    value: UNESCO & tiger reserve
+  - key: Subject
+    value: Black panther
+  - key: Best season
+    value: Nov – April
 ---
 
 Replace this opening with the story of the sighting itself. A black panther — a leopard whose coat carries so much pigment its rosettes all but vanish — is one of the rarest things a traveller can hope to see in India. Open in the moment: the held breath of a vehicle full of people who knew exactly how lucky they were, and the shape that moved through the grass and was gone.
