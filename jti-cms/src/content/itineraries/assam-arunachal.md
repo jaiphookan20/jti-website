@@ -56,27 +56,27 @@ days:
     title: Day trip to Dibru-Saikhowa
     body: A full day of birding across the Maguri-Motapung wetland and the forests and grasslands of Dibru-Saikhowa National Park.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Dibru Saikhowa Ferel Horses.jpg
   - label: Day 9
     title: Day trip to Digboi
     body: Birding at a historic abandoned oil field, an important area for the region's species.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Digboi.webp
   - label: Days 10–12
     title: Tinsukia – Kaziranga
     body: Drive to Kaziranga and explore its different ranges on jeep and elephant safaris, with tea gardens and villages between drives.
     stay: Lodge, Kaziranga
-    photo: ''
+    photo: /assets/uploads/rhino_grassland_HD.jpg
   - label: Days 13–14
     title: Kaziranga – Nameri
     body: Drive to Nameri; birding on foot in the forest, with the option to raft the Jia-Bhorelli for waterside birds.
     stay: Eco Camp, Nameri
-    photo: ''
+    photo: /assets/uploads/NNP Rafting2.jpeg
   - label: Day 15
     title: Nameri – Guwahati
     body: Transfer to Guwahati, with a final birding stop at Deepor Beel Wildlife Sanctuary en route to the airport.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Dipor Beel1.jfif
 wildlife:
   - One-horned Rhinoceros
   - Royal Bengal Tiger
