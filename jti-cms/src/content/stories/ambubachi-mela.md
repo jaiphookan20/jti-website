@@ -1,21 +1,21 @@
 ---
-slug: ambubachi-mela
 title: When the Goddess Rests
+slug: ambubachi-mela
 kicker: 01  ·  Guwahati, Assam  ·  Ritual
 byline: From the field · Kamakhya, Nilachal Hill · June 2026 · 7 min read
-hero_image: ''
+description: For a few days each June, the Kamakhya temple draws hundreds of thousands to Nilachal Hill for one of India's most striking expressions of devotion.
+hero_image: /assets/uploads/kamakhya-temple-guwahati-dispur-assam-2-musthead-hero.jpeg
 hero_fallback: ''
 standfirst: For a few days each June, the Kamakhya temple on Nilachal Hill draws hundreds of thousands of pilgrims, sadhus and the merely curious for one of the subcontinent’s most striking expressions of devotion.
 meta:
-- key: Place
-  value: Kamakhya, Guwahati
-- key: When
-  value: June, four days
-- key: Theme
-  value: Faith & festival
-- key: Access
-  value: With a local host
-description: For a few days each June, the Kamakhya temple draws hundreds of thousands to Nilachal Hill for one of India's most striking expressions of devotion.
+  - key: Place
+    value: Kamakhya, Guwahati
+  - key: When
+    value: June, four days
+  - key: Theme
+    value: Faith & festival
+  - key: Access
+    value: With a local host
 ---
 
 Replace this opening with your own reporting from the hill. Ambubachi Mela marks the days the goddess is believed to retreat into her annual cycle — the temple closes, then reopens to an extraordinary swell of devotion. Open on a single image that puts the reader inside the crowd: the red cloth, the heat, the river of people climbing toward the shrine at first light.
