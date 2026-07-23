@@ -1,21 +1,21 @@
 ---
-slug: ladakh-long-road-north
 title: The Long Road North
+slug: ladakh-long-road-north
 kicker: 03  ·  Ladakh  ·  Travelogue
 byline: Words from the field, with our guide Swale · June 2026 · 8 min read
-hero_image: ''
+description: Our guide Swaleh carries a small group from the green of the valleys into the thin, blinding light of the high desert.
+hero_image: /assets/uploads/hans-jurgen-mager-MrW_AqAFNR0-unsplash.jpg
 hero_fallback: ''
 standfirst: Our guide Swale has crossed these passes more times than he can count. This season he carried a small group from the green of the valleys up into the thin, blinding light of the high desert — and sent back these notes.
 meta:
-- key: Region
-  value: Ladakh, India
-- key: Season
-  value: June – September
-- key: Pace
-  value: Private, unhurried
-- key: Guide
-  value: Swale
-description: Our guide Swale carries a small group from the green of the valleys into the thin, blinding light of the high desert.
+  - key: Region
+    value: Ladakh, India
+  - key: Season
+    value: June – September
+  - key: Pace
+    value: Private, unhurried
+  - key: Guide
+    value: Swale
 ---
 
 Replace this opening paragraph with your reporting. The drop cap will fall on whatever letter begins the story, so open on something with momentum — the first turn of the wheel, the moment the valley gives way, the cold that meets you when you step out at altitude. Two or three sentences here set the tone for everything that follows.
