@@ -7,7 +7,7 @@ backend:
   repo: jaiphookan20/jti-website
   branch: main
 
-media_folder: "src/assets/uploads"
+media_folder: "jti-cms/src/assets/uploads"
 public_folder: "/assets/uploads"
 publish_mode: simple
 
@@ -16,7 +16,7 @@ collections:
   - name: itineraries
     label: Journeys (Itineraries)
     label_singular: Journey
-    folder: "src/content/itineraries"
+    folder: "jti-cms/src/content/itineraries"
     create: true
     slug: "{{slug}}"
     identifier_field: title
@@ -70,7 +70,7 @@ collections:
   - name: parks
     label: Park Field Guides
     label_singular: Park
-    folder: "src/content/parks"
+    folder: "jti-cms/src/content/parks"
     create: true
     slug: "{{slug}}"
     identifier_field: title
@@ -100,7 +100,7 @@ collections:
   - name: stories
     label: Field Notes (Journal)
     label_singular: Story
-    folder: "src/content/stories"
+    folder: "jti-cms/src/content/stories"
     create: true
     slug: "{{slug}}"
     identifier_field: title
@@ -127,7 +127,7 @@ collections:
     files:
       - name: home
         label: Homepage
-        file: "src/_data/home.json"
+        file: "jti-cms/src/_data/home.json"
         fields:
           - { name: hero_eyebrow, label: "Hero — small line", widget: string }
           - { name: hero_title, label: "Hero — headline", widget: string }
@@ -177,7 +177,7 @@ collections:
           - { name: enquire_fallback, label: "Enquiry stand-in URL", widget: string, required: false }
       - name: site
         label: Contact details
-        file: "src/_data/site.json"
+        file: "jti-cms/src/_data/site.json"
         fields:
           - { name: name, label: Company name, widget: string }
           - { name: phone, label: "Phone (display)", widget: string }
