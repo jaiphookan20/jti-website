@@ -79,3 +79,15 @@
       .figure-band{height:260px;}.gallery{grid-template-columns:1fr;}.guide{flex-direction:column;text-align:center;}.cards{grid-template-columns:1fr;}
     }
   
+/* ---- in-body images, headings & quotes added via the content editor ---- */
+.article img{display:block;width:100%;margin:44px 0;border:1px solid var(--line);box-shadow:0 14px 40px rgba(31,61,43,.14);}
+.article figure{margin:44px 0;}
+.article figure img{margin:0;}
+.article figcaption{font-family:var(--sans);font-size:12px;letter-spacing:.5px;color:var(--gold);margin-top:12px;text-align:center;}
+.article h2{font-family:var(--serif);font-weight:500;font-size:32px;line-height:1.2;color:var(--green);margin:52px 0 22px;}
+.article h3{font-family:var(--serif);font-weight:500;font-size:24px;line-height:1.25;color:var(--green);margin:40px 0 16px;}
+.article blockquote{font-family:var(--serif);font-style:italic;font-weight:500;font-size:30px;line-height:1.35;color:var(--green);text-align:center;margin:54px auto;max-width:640px;border:0;padding:0;}
+.article blockquote::before{content:"";display:block;width:36px;height:3px;background:var(--red);margin:0 auto 26px;}
+.article blockquote p{margin:0;}
+.article ul,.article ol{margin:0 0 28px 22px;}
+@media(max-width:760px){.article h2{font-size:26px;}.article blockquote{font-size:24px;}.article img{margin:28px 0;}}
