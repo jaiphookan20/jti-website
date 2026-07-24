@@ -46,7 +46,7 @@ days:
     title: Mayudia – Roing
     body: More birding in and around Mayudia before driving back down to Roing.
     stay: Roing
-    photo: ''
+    photo: /assets/uploads/Dibru Saikhowa Ferel Horses.jpg
   - label: Day 7
     title: Roing – Nizamghat – Tinsukia
     body: Drive to the floodplains of Nizamghat, a grassland of birding importance, then on to Tinsukia.
