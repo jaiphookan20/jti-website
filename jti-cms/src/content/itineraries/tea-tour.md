@@ -85,7 +85,7 @@ days:
     title: Kolkata
     body: In the morning, visit Flurys Cafe and enjoy an English breakfast. After breakfast, stroll through the colorful flower market (Mullick Ghat) under the Howrah Bridge. Then, visit the Maiden Garden. There, admire St. Paul's Cathedral, the National Museum, and Fort William. A highlight is the Victoria Memorial, built of white marble in 1906 in honor of Queen Victoria. Pass by the towers of the High Court and Raj Bhawan, then head to BBD Bagh (Dalhousie Square), where you will visit the Writers' Building, the General Post Office, and St. John's Church, built in 1787. Today, you will also visit the convent "Mother House of the Missionaries of Charity" with the burial place of Mother Teresa and the Marble Palace. Overnight.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Victoria_Memorial_situated_in_Kolkata.jpg
   - label: Day 13
     title: Kolkata Fly out
     body: 'Today you will be driven to Kolkata Airport. Departure with numerous stories, memories, and experiences from this India trip! The Tour Ends Please note that: Tea factories are closed from mid December to end March due to tea leaves not plucked in sufficient quantities. Tea factories are closed on Mondays and no tea leaves are plucked on Sundays. Visit to tea factories are subject to permission granted by the factory authority. Some of the sights/itinerary may change due to season, time limit, weather, national holidays, and special events. We maintain the rights to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience.'
