@@ -5,7 +5,7 @@ category: wildlife
 kicker: Wildlife & Birding · Assam & Arunachal
 description: A 15-day wildlife and birding journey from the Mishmi Hills of Arunachal to the rhino grasslands of Kaziranga.
 hero_image: /assets/uploads/Dipor Beel1.jfif
-hero_fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
+hero_fallback: ''
 lead: India's north-eastern corner at its richest — from the unexplored birding hills of Arunachal to the Big Five grasslands of Kaziranga.
 intro: This fifteen-day journey crosses the mighty Brahmaputra into the Mishmi Hills of Arunachal Pradesh, then works its way back through Assam's great parks. Expect rhinos grazing the grass, tigers behind the elephant grass, hornbills overhead and a wealth of babblers, on jeep and elephant safari, on foot and by raft.
 facts:
