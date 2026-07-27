@@ -39,7 +39,7 @@ days:
     title: Kaziranga National Park
     body: 'Today, AM & PM jeep safari inside the park. Overnight. Note: This is for your information that Elephant Ride in Kaziranga National Park is regulated and controlled by the forest dept. Govt. of Assam. As such we do not have any control for booking of elephant rides in advance. Every evening the Forest Department open the counter to distribute ticket for the next day early morning elephant ride. If you want, we shall try and assist in availing the tickets and permits on a direct payment basis.'
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Jeep safari @ Kaziranga NP (2).jpg
   - label: Day 4
     title: Kaziranga National Park
     body: "After breakfast go for a morning jeep safari. Return to the lodge for lunch. Post lunch drive to Silghat (45 min. to 1 hr. drive – one way) to embark on your country boat (owned by the lodge). Experience a nice and calming boat ride on the Brahmaputra River surrounded by scenic beauty. Watch out for the playful Gangetic River Dolphins. Enjoy the sunset with your choice of tea or coffee with some cookies as we approach the shore. As dusk approaches, we will make our way back to Silghat. Disembark and drive back to your lodge. Dinner and overnight. Note: The Dolphin Boat Ride is exclusively for the in-house guests of Diphlu River Lodge and offered in lieu of 02 jeep safaris. The time of the boat ride may vary depending on the boat's availability (either morning or afternoon). It will be on shared basis and subject to availability and depends on the river and weather conditions."
