@@ -37,7 +37,7 @@ days:
     title: ''
     body: After early breakfast, arrive at Pobitora Wildlife Sanctuary and using safari jeep we reach the Pobitora Wildlife Sanctuary entry point. This small park has a sizeable population of one-horned rhinos, and we shall be unlucky if we do not spot some of these amazing armored beasts on a jeep safari. Return to your vessel for lunch and enjoy your time at the sundeck. Later visit a riverside village. Tonight, the vessel will be anchored nearby to a sandbank.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/One Horned Rhino PWLS.jpg
   - label: Day 4
     title: ''
     body: 'Today, while having breakfast we will sail down to reach Guwahati and disembark at Pandu Port, Guwahati. Embarkation point: Pandu Port, Guwahati Disembarkation point: Pandu Port, Guwahati NOTE: 1) Card payment facility is not available on the board. 2) Itineraries are subject to river & weather conditions. 3) Cruise Manager will make changes to the itinerary if required. 4) Laundry service is not available in our vessel.'
