@@ -90,12 +90,35 @@ days:
 
       Note: Elephant safari is subject to availability and permission from the Forest Department, Govt. of Assam. Should you wish to experience the same, we would be pleased to assist in arranging the necessary permits and tickets on a direct payment basis.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Jeep Safari in Kaziranga NP, Kohara.jpg
   - label: Day 11
-    title: ''
-    body: 'Kaziranga National Park – Guwahati airport (220 km / 4 ½ hrs. approx.) After breakfast transfer to Guwahati airport to catch the flight for onward journey. THE TOUR ENDS Entry formalities (Nagaland and Manipur): Travel restriction has been relaxed for Nagaland and Manipur initially for a year (i.e. 1st Jan 2013). And it is difficult to say, at the moment, whether or not it will continue till 2017 – 18 season but it is most likely to continue so. However, all foreigners visiting these States will have to register themselves with the Foreigners Registration Officer (FRO) of the District they visit within 24 hours of their arrival. We will keep you posted in case anything changes in the entry formalities. INFORMATION - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment and if rooms are unavailable in the original hotels, we shall provide equivalent/ alternative hotels. - Tea factory visit is subject to weather condition and factory in operational. Tea factories are closed on Mondays and from mid-December to end March due to tea leaves not plucked in sufficient quantities. In case the factory remains closed in the time of our visit, guests can still go for a leisure walk in the tea plantation. - National Parks remain closed for the monsoon from May till October and opens from 1st of November for visitors and Elephant ride is subject to availability. - The prices are based on current rates levied by the forest department, Kaziranga National Park, and are subject to change in case there is any hike in entry fees, elephant seats, jeep hire prices, depending on the decision of the forest department. - In Kaziranga National Parks, elephant safaris are conducted only in the morning.Jeep safaris range approx. 2hrs duration – conducted in the morning as well as in the afternoon. However, this is subject to change depending on the weather conditions and decisions of the forest authority. - Like any other rural area of India, roads that you will drive through are bound to have potholes once in a while. Roads in Assam in general are plain, straight and well maintained. - In Nagaland, you will drive through hilly areas. Some portion of the road along these stretches will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt road between villages - Road conditions are unpredictable in this region and could be under repair and not having an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on ground. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway for visiting villages, markets, photography, major landmarks of importance or interest depending on the client’s interest. - Please note that sights/itinerary may change due to time limit, weather, national holidays, and special & unforeseen events. We maintain the rights to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - All foreigners travelling to India are hereby informed that it is illegal to use satellite phones, drones or similar devices in India. Custom authorities in India may seize such phones and legal action may be taken against the passenger concerned. - Clients must be fully insured to cover the costs of medical emergencies / evacuation / treatment / medicine, expenses incurred by any amendment of tour itinerary (addition or reduction of number of days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
+    title: Kaziranga National Park – Guwahati airport (220 km / 4 ½ hrs. approx.)
+    body: |-
+      After breakfast, you will be transferred to Guwahati airport to catch the flight for onward journey.
+
+      TOUR ENDS
+
+      Kindly ensure that you have all the necessary permits and documents required for entering the state of Nagaland & Manipur.
+
+      ENTRY FORMALITIES FOR NAGALAND FOR FOREIGN NATIONALS:
+      All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Nagaland. The following documents are required for the permit and we need at least 10 – 14 working days to process the same after we receive these documents:
+
+      1) Photocopy of valid Passport & e-Visa.
+      2) Stamped visa by Indian Immigration upon arrival at any international airport in India.
+      3) Recent Passport-size photographs.
+      4) Duly filled the PAP application form with signature (provided by us).
+      5) International flight tickets (arrival and departure to India).
+
+      ENTRY FORMALITIES FOR MANIPUR FOR FOREIGN NATIONALS:
+      As per the regulations of MHA (Ministry of Home Affairs), all foreign tourists required to obtain PAP (Protected Area Permit) to visit the state of Manipur. The following documents are required to apply for the permit and we need approx. 5 working days to process the same after we receive these documents:
+
+      1) Photocopy of valid Passport & e-Visa.
+      2) Stamped visa by Indian Immigration upon arrival at any international airport in India.
+      3) Recent Passport-size photographs.
+      4) Duly filled the PAP application form with signature (provided by us).
+      5) International flight tickets (arrival and departure to India).
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Kohima War Cemetery 1.jpg
 wildlife: []
 birds: []
 glance:
