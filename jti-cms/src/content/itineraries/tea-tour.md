@@ -12,11 +12,9 @@ facts:
   - value: '13'
     label: Days
   - value: Assam & Darjeeling
-    label: Dear Jonathan,  Thank you for your email.  We will try to ensure your itinerary includes the stay at Wild Mahseer, and will finalize the specific stops once your travel dates are confirmed.  Regarding your travel dates, we would like to share some additional insights that may help with your planning.  As the period from 10th October to 08th November coincides with Durga Puja, the prime festival of the state of West Bengal, you can expect significant crowds in Darjeeling, Bagdogra and Sikkim as well. The celebrations also extend to pre or post-festival periods for seasonal vacation takers. To minimize the impact of crowds, we can consider altering the itinerary to cover Assam and Arunachal Pradesh first, followed by Sikkim. Although, as we cannot predict visitor movement, some destinations may still be crowded.  January being one of the coldest months of the year, there remains a possibility of snowfall along with misty and hazy conditions on some days that may obscure the views for you. This is mainly in the Himalayan foothills and not in the plains of Assam. Clear views of the mountains and sky can usually be expected from end of February, once the showers begin.  If you decide to travel in late 2027, we recommend planning the trip around the Raas Leela festival (approx. 3rd week of November) on Majuli Island, since a visit to Majuli island is already part of your itinerary.  The festival of Raas Leela or Raas Mahotsav is observed annually on Majuli Island on the full moon day (Purnima) that mostly falls in the months of October-November during the autumn season. This is a century-long tradition where the birth and various stages of the life of Lord Krishna is celebrated through Bhaona – traditional dance and drama performances having spiritual significance, typically takes place within the monastery premises. The dates of this festival are decided according to the Assamese Lunisolar calendar, and will be celebrated this year on Majuli Island from 24th to 27th November. Kindly note that the island attracts devotees and local visitors from nearby places during this time, and consequently, the monasteries are expected to be crowded.  We would appreciate it if you could review these details and let us know your preferred travel period so that we may proceed with preparing your itinerary accordingly.  With regards, Amlan
-  - value: Oct – April
-    label: Best
-  - value: Private
-    label: '& tailor-made'
+    label: Oct – April
+  - value: Best
+    label: Private & tailor-made
 route:
   - Dibrugarh
   - Sibsagar
