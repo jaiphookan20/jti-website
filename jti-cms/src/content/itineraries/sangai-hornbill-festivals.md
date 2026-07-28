@@ -74,15 +74,21 @@ days:
 
       In the afternoon, visit the Kohima State Museum, which showcases the indigenous tribal cultures, history, and traditions of Nagaland. Then proceed to the Kohima Cathedral, built in the mid-20th century, a site of both cultural and historical significance. Also visit the Kohima War Cemetery, dedicated to the soldiers who fought in the Battle of Kohima during World War II. Evening, you may choose to go for a visit to the Hornbill night carnival. Dinner and overnight stay.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/View of Khonoma Village.jpg
   - label: Day 9
-    title: Kohima – Kaziranga National Park (230 km / 6 ½ hrs. approx.)
-    body: After breakfast continue to Kaziranga National Park. On your way, you will pass through small hamlets and market places where village women sell their products ranging from locally grown vegetables, seasonal fruits, some handloom, handicraft, cane and bamboo items etc. The park is the host for two third of world’s population of one horned rhinos and also holds the highest density of Tigers among all the protected areas in the world. This park also is a domicile for large breeding inhabitants of Elephant, wild water buffaloes and swamp deer. Declared as Important Bird Area by Birdlife International, this national park is a home for great variety of inhabitant and migrating birds. Located on the banks of river Brahmaputra, the sanctuary enjoys tropical vegetation and is marked by elephant grass, marshy lowlands and tropical moist broadleaf forests. After settling in at our Lodge, we will take a jeep ride through the park to view the wildlife.
+    title: Kohima – Kaziranga National Park (230 km / 6.5 hrs. approx.)
+    body: |-
+      After breakfast continue to Kaziranga National Park. On your way, you will pass through small hamlets and market places where villagers sell their products ranging from locally grown vegetables, seasonal fruits, some handloom, handicrafts, cane and bamboo items etc. On arrival, check in at the lodge. Evenign at leisure. Dinner and overnight.
+
+      A UNESCO World Heritage Site, Kaziranga National Park is home to approximately 80% of the world's Indian One-Horned Rhinoceros population. In addition to the rhinoceros, the park boasts a high density of tigers and serves as a major breeding ground for elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it both a premier wildlife destination and a paradise for birdwatchers.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/pexels-kaustav-chetia-2162502686-38267708.jpg
   - label: Day 10
     title: Kaziranga National Park
-    body: This morning we will take an early elephant safari in the national park. In the afternoon embark on another jeep safari in a different section of the park.
+    body: |-
+      After breakfast, drive to the safari range in an open jeep for a morning jeep safari inside the park. Following the excursion, you will return to the lodge for lunch. In the afternoon, you will head out for another jeep safari in a different range of the park. Back to the lodge by dusk. Overnight stay.
+
+      Note: Elephant safari is subject to availability and permission from the Forest Department, Govt. of Assam. Should you wish to experience the same, we would be pleased to assist in arranging the necessary permits and tickets on a direct payment basis.
     stay: ''
     photo: ''
   - label: Day 11
