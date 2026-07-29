@@ -59,7 +59,7 @@ days:
     title: Delhi
     body: Transfer to the airport for your onward flight.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Red Fort.jfif
 wildlife:
   - Royal Bengal Tiger
   - Leopard
