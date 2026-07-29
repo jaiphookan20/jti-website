@@ -28,7 +28,7 @@ days:
     title: Delhi / Kolkata – Guwahati – Bhalukpong
     body: Fly to Guwahati and transfer to Bhalukpong in the West Kameng foothills. Time permitting, visit Pakke sanctuary and the Tipi Orchidarium, home to over 2,600 orchids.
     stay: Bhalukpong
-    photo: ''
+    photo: /assets/uploads/Bhalukpong.jfif
   - label: Days 2–6
     title: Bhalukpong – Eagle's Nest Wildlife Sanctuary
     body: Early birding around Bhalukpong, then up to Eagle's Nest to explore its extraordinary diversity of birds and mammals, camping in fully-serviced tents in the forest.
@@ -43,7 +43,7 @@ days:
     title: Nameri – Guwahati
     body: A last birding stop at Deepor Beel en route to Guwahati airport.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Wreathed Hornbill.jfif
 wildlife: []
 birds:
   - Rufous-necked Hornbill
