@@ -71,7 +71,7 @@ days:
     title: Kaziranga – Nameri
     body: Drive to Nameri; birding on foot in the forest, with the option to raft the Jia-Bhorelli for waterside birds.
     stay: Eco Camp, Nameri
-    photo: /assets/uploads/NNP Rafting2.jpeg
+    photo: /assets/uploads/Rafting @ Nameri NP (1).jpg
   - label: Day 15
     title: Nameri – Guwahati
     body: Transfer to Guwahati, with a final birding stop at Deepor Beel Wildlife Sanctuary en route to the airport.
