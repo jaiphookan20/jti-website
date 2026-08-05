@@ -55,8 +55,13 @@ days:
     body: 'On your final morning, after breakfast, check-out from the lodge and drive to Guwahati airport, a journey of around 4 ½ hours. Alternatively, there’s the option of a 2 ½ hour drive to Jorhat airport. NOTE: 1) The above price is valid for this booking only till November 2026. 2) Card payment facility is not available on the board. 3) We do not have laundry aboard the vessel. 4) Itineraries are subject to river & weather conditions. 5) Cruise Manager will make changes to the itinerary if required.'
     stay: ''
     photo: ''
-wildlife: []
-birds: []
+wildlife:
+  - One Horned Rhinoceros
+  - Asiatic Wild Elephant
+  - Asiatic Wild Water Buffalo
+birds:
+  - Ibis Bill
+  - goosander or merganser
 glance:
   - key: Duration
     value: 6 Nights / 7 Days
@@ -67,14 +72,15 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
+  - image: /assets/uploads/Elephants @ Kaziranga NP.jpg
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Brahmaputra_River.jpg?width=1600
-  - image: ''
+  - image: /assets/uploads/IMG_4960.jpg
     fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
+  - image: /assets/uploads/pexels-kaustav-chetia-2162502686-38267708.jpg
     fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
   - image: ''
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: ''
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+goodtoknow: ''
 ---
