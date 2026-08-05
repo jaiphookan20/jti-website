@@ -92,5 +92,13 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
   - image: ''
     fallback: https://static.wixstatic.com/media/12a327_950f883b2d88480680470a123bebd6e6~mv2.jpg
-goodtoknow: ''
+goodtoknow: |-
+  -Visit four of India's finest tiger reserves, each offering unique landscapes and wildlife experiences.
+  -Early morning and late afternoon safaris offer the best chances of spotting tigers.
+  -Each park has its own charm—from Kanha's meadows to Satpura's rugged hills.
+  -Tiger sightings are never guaranteed, but every safari is rich in wildlife and birdlife.
+  -Pench inspired Rudyard Kipling's The Jungle Book, adding literary charm to your journey.
+  -Carry neutral-coloured clothing and binoculars for the best wildlife viewing experience.
+  -Besides tigers, look out for leopards, sloth bears, wild dogs, gaur, and over 300 bird species.
+  -Satpura offers unique walking and boat safaris, unlike most Indian tiger reserves.
 ---
