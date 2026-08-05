@@ -105,7 +105,7 @@ days:
     title: Transfer from Havelock – Neil Island
     body: After breakfast check out and proceed to board the cruise back to Neil Island. Welcome on arrival and transfer to hotel. Afternoon at leisure to explore the island or relax on the beach.
     stay: ''
-    photo: /assets/uploads/neil_island_hd.jpg
+    photo: /assets/uploads/Neil.avif
   - label: Day 16
     title: Neil island – Port Blair
     body: After breakfast proceed to visit Sitapur Beach – One finest beach in this island, there after visit Lakhimpur beach, next to visit Beautiful Bharatpur beach – the ideal place for swimming, nature bridge. Afternoon drop at Jetty to catch the return boat for Port Blair, on Return to port Blair back to your hotel evening free for own activity, Overnight stay at hotel.
@@ -116,8 +116,15 @@ days:
     body: 'Morning check out and departure transfer to Airport for onward flight. TOUR ENDS Notes: - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment. The category of rooms may differ depending upon the availability at the time of booking. If rooms are unavailable in the original hotels mentioned above, we shall provide equivalent/ alternative hotels. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway to visit villages, markets, photography, and major landmarks of importance or interest depending on the client’s interest. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of several days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
     stay: ''
     photo: ''
-wildlife: []
-birds: []
+wildlife:
+  - Yak
+  - Barking Deer
+  - Spotted Deer
+  - Nicobar Crab-eating Macaque
+birds:
+  - Yellow-billed Blue Magpie
+  - Red Breasted Parakeet
+  - Nicobar parakeet
 glance:
   - key: Duration
     value: 16 Nights / 17 Days
@@ -136,8 +143,12 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
   - image: ''
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
+  - image: /assets/uploads/Neil.avif
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/.trashed-1786452537-2020_0101_005218_012 (2).JPG
+    fallback: ''
+  - image: /assets/uploads/cellular-jail-andamandmc.jpg
+    fallback: ''
 goodtoknow: |-
   -Travel from cool Himalayan hills to tropical islands—pack layered clothing, light cottons, and reef-safe sunscreen.
   -Experience two worlds in one trip: misty mountains, tea gardens, coral reefs, and turquoise beaches.
