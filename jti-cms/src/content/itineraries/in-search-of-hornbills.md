@@ -64,14 +64,19 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_3f2b34df61124bc08ad5cc30f7154909~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_950f883b2d88480680470a123bebd6e6~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
+  - image: /assets/uploads/GHB.jfif
+    fallback: ''
+  - image: /assets/uploads/RHB.jfif
+    fallback: ''
+  - image: /assets/uploads/HHB.jfif
+    fallback: ''
+goodtoknow: |-
+  -The Great Hornbill is best seen in Assam and Arunachal's evergreen forests from October to April.
+  -Carry binoculars and stay quiet—Hornbills are shy and are best spotted in the early morning.
+  -Hornbills play a vital role in forest regeneration by dispersing seeds over long distances.
+  -Pakke and Namdapha are among the best places to look for the Great Hornbill.
+  -A patient eye and an early start greatly improve your chances of spotting Hornbills.
+  -Respect wildlife by maintaining a safe distance and avoiding loud noises.
+  -This journey offers a chance to experience both rich biodiversity and indigenous tribal cultures.
+  -Hornbill sightings are never guaranteed, making every encounter truly special.
 ---
