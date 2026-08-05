@@ -138,4 +138,13 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: ''
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+goodtoknow: |-
+  -Travel from cool Himalayan hills to tropical islands—pack layered clothing, light cottons, and reef-safe sunscreen.
+  -Experience two worlds in one trip: misty mountains, tea gardens, coral reefs, and turquoise beaches.
+  -Domestic flights connect the Himalayas to the Andamans via Kolkata, Delhi, or Chennai.
+  -Weather changes significantly—carry a light jacket for the hills and breathable clothing for the islands.
+  -The Andamans are plastic-sensitive; help preserve the islands by minimizing single-use plastics.
+  -Mobile connectivity is stronger in the hills than on some Andaman islands—plan accordingly.
+  -Sea activities depend on weather; keep some flexibility in your island itinerary.
+  -A journey from the Himalayas to the Bay of Bengal showcases India's remarkable geographic diversity.
 ---
