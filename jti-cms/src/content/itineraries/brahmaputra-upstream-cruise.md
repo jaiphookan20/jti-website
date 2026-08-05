@@ -82,5 +82,5 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: /assets/uploads/Ibis Bill.jpg
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
-goodtoknow: ''
+goodtoknow: Every JTI itinerary is fully customisable and can be tailor-made to your interests, pace and dates. Tell us what you'd love and we'll craft it around you.
 ---
