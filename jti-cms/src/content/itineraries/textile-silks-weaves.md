@@ -83,14 +83,23 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
+  - image: /assets/uploads/Kamakhya Temple 1.webp
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Weaving_in_Sualkuchi.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/Sualkuchi.jpg
+    fallback: ''
+  - image: /assets/uploads/Sualkuchi (1).jpg
+    fallback: ''
+  - image: /assets/uploads/Elephants @ Kaziranga NP.jpg
+    fallback: ''
+  - image: /assets/uploads/pexels-kaustav-chetia-2162502686-38267708.jpg
+    fallback: ''
+goodtoknow: |-
+  -Assam is the only place in the world producing all three major silks—Muga, Eri, and Pat.
+  -Muga silk, exclusive to Assam, is prized for its natural golden sheen and exceptional durability.
+  -Eri silk is known as 'Ahimsa Silk' as it is produced without killing the silkworm.
+  -Nearly every Assamese household traditionally has a handloom, making weaving a way of life.
+  -Sualkuchi, Assam's 'Silk Village,' is India's largest weaving hub for Muga and Pat silk.
+  -Traditional Assamese motifs are inspired by nature, folklore, and local tribal heritage.
+  -Many weaving techniques in Assam have been passed down through generations for centuries.
+  -Handwoven Assamese textiles are celebrated for their craftsmanship, elegance, and cultural significance.
 ---
