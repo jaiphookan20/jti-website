@@ -4,7 +4,7 @@ slug: tribes-and-tigers
 category: wildlife
 kicker: Culture · Assam & Nagaland
 description: Culture and the wild in one journey - the Hornbill Festival, remote Naga villages, and the tigers and rhinos of Kaziranga.
-hero_image: ''
+hero_image: /assets/uploads/image-2.png
 hero_fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Hornbill_Festival.jpg?width=1600
 lead: Culture and the wild in one journey — the Hornbill Festival, remote Naga villages, and the tigers and rhinos of Kaziranga.
 intro: From Sualkuchi's silk to the massed Naga dances at Kisama and the wildlife of Kaziranga, Nameri and the Gibbon Sanctuary.
