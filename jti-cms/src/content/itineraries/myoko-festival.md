@@ -76,7 +76,10 @@ days:
     body: 'Departure from Dibrugarh airport                                                                                                      B After breakfast, you will be transferred to Dibrugarh airport for your onward journey. TOUR ENDS ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS: All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 in a group to apply for PAP. Less than 2 persons can apply if the total fees of 2 persons are paid by the client. The following documents are required for the permit and we need at least 10 – 15 working days to process the same after we receive these documents: 1) Photocopy of valid Passport & VISA. 2) Recent Passport-size photographs. 3) Duly filled the PAP application form (provided by us). 4) International flight tickets (arrival and departure to India). ** Scanned copies of the above documents will also suffice. Notes: - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment. The category of rooms may differ depending upon the availability at the time of booking. If rooms are unavailable in the original hotels mentioned above, we shall provide equivalent/ alternative hotels. The forest entry fee is based on the current levied price only and might change if there is any hike made by the forest department. - Elephant ride is subject to availability and permission granted by the forest department. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - In Assam, the roads are also in good condition and are in the plains. However, like any other rural area of India, roads that you will drive through are bound to have potholes once in a while. - In Arunachal Pradesh you will drive through hilly areas. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt road between villages. - The places of Arunachal Pradesh mentioned in the itinerary are some of the least visited areas compared to other tourist destinations of the country, and as such, the choices of facilities are very limited. We always suggest the best available hotels/guest houses that provide relatively good services in the area. However, some of the properties are basic in nature with limited amenities. We will use the best available property. - Do note that, most of the Hotels in Arunachal Pradesh do not have laundry service and you may also experience sudden power cuts due to which hot running water may not be available sometimes. However, hot water will be provided in a bucket on request. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway to visit villages, markets, photography, and major landmarks of importance or interest depending on the client’s interest. - All Foreign Nationals travelling to India are hereby informed that international mobile phone number does not work in the Northeast region and it is illegal to use satellite phones/ drones or similar devices in India. Custom authorities in India may seize such devices and legal action may be taken against the passenger concerned. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of several days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
     stay: ''
     photo: ''
-wildlife: []
+wildlife:
+  - One Horned Rhinoceros
+  - Asiatic Wild Elephant
+  - Wild Water Buffalo
 birds: []
 glance:
   - key: Duration
@@ -88,14 +91,18 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
+  - image: /assets/uploads/Apatani Women 1.jpg
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Ziro_valley.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/adi_village_aalo_HD.jpg
+    fallback: ''
+  - image: /assets/uploads/Apatani elders of Ziro.JPG
+    fallback: ''
+  - image: /assets/uploads/image.png
+    fallback: ''
+goodtoknow: |-
+  -Myoko is the Apatani tribe's festival of friendship, celebrated in Ziro Valley with rituals, feasts, and community bonding.
+  -Held every spring in Ziro, Myoko celebrates friendship, prosperity, and the rich traditions of the Apatani community.
+  -Myoko unites Apatani villages through sacred rituals, traditional feasts, and prayers for prosperity and harmony.
+  -Experience Myoko, where Apatani traditions, hospitality, and age-old rituals bring Ziro Valley to life each spring.
+  -More than a festival, Myoko is a celebration of friendship, culture, and community among Arunachal's Apatani people.
 ---
