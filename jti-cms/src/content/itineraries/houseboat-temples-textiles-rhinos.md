@@ -43,8 +43,15 @@ days:
     body: 'Today, while having breakfast we will sail down to reach Guwahati and disembark at Pandu Port, Guwahati. Embarkation point: Pandu Port, Guwahati Disembarkation point: Pandu Port, Guwahati NOTE: 1) Card payment facility is not available on the board. 2) Itineraries are subject to river & weather conditions. 3) Cruise Manager will make changes to the itinerary if required. 4) Laundry service is not available in our vessel.'
     stay: ''
     photo: ''
-wildlife: []
-birds: []
+wildlife:
+  - One Horned Rhinoceros
+  - Asiatic Wild Water Buffalo
+  - Wild Boar
+  - Barking Deer
+birds:
+  - Lesser Adjutant
+  - Asian Openbill
+  - Ruddy Shelduck
 glance:
   - key: Duration
     value: 3 Nights / 4 Days
@@ -55,14 +62,15 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
+  - image: /assets/uploads/aswaklanta_hd.jpg
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Brahmaputra_River.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/IMG_4960.jpg
+    fallback: ''
+  - image: /assets/uploads/PWLS.jfif
+    fallback: ''
+  - image: /assets/uploads/Muga silk cocoon reeling @ Sualkuchi.jpg
+    fallback: ''
+  - image: /assets/uploads/One Horned Rhino PWLS.jpg
+    fallback: ''
+goodtoknow: ''
 ---
