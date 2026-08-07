@@ -26,6 +26,8 @@ A second paragraph lets a reader who has never been to Ladakh feel the shape of 
 
 Use sub-headings to break the journey into stages. Each one can carry the reader to a new place — a monastery, a high lake, a night in a homestay — without the piece ever feeling like a list. Here is where Swale’s own voice does the most work, so quote him directly where you can.
 
+![](/assets/uploads/image%20%281%29.png)
+
 > “You stop the engine at the top of the pass and the silence arrives a second later, like it had to catch up with you.”
 
 After a pull quote, return to the narrative. A short paragraph here keeps the rhythm — a detail of food, a face, a small kindness on the road — before the next image carries us onward.
@@ -33,6 +35,8 @@ After a pull quote, return to the narrative. A short paragraph here keeps the rh
 ## Arrival, and the quiet after
 
 Bring the piece to its close with the feeling of arrival: the monastery at altitude, the butter lamps, the long light at the end of the day. A travelogue earns its ending by slowing down — let the last few lines breathe.
+
+![](/assets/uploads/image%201.png)
 
 Finish with a sentence that hands the reader back to themselves — an invitation to imagine standing exactly here. Then let the mark below close the story.
 
