@@ -61,7 +61,7 @@ days:
 
       Kohima, the hill capital of Nagaland, stands as one of India’s most significant cultural and historical hubs at an elevation of 1,444.12 meters. Renowned for its pleasant mountain climate and offering panoramic views of the rugged Naga Hills, it’s the home to the Angami Naga tribe – one of the major tribes of Nagaland, well known for their terraced wet rice cultivation. Kohima was the key site of one of the fiercest battles of the World War II, commemorated at the poignant Kohima War Cemetery. It also hosts the vibrant Hornbill Festival celebrating the culture, traditions and heritage of all 16 Naga ethnic groups.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Imphal War Cemetery 1.jpg
   - label: Day 7
     title: Hornbill festival
     body: The Hornbill Festival takes place in the small village of Kisama where various Naga groups come for a cultural, dancing and sporting week dressed in warrior costumes. As most of the region is dependent on agriculture, all their festivals are based around this aspect. Experience the sights and sounds of Naga culture and tribes in colorful and distinct costumes. Whole day will be spent at festival ground exploring their rich heritage, cuisines, local alcoholic brews, traditional sports and handloom and handicraft shops. Different troops will be performing their indigenous dance forms in the arena.
