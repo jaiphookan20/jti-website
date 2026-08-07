@@ -114,15 +114,15 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
+  - image: /assets/uploads/image-2.png
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Nohkalikai_Falls.jpg?width=1600
-  - image: ''
+  - image: /assets/uploads/Jeep safari @ Kaziranga NP (1).jpg
     fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
+  - image: /assets/uploads/Elephant sighting @ Kaziranga NP.jpg
     fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
+  - image: /assets/uploads/One Horned Rhino PWLS.jpg
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
+  - image: /assets/uploads/kamakhya-temple-guwahati-dispur-assam-2-musthead-hero.jpeg
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
 goodtoknow: |-
   - Best Travel Season: October to April offers pleasant weather, clear skies, and excellent conditions for wildlife viewing and sightseeing.
