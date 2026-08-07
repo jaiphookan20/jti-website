@@ -61,7 +61,7 @@ days:
 
       Kohima, the hill capital of Nagaland, stands as one of India’s most significant cultural and historical hubs at an elevation of 1,444.12 meters. Renowned for its pleasant mountain climate and offering panoramic views of the rugged Naga Hills, it’s the home to the Angami Naga tribe – one of the major tribes of Nagaland, well known for their terraced wet rice cultivation. Kohima was the key site of one of the fiercest battles of the World War II, commemorated at the poignant Kohima War Cemetery. It also hosts the vibrant Hornbill Festival celebrating the culture, traditions and heritage of all 16 Naga ethnic groups.
     stay: ''
-    photo: /assets/uploads/Imphal War Cemetery 2.jpg
+    photo: ''
   - label: Day 7
     title: Hornbill festival
     body: The Hornbill Festival takes place in the small village of Kisama where various Naga groups come for a cultural, dancing and sporting week dressed in warrior costumes. As most of the region is dependent on agriculture, all their festivals are based around this aspect. Experience the sights and sounds of Naga culture and tribes in colorful and distinct costumes. Whole day will be spent at festival ground exploring their rich heritage, cuisines, local alcoholic brews, traditional sports and handloom and handicraft shops. Different troops will be performing their indigenous dance forms in the arena.
@@ -93,34 +93,18 @@ days:
     photo: /assets/uploads/Jeep Safari in Kaziranga NP, Kohara.jpg
   - label: Day 11
     title: Kaziranga National Park – Guwahati airport (220 km / 4 ½ hrs. approx.)
-    body: |-
-      After breakfast, you will be transferred to Guwahati airport to catch the flight for onward journey.
-
-      TOUR ENDS
-
-      Kindly ensure that you have all the necessary permits and documents required for entering the state of Nagaland & Manipur.
-
-      ENTRY FORMALITIES FOR NAGALAND FOR FOREIGN NATIONALS:
-      All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Nagaland. The following documents are required for the permit and we need at least 10 – 14 working days to process the same after we receive these documents:
-
-      1) Photocopy of valid Passport & e-Visa.
-      2) Stamped visa by Indian Immigration upon arrival at any international airport in India.
-      3) Recent Passport-size photographs.
-      4) Duly filled the PAP application form with signature (provided by us).
-      5) International flight tickets (arrival and departure to India).
-
-      ENTRY FORMALITIES FOR MANIPUR FOR FOREIGN NATIONALS:
-      As per the regulations of MHA (Ministry of Home Affairs), all foreign tourists required to obtain PAP (Protected Area Permit) to visit the state of Manipur. The following documents are required to apply for the permit and we need approx. 5 working days to process the same after we receive these documents:
-
-      1) Photocopy of valid Passport & e-Visa.
-      2) Stamped visa by Indian Immigration upon arrival at any international airport in India.
-      3) Recent Passport-size photographs.
-      4) Duly filled the PAP application form with signature (provided by us).
-      5) International flight tickets (arrival and departure to India).
+    body: After breakfast, you will be transferred to Guwahati airport to catch the flight for onward journey.
     stay: ''
     photo: /assets/uploads/Kohima War Cemetery 1.jpg
-wildlife: []
-birds: []
+wildlife:
+  - One-Horned Rhinoceros
+  - Hog Deer
+  - Swamp Deer
+  - Wild Water Buffaloes
+birds:
+  - Black Drongo
+  - Open Billed Stork
+  - Oriental Darter
 glance:
   - key: Duration
     value: 10 nights /11 days
@@ -130,15 +114,13 @@ glance:
     value: Nov – Dec
   - key: Style
     value: Private & tailor-made
-gallery:
-  - image: ''
-    fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Loktak_Lake.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+gallery: []
+goodtoknow: |-
+  As per the regulations of MHA (Ministry of Home Affairs), all foreign tourists required to obtain PAP (Protected Area Permit) to visit the state of Nagaland & Manipur. The following documents are required to apply for the permit and we need approx. 6 – 7 working days to process the same after we receive these documents:
+
+  1) Photocopy of valid Passport & e-Visa.
+  2) Stamped visa by Indian Immigration upon arrival at any international airport in India.
+  3) Recent Passport-size photographs.
+  4) Duly filled the PAP application form with signature (provided by us).
+  5) International flight tickets (arrival and departure to India).
 ---
