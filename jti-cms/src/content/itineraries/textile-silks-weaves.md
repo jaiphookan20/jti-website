@@ -71,8 +71,14 @@ days:
     body: Tour ends. INFORMATION - Safaris are subject to availability and permission granted by forest dept. - Tea plantations are closed on Sunday and Mondays and during winter season. - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment and if rooms are unavailable in the original hotels, we shall provide equivalent/ alternative hotels. - Please note that sightseeing / itinerary may change due to time limit, weather, national holidays, and special or unforeseen events. We maintain the rights to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - Road conditions are unpredictable in this region and could be under repair and not having an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on ground. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway for visiting villages, markets, photography, major landmarks of importance or interest depending on the client’s interest. - All foreigners travelling to India are hereby informed that international mobile phone number does not work in the Northeast region and it is illegal to use satellite phones, drones or similar types of devices in India. Custom authorities in India may seize such devices and legal action may be taken against the passenger concerned. - Clients must be fully insured to cover the costs of medical emergencies / evacuation / treatment / medicine, expenses incurred by any amendment of tour itinerary (addition or reduction of number of days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.
     stay: ''
     photo: ''
-wildlife: []
-birds: []
+wildlife:
+  - Asiatic Wild Water Buffalo
+  - Asiatic Wild Elephant
+  - One Horned Rhinoceros
+birds:
+  - Crested Serpent Eagle
+  - Black Drongo
+  - White throated King Fisher
 glance:
   - key: Duration
     value: 8 Nights / 9 Days
