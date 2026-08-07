@@ -98,7 +98,12 @@ wildlife:
   - Indian One-horned Rhinoceros
   - Asian Elephant
   - Wild Water Buffalo
-birds: []
+birds:
+  - Little Egret
+  - Oriental Darter
+  - Little Cormorant
+  - Indian Roller
+  - Lesser Whistling Duck
 glance:
   - key: Duration
     value: 07 Nights / 08 Days
