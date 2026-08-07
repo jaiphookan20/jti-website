@@ -94,7 +94,10 @@ days:
       TOUR ENDS
     stay: ''
     photo: /assets/uploads/Umiam Lake.png
-wildlife: []
+wildlife:
+  - Indian One-horned Rhinoceros
+  - Asian Elephant
+  - Wild Water Buffalo
 birds: []
 glance:
   - key: Duration
