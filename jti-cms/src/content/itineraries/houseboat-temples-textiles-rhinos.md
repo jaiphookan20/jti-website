@@ -72,5 +72,13 @@ gallery:
     fallback: ''
   - image: /assets/uploads/One Horned Rhino PWLS.jpg
     fallback: ''
-goodtoknow: ''
+goodtoknow: |-
+  -Slow Travel at its Best – Cruise the mighty Brahmaputra at a leisurely pace, discovering Assam's culture, wildlife, and riverside life from a unique perspective.
+  -One of the World's Smallest Inhabited River Islands – Visit Umananda (Peacock Island), home to an ancient Shiva temple and playful Golden Langurs.
+  -The Silk Capital of Assam – Sualkuchi is renowned for handwoven Muga, Eri, and Pat silk, with weaving traditions passed down through generations.
+  -Rhino Country – Pobitora Wildlife Sanctuary boasts one of the highest densities of the endangered Greater One-horned Rhinoceros in the world.
+  -Life Along the Brahmaputra – Experience authentic Assamese village life through guided walks and cycling excursions along the riverbanks.
+  -A Floating Boutique Stay – The handcrafted wooden houseboat blends traditional Assamese craftsmanship with modern comforts for an intimate river journey.
+  -Wildlife Beyond Rhinos – Keep an eye out for Gangetic river dolphins, migratory birds, and rich riverine biodiversity during your cruise.
+  -A Journey Through Assam's Heritage – This short cruise combines ancient temples, living textile traditions, and iconic wildlife into one memorable experience
 ---
