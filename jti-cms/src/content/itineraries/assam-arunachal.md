@@ -31,7 +31,7 @@ days:
     title: Delhi / Kolkata – Dibrugarh – Tinsukia
     body: Arrive at Dibrugarh airport and transfer to Tinsukia.
     stay: Tinsukia
-    photo: /assets/uploads/Napukhri park.webp
+    photo: ''
   - label: Day 2
     title: Tinsukia – Roing
     body: With a packed breakfast, board a ferry across the mighty Brahmaputra, then drive to Roing at the foot of the Mishmi Hills — an unexplored birding area.
@@ -66,7 +66,7 @@ days:
     title: Tinsukia – Kaziranga
     body: Drive to Kaziranga and explore its different ranges on jeep and elephant safaris, with tea gardens and villages between drives.
     stay: Lodge, Kaziranga
-    photo: /assets/uploads/rhino_grassland_HD.jpg
+    photo: /assets/uploads/OHR.jfif
   - label: Days 13–14
     title: Kaziranga – Nameri
     body: Drive to Nameri; birding on foot in the forest, with the option to raft the Jia-Bhorelli for waterside birds.
@@ -76,7 +76,7 @@ days:
     title: Nameri – Guwahati
     body: Transfer to Guwahati, with a final birding stop at Deepor Beel Wildlife Sanctuary en route to the airport.
     stay: ''
-    photo: /assets/uploads/Dipor Beel1.jfif
+    photo: ''
 wildlife:
   - One-horned Rhinoceros
   - Royal Bengal Tiger
