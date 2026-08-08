@@ -109,7 +109,10 @@ days:
     body: 'After breakfast you will be transferred to the Dibrugarh Airport for your onward journey. TOUR ENDS Notes: - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment. The category of rooms may differ depending upon the availability at the time of booking. If rooms are unavailable in the original hotels mentioned above, we shall provide equivalent/ alternative hotels. The forest entry fee is based on the current levied price only and might change if there is any hike made by the forest department. - Elephant ride is subject to availability and permission granted by the forest department. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - In Assam, the roads are also in good condition and are in the plains. However, like any other rural area of India, roads that you will drive through are bound to have potholes once in a while. - In Nagaland you will drive through hilly areas. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt road between villages. - The places of Nagaland mentioned in the itinerary are some of the least visited areas compared to other tourist destinations of the country, and as such, the choices of facilities are very limited. We always suggest the best available hotels/guest houses that provide relatively good services in the area. However, some of the properties are basic in nature with limited amenities. We will use the best available property. - Do note that, most of the Hotels in Nagaland do not have laundry service and you may also experience sudden power cuts due to which hot running water may not be available sometimes. However, hot water will be provided in a bucket on request. - Meals served will be mostly of Indian cuisine like rice, chapattis, curries, etc. The breakfast and dinners will mostly be at the hotels. The lunches may occur in outside restaurants or local eateries as you will be out for sightseeing. However, few lunch may be organized at the hotels. We will try to provide you hot meals while on drive but according the timing and situation, sometimes packed lunch would be served. Your accompanying escort will take care of this after discussing with you on the previous evening of travel. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway to visit villages, markets, photography, and major landmarks of importance or interest depending on the client’s interest. - All Foreign Nationals travelling to India are hereby informed that international mobile phone number does not work in the Northeast region and it is illegal to use satellite phones/ drones or similar devices in India. Custom authorities in India may seize such devices and legal action may be taken against the passenger concerned. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of several days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
     stay: ''
     photo: ''
-wildlife: []
+wildlife:
+  - Tiger
+  - Sambar Deer
+  - Asiatic Wild Elephant
 birds: []
 glance:
   - key: Duration
@@ -121,14 +124,15 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
+  - image: /assets/uploads/KNP Tiger.jpg
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Hornbill_Festival.jpg?width=1600
-  - image: ''
+  - image: /assets/uploads/Sambar Deer.jfif
     fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
+  - image: /assets/uploads/Konyak Headhunter 3.jpg
     fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
+  - image: /assets/uploads/konyak men, hornbill.JPG
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/Konyak Tribe in Hornbill Festival.jpg
+    fallback: ''
+goodtoknow: ''
 ---
