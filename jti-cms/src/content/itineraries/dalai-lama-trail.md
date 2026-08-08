@@ -53,7 +53,7 @@ days:
     title: Dirang – Tawang (140 km/ 4 hrs, approx.)
     body: After breakfast Proceed to Tawang via Sela Pass (13,700 ft.), one of the highest motorable passes, and Sela Lake. On the way, visit the Jaswant Garh War Memorial, honoring Jaswant Singh’s bravery in the 1962 Indo-China war. Check into your hotel upon arrival. Overnight
     stay: ''
-    photo: /assets/uploads/sela road.jpg
+    photo: /assets/uploads/Tawang.png
   - label: Day 6
     title: Tawang
     body: After breakfast visit Tawang Monastery, the second largest monastery in Asia. The Monastery has a residential building for the monks, a library, a museum and a school. Later visit Ani Gompa, which is exclusively run by female monks. Return to hotel. Evening you can take a walk along the Tawang market. Return to hotel. Overnight.
@@ -63,7 +63,7 @@ days:
     title: Tawang – Mandala Top (170 km/ 5 hrs, approx.)
     body: After breakfast, transfer to Mandala Top with a stop at Nuranang Waterfall (Jang Waterfall). Located at around 6,000 feet, the waterfall plunges 328 feet and is surrounded by lush forests, offering a peaceful retreat. It is named after Nura, a Monpa woman who aided an Indian soldier during the 1962 Indo-China war. Check in at the hotel upon arrival and take a walk around the property. Overnight. Mandala Top, in west Kameng District of Arunachal Pradesh, offers breathtaking views of the Eastern Himalayas. The area features lush meadows, dense forests, and diverse flora and fauna, and remains remote and untouched.
     stay: ''
-    photo: /assets/uploads/Tawang Monastery1.jpg
+    photo: /assets/uploads/Tawang1.png
   - label: Day 8
     title: Mandala Top
     body: Embark on an early morning trek to Mandala Top for a sunrise view of snow-capped mountains and a visit to the 108 Buddhist Stupa. Later, explore nearby villages to experience local life before returning. Overnight.
@@ -88,7 +88,7 @@ days:
     title: Kaziranga National Park – Jorhat (100 km/ 2.5 hrs, approx.)
     body: After breakfast, transfer to Jorhat. En route, visit the Kaziranga Orchid & Biodiversity Park, which features various orchid species from Northeast India, a rice museum, a medicinal plant garden, and a space for folk-cultural practices. Check in at the hotel upon arrival. Overnight.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Orchid park.png
   - label: Day 13
     title: ''
     body: 'Jorhat – Day trip to Majuli Island (45 mins. drive + 1 hr. ferry, approx.) After breakfast, head to Majuli Island according to the ferry schedule. Visit the Uttar Kamalabari Satra (Vaishnavite monastery) where you can interact with the monks and spend some time with them to know more about the ancient traditions. The resident monks shall perform a traditional dance performance known as ‘Gayan Bayan’ accompanied by drummers, cymbals etc. Visit the Auniati Satra, founded in the middle of the 17th century and the first one that was patronized by the Ahom kings. The satra also has an in-house museum that has a collection of well-preserved ancient manuscripts and artifacts dating back to the period of the Ahom dynasty and related to neo-Vaishnavism. Proceed to visit Samaguri Satra (Vaishnavite Monastery) known for its ancient mask making tradition, which they wear during performing ‘Bhaona’ – a traditional form of dance drama, based on various Hindu mythological stories with a religious message. Time permitting, take a stroll in a nearby village inhabited by Mishing tribe to experience the lifestyle of the villagers to learn more about their unique ways of life. Later, take a ferry back to Jorhat. Overnight. Note: - To and Fro Majuli Island, Govt. Maintained shared/commercial ferries operate at definitive timings. - Kindly be aware that the villagers are engaged in their daily lives and sometimes some visits may differ based on that. The villagers may not be seen in their traditional dresses which are normally worn on special occasions only.'
@@ -109,7 +109,12 @@ days:
     body: 'After breakfast transfer to Dimapur airport for your onward journey. Tour Ends ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS: All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 in a group to apply for PAP. Less than 2 persons can apply if the total fees of 2 persons are paid by the client. The following documents are required for the permit and we need at least 10 – 15 working days to process the same after we receive these documents: 1) Photocopy of valid Passport & VISA. 2) Recent Passport-size photographs. 3) Duly filled the PAP application form (provided by us). 4) International flight tickets (arrival and departure to India). ** Scanned copies of the above documents will also suffice. Notes: - This itinerary is only an offer not a confirmation of services; we shall proceed with your booking once we have received confirmation from you. And if rooms are unavailable in the original hotels, we shall provide equivalent/ alternative hotels. - The category of rooms may differ depending upon the availability at the time of booking. - Most of the Hotels in Arunachal Pradesh do not have laundry service and you may also experience sudden power cuts due to which hot running water may not be available sometimes. However, hot water will be provided in a bucket on request. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - In Arunachal Pradesh, you will drive through hilly areas. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special & unforeseen events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of number of days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
     stay: ''
     photo: /assets/uploads/kachari ruins, dimapur.JPG
-wildlife: []
+wildlife:
+  - One Horned Rhinoceros
+  - Asiatic Wild Elephant
+  - Wild Water Buffalo
+  - Sambar Deer
+  - Swamp Deer
 birds: []
 glance:
   - key: Duration
@@ -121,14 +126,19 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
-    fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Tawang_Monastery.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/Majuli4.jfif
+    fallback: ''
+  - image: /assets/uploads/pexels-kaustav-chetia-2162502686-38267708.jpg
+    fallback: ''
+  - image: /assets/uploads/Tawang.png
+    fallback: ''
+  - image: /assets/uploads/TM.png
+    fallback: ''
+  - image: /assets/uploads/Tawang1.png
+    fallback: ''
+goodtoknow: |-
+  Follow the Dalai Lama’s journey through Dharamshala, Tibetan culture, monasteries, mountains and moments of quiet reflection.
+  The trail blends Himalayan landscapes, Tibetan Buddhism, monasteries, vibrant markets and encounters with local communities.
+  Respectful dress and quiet behaviour are appreciated when visiting monasteries, temples and Tibetan institutions.
+  Mountain weather can change quickly—carry layers and comfortable footwear for walks around McLeod Ganj.
 ---
