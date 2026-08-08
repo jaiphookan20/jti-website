@@ -134,5 +134,10 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: /assets/uploads/Konyak Tribe in Hornbill Festival.jpg
     fallback: ''
-goodtoknow: ''
+goodtoknow: |-
+  -Experience Nagaland’s vibrant tribal cultures before heading to Kaziranga, home to the world’s largest population of one-horned rhinos.
+  -Meet Nagaland’s diverse tribes and explore Kaziranga’s forests, grasslands and wetlands in search of tigers and rhinos.
+  -From Naga villages and traditions to Kaziranga’s wildlife—experience two of Northeast India’s greatest cultural and natural treasures.
+  -Kaziranga is famed for rhinos, but its forests also shelter tigers, elephants, wild buffalo, swamp deer and rich birdlife.
+  -Respect local customs when visiting Naga villages, and maintain silence and distance during wildlife safaris in Kaziranga.
 ---
