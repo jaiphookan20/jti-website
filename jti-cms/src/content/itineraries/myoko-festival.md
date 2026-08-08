@@ -4,7 +4,7 @@ slug: myoko-festival
 category: culture
 kicker: Culture · Arunachal Pradesh
 description: The Apatani Myoko festival in the Ziro valley, with Majuli's dancing monks and the rhinos of Kaziranga.
-hero_image: /assets/uploads/myoko_festival_ziro_HD.jpg
+hero_image: /assets/uploads/Apatani Women 1-1.jpg
 hero_fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Ziro_valley.jpg?width=1600
 lead: The Apatani Myoko festival in the Ziro valley, with Majuli's dancing monks and the rhinos of Kaziranga.
 intro: Deep in Arunachal, the Apatani welcome the Myoko — a festival of friendship and fertility — framed by river islands and wildlife.
@@ -12,7 +12,7 @@ facts:
   - value: '10'
     label: Days
   - value: Arunachal Pradesh
-    label: Festival
+    label: Culture
   - value: March
     label: Best
   - value: Private
@@ -28,52 +28,72 @@ route:
 days:
   - label: Day 1
     title: Guwahati – Kaziranga National Park (220 km/5 hrs, approx.)
-    body: Arrival at Guwahati airport. On arrival meet & assist by JTi representative and start your journey to Kaziranga National Park. On arrival, check in at the hotel. Time permitting go and visit Kaziranga Orchid & Bio Diversity Park. It has an Orchidarium where you can witness varieties of orchids and other plant species with medicinal value. This park also has an in-house museum displaying art, handicraft items and local musical instruments that represent the culture and heritage of the region. There is also a cultural arena that hosts dance performances of different ethnic communities of Assam. Return to the hotel and Overnight. Applauded for its greater One-horned Rhinoceros conservation efforts, Kaziranga National Park is located in the Golaghat and Nagaon districts of Assam. The popular national park is also a UNESCO World Heritage Site and houses two-thirds of the total world population of the greater One-horned Rhinoceros. Bordered by the Brahmaputra River to the north and the Karbi (Mikir) Hills to the south, Kaziranga National Park sprawls in a total area of 1,090 sq. km, having a core area of 430 sq. km. Apart from the One-horned Rhinoceros, it also boasts a high density of Tigers and a large breeding ground for Elephants, Swamp Deer and Wild Water Buffaloes. The national park is also recognized as an Important Bird Area (IBA) making it not only an ideal wildlife sighting destination in India but a birdwatcher’s paradise as well.
+    body: |-
+      Arrival at Guwahati airport. On arrival meet & assist by JTI representative and start your journey to Kaziranga National Park. On arrival, check in at the hotel. Time permitting go and visit Kaziranga Orchid & Bio Diversity Park. It has an Orchidarium where you can witness varieties of orchids and other plant species with medicinal value. This park also has an in-house museum displaying art, handicraft items and local musical instruments that represent the culture and heritage of the region. There is also a cultural arena that hosts dance performances of different ethnic communities of Assam. Return to the hotel and Overnight.
+
+      A UNESCO World Heritage Site, Kaziranga National Park is home to approximately 80% of the world's Indian One-Horned Rhinoceros population. In addition to the rhinoceros, the park boasts a high density of tigers and serves as a major breeding ground for elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it both a premier wildlife destination and a paradise for birdwatchers.
     stay: ''
-    photo: /assets/uploads/OHR.jfif
+    photo: /assets/uploads/Elephants @ Kaziranga NP-1.jpg
   - label: Day 2
     title: Kaziranga National Park
-    body: 'Today, AM & PM jeep safari inside the park. Overnight. Note: This is for your information that Elephant Ride in Kaziranga National Park is regulated and controlled by the forest dept. Govt. of Assam. As such we do not have any control for booking of elephant rides in advance. Every evening the Forest Department open the counter to distribute ticket for the next day early morning elephant ride. If you want, we shall try and assist in availing the tickets and permits on a direct payment basis.'
+    body: |-
+      After breakfast, you will drive to the safari range in an open jeep. Return to the lodge/hotel for lunch. In the afternoon, you will head out for another jeep safari in a different range of the park. Back to the lodge/hotel by dusk. Dinner and overnight stay.
+
+      Note: Elephant safari is subject to availability and permission from the Forest Department, Govt. of Assam. Should you wish to experience the same, we would be pleased to assist in arranging the necessary permits and tickets on a direct payment basis.
     stay: ''
-    photo: /assets/uploads/Jeep safari @ Kaziranga NP (1).jpg
+    photo: /assets/uploads/Jeep safari @ KNP.jpg
   - label: Day 3
-    title: ''
-    body: 'Kaziranga National Park – Majuli Island (120 km/3hrs, drive + 1 hr ferry, approx.) Today morning with respective ferry timing, start moving towards the Majuli Island. Upon reaching there, check-in at your hotel. You will be visiting the Kamalabari Satra and enjoy a monastic dance performance by the monks of the satras. The great 15th-century Assamese reformer and saint, Sankardeva had set up ‘Satras’ or Vaishnavite monasteries to make the people motivated towards culture and religion. Also visit Samaguri Satra (Vaishnavite Monastery) known for its ancient mask making tradition, which they wear during performing ‘Bhaona’ – a traditional form of dance drama, based on various Hindu mythological stories with a religious message. You will have time to interact with the monks so that you gain a thorough knowledge of how they are preserving age-old tradition and imparting it to the new generation. Return to your hotel and overnight. Majuli Island is the largest inhabited river island in the world and is a microcosm of Assamese culture. Majuli represents the rural idyll in Assam. A stronghold of the peaceful religion of neo-Vaishnavism, this elegant island is a home of several ‘Satras’ (Vaishnavite Monasteries). The great 15th-century Assamese reformer and saint, Sankardeva had set up these ‘Satras’ to make the people motivated towards culture and religion. This satras showcase a unique way of life where the faithful live simply, offering worship through gayan-bayan (songs and musical instruments) and readings. Note: - To and Fro Majuli Island, Govt. Maintained shared/commercial ferries operate at definitive timings. - Kindly be aware that the villagers are engaged in their daily lives and sometimes some visits may differ based on that. The villagers may not be seen in their traditional dresses which are normally worn on special occasions only.'
+    title: Kaziranga National Park – Majuli Island (120 km/3hrs drive + 1 hr ferry, approx.)
+    body: |-
+      Today morning with respective ferry timing, start moving towards the Majuli Island. Upon reaching there, check-in at your hotel. You will be visit the Uttar Kamalabari Satra (Vaishnavite monastery) where you can interact with the monks and spend some time with them to know more about the ancient traditions. The resident monks shall perform a traditional dance performance known as ‘Gayan Bayan’ accompanied by drummers, cymbals etc. 
+
+      Then visit the Auniati Satra, founded in the middle of the 17th century and the first one that was patronized by the Ahom kings. The satra also has an in-house museum that has a collection of well-preserved ancient manuscripts and artifacts dating back to the period of the Ahom dynasty and related to neo-Vaishnavism.
+
+      Also go to the Samaguri Satra (Vaishnavite Monastery) known for its ancient mask making tradition, which they wear during performing ‘Bhaona’ – a traditional form of dance drama, based on various Hindu mythological stories with a religious message. If willing and interested, take a stroll in a nearby village inhabited by Mishing tribe to experience the lifestyle of the villagers to learn more about their unique ways of life.. Return to the hotel by dusk and overnight.
+
+      Majuli Island is the largest inhabited river island in the world and is a microcosm of Assamese culture. Majuli represents the rural idyll in Assam. A stronghold of the peaceful religion of neo-Vaishnavism, this elegant island is a home of several ‘Satras’ (Vaishnavite Monasteries). The great 15th-century Assamese reformer and saint, Sankardeva had set up these ‘Satras’ to make the people motivated towards culture and religion. This satras showcase a unique way of life where the faithful live simply, offering worship through gayan-bayan (songs and musical instruments) and readings.
+
+      Note:
+      - To and Fro Majuli Island, Govt. Maintained shared/commercial ferries operate at definitive timings.
+      - Kindly be aware that the villagers are engaged in their daily lives and sometimes some visits may differ based on that. The villagers may not be seen in their traditional dresses which are normally worn on special occasions only.
     stay: ''
-    photo: /assets/uploads/Majuli4.jfif
+    photo: /assets/uploads/Cultural performance @ Uttar Kamalabari Satra.jpg
   - label: Day 4
     title: Majuli Island – Ziro (150 km/6 hrs, approx.)
-    body: Today after breakfast, with respective ferry timings, we will leave for Ziro in Arunachal Pradesh. On arrival check-in at the hotel. Evening at leisure. Overnight. Ziro is home to the Apatani tribe and it is located in an extremely picturesque valley called Apatani Plateau surrounded by pine-covered mountains. The Apatani tribes themselves are Ziro’s greatest attraction. The older men-folk tie the hair in top-knots and tattoo the faces. Apatani women wear wooden nose plugs and tattooed their faces. However, new generation of Apatani men and women have stopped this practice of tying hair knot, nose plugs and face tattooing since early 1970s. The Apatani are good cultivators and practice both wet and terrace cultivation. Paddy cum fish culture is very popular among them.
+    body: |-
+      Today after breakfast, with respective ferry timings, we will leave for Ziro in Arunachal Pradesh. On arrival check-in at the hotel. Evening at leisure. Overnight.
+
+      Ziro is home to the Apatani tribe and it is located in an extremely picturesque valley called Apatani Plateau surrounded by pine-covered mountains. The Apatani tribes themselves are Ziro’s greatest attraction. The older men-folk tie the hair in top-knots and tattoo the faces. Apatani women wear wooden nose plugs and tattooed their faces. However, new generation of Apatani men and women have stopped this practice of tying hair knot, nose plugs and face tattooing since early 1970s. The Apatani are good cultivators and practice both wet and terrace cultivation. Paddy cum fish culture is very popular among them.
     stay: ''
-    photo: /assets/uploads/Apatani elders of Ziro.JPG
+    photo: ''
   - label: Day 5
     title: Ziro
     body: Today we will be engaging ourselves in the festivities of the Myoko Festival. ‘Mioko’ or ‘Myoko’, which is generally celebrated in the month of March, is one of the main festivals of the Apatani community of Arunachal Pradesh. In order to celebrate it all the villages in the Apatani plateau are divided into three major groups namely a) Hong, b) Hari, Reru, Tajang, Kalong, and c) Hija, Mudang-Tage, Duta, Michi Bamin. Unlike the other festivals of Apatanis, ‘Myoko’ is performed by each village only once in three years. One of these three groups celebrate and hosts the festival in a particular year whereas the other two groups join the celebration of the host group. Preparation for the ‘Myoko’ festivals begins much earlier with the hunting of bi-ding (monkey). The most important ritual of the festival is the sacrifices of the pigs which lasts for two days.
     stay: ''
-    photo: /assets/uploads/Myoko priest.jfif
+    photo: ''
   - label: Day 6
     title: Ziro – Aalo (310 km/7.5 hrs, approx.)
     body: After breakfast, start your drive towards Aalo. We shall take comfort breaks on our way. On arrival, check in at your hotel. Overnight. Aalo or Along is the headquarter of West Siang district of Arunachal Pradesh, located at an altitude of 300 m from the sea level. Sitting amidst abundant natural resources surroundings with impenetrable forests, wide rivers, deep gorges, beautiful villages and plantation, this small town provides a blissful ambience to the visitors. Aalo is mainly inhabited by the Adi tribes – meaning “hill man” or “man of hill”, is one of the largest tribes of Arunachal Pradesh and a very prosperous one. They still prefer to live in traditional broad huge houses made of bamboo, cane and wood and are known for their unique architecture and designs. The religion of the Adi is centered on Donyi-Polo – the Sun-Moon God, who is regarded as the eye of the world. They believe in the world of spirits and perform ceremonies to appease malignant ones to ward off the evil.
     stay: ''
-    photo: /assets/uploads/aalo_AP_HD.jpg
+    photo: ''
   - label: Day 7
     title: Aalo
     body: After breakfast, you will explore the villages of Adi – Galo tribe in and around Aalo. Here you will meet the unique tribal people, visit local markets and get a more depth exposure to their culture and traditions. The Adi – Galo by nature are democratic and have an organised village council called “Kebang”. Adi villages are situated generally on the spurs of hills. Adi women are very good weavers and weave cloth with highly artistic designs. You can also have a walk near the bank of the Siyom river that has a picturesque view with lofty hills and visit another village scattered on the other side of the river. Return to the hotel by dusk and overnight.
     stay: ''
-    photo: /assets/uploads/adi_village_aalo_HD.jpg
+    photo: ''
   - label: Day 8
     title: Aalo – Dibrugarh (200 km/5 hrs. approx.)
     body: After breakfast you will begin your drive back to the plains of Assam, towards the city of Dibrugarh. On arrival check-in at the hotel. Evening at leisure. Overnight.
     stay: ''
-    photo: /assets/uploads/Dibrugarh_HD.jpg
+    photo: ''
   - label: Day 9
-    title: ''
-    body: Dibrugarh – Day trip to Namphake Village, Bordubi & Digboi (120 km/ 4 hrs. – one way, approx.) After breakfast drive to the Namphake village, a quaint village located on the bank of Buri Dehing River and home of the Tai Phakey community of North East India. A branch of the great Tai race, the Tai Phakeys entered Assam in the latter half of the 18th century. We shall also visit the Buddha Monastery and interact with monks. Later, walk around the village, see and experience the lifestyle of villagers to learn more about the Tai Phakey and their unique ways of life. Later continue your drive to Digboi town and visit the Oil Museum and War Cemetery of World War II. Drive back to Dibrugarh by dusk. Dinner & overnight.
+    title: Dibrugarh – Day trip to Namphake Village, Bordubi & Digboi (120 km/ 4 hrs. – one way, approx.)
+    body: After breakfast drive to the Namphake village, a quaint village located on the bank of Buri Dehing River and home of the Tai Phakey community of North East India. A branch of the great Tai race, the Tai Phakeys entered Assam in the latter half of the 18th century. We shall also visit the Buddha Monastery and interact with monks. Later, walk around the village, see and experience the lifestyle of villagers to learn more about the Tai Phakey and their unique ways of life. Later continue your drive to Digboi town and visit the Oil Museum and War Cemetery of World War II. Drive back to Dibrugarh by dusk. Dinner & overnight.
     stay: ''
     photo: ''
   - label: Day 10
-    title: ''
-    body: 'Departure from Dibrugarh airport                                                                                                      B After breakfast, you will be transferred to Dibrugarh airport for your onward journey. TOUR ENDS ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS: All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 in a group to apply for PAP. Less than 2 persons can apply if the total fees of 2 persons are paid by the client. The following documents are required for the permit and we need at least 10 – 15 working days to process the same after we receive these documents: 1) Photocopy of valid Passport & VISA. 2) Recent Passport-size photographs. 3) Duly filled the PAP application form (provided by us). 4) International flight tickets (arrival and departure to India). ** Scanned copies of the above documents will also suffice. Notes: - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment. The category of rooms may differ depending upon the availability at the time of booking. If rooms are unavailable in the original hotels mentioned above, we shall provide equivalent/ alternative hotels. The forest entry fee is based on the current levied price only and might change if there is any hike made by the forest department. - Elephant ride is subject to availability and permission granted by the forest department. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - In Assam, the roads are also in good condition and are in the plains. However, like any other rural area of India, roads that you will drive through are bound to have potholes once in a while. - In Arunachal Pradesh you will drive through hilly areas. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt road between villages. - The places of Arunachal Pradesh mentioned in the itinerary are some of the least visited areas compared to other tourist destinations of the country, and as such, the choices of facilities are very limited. We always suggest the best available hotels/guest houses that provide relatively good services in the area. However, some of the properties are basic in nature with limited amenities. We will use the best available property. - Do note that, most of the Hotels in Arunachal Pradesh do not have laundry service and you may also experience sudden power cuts due to which hot running water may not be available sometimes. However, hot water will be provided in a bucket on request. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway to visit villages, markets, photography, and major landmarks of importance or interest depending on the client’s interest. - All Foreign Nationals travelling to India are hereby informed that international mobile phone number does not work in the Northeast region and it is illegal to use satellite phones/ drones or similar devices in India. Custom authorities in India may seize such devices and legal action may be taken against the passenger concerned. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of several days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
+    title: Departure from Dibrugarh airport
+    body: After breakfast, you will be transferred to Dibrugarh airport for your onward journey.
     stay: ''
     photo: ''
 wildlife:
@@ -90,15 +110,7 @@ glance:
     value: March
   - key: Style
     value: Private & tailor-made
-gallery:
-  - image: /assets/uploads/Apatani Women 1.jpg
-    fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Ziro_valley.jpg?width=1600
-  - image: /assets/uploads/adi_village_aalo_HD.jpg
-    fallback: ''
-  - image: /assets/uploads/Apatani elders of Ziro.JPG
-    fallback: ''
-  - image: /assets/uploads/image.png
-    fallback: ''
+gallery: []
 goodtoknow: |-
   -Myoko is the Apatani tribe's festival of friendship, celebrated in Ziro Valley with rituals, feasts, and community bonding.
   -Held every spring in Ziro, Myoko celebrates friendship, prosperity, and the rich traditions of the Apatani community.
