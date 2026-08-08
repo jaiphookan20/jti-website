@@ -119,10 +119,11 @@ goodtoknow: |-
   -More than a festival, Myoko is a celebration of friendship, culture, and community among Arunachal's Apatani people.
 
   ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS:
-  As per the regulations of Ministry of Home Affairs, Government of India, all foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 persons in a group to apply for PAP. A solo traveller can obtain the permit by paying the total fee for two persons. The following documents are required to apply for the permit and we need approx. 10 – 14 working days to process the same after we receive these documents:
+  As per the regulations of Ministry of Home Affairs, Government of India, all foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 persons in a group to apply for PAP. A solo traveller can obtain the permit by paying the total fee for two persons.
 
+  The following documents are required to apply for the permit and we need approx. 10 – 14 working days to process the same after we receive these documents:
   1) Photocopy of valid Passport & e-Visa.
-  3) Recent Passport-size photographs.
-  4) Duly filled the PAP application form with signature (provided by us).
-  5) International flight tickets (arrival and departure to India).
+  2) Recent Passport-size photographs.
+  3) Duly filled the PAP application form with signature (provided by us).
+  4) International flight tickets (arrival and departure to India).
 ---
