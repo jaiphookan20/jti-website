@@ -48,7 +48,7 @@ days:
 
       We can also explore the INA Memorial, once used as the unofficial headquarters of the Indian National Army, this memorial was built to honor the soldiers who had sacrificed their lives for India. Netaji Subhash Chandra Bose motivated and formed armies here to participate in the freedom struggle. Back to hotel by dusk. Dinner and overnight.
     stay: ''
-    photo: /assets/uploads/Kangla Fort, Imphal.JPG
+    photo: /assets/uploads/Kangla Fort, Imphal 1.jpg
   - label: Day 5
     title: Imphal
     body: Full day at Sangai Festival.
