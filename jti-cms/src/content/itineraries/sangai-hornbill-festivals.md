@@ -28,12 +28,12 @@ days:
     title: Arrive in Kolkata
     body: Welcome on arrival at Kolkata airport and transfer to hotel. Check-in at the hotel on arrival. Evening at leisure, followed by dinner and overnight stay.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Victoria_Memorial_situated_in_Kolkata.jpg
   - label: Day 2
     title: Kolkata local sightseeing
     body: Morning set out for a walk tour (for 1 – 1.5 hr. approx.) around the heritage buildings of BBD Bag – covering the GPO, Raj Bhawan – residence of the Governor of Bengal, St. John’s Church. Walk past the Writers Building, the High Court and various other buildings. Return to hotel for breakfast. Afternoon set out for a city tour visit St. Paul’s Cathedral, Victoria Memorial (museum closed on Monday and National Holidays), Kalighat Kali Temple. Evening at leisure and overnight in hotel.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/St_Paul's_Cathedral.jpg
   - label: Day 3
     title: Kolkata – Imphal
     body: After an early breakfast, set out to visit the Flower Market on the bank of Ganges. After that you will be transferred to Kolkata airport for a flight to Imphal, capital of Manipur - a state least touched and least explored too. Upon arrival at the airport, you will be transferred to your hotel. After settling in at the hotel, we will visit the Tribal women market. At the center of Imphal is the fascinating market of Khwairamband run by more than 3000 tribal women. Divided in two sections, one sells shawls, textiles and fabrics including the traditional dress of the "Meitei" tribe of Manipur called "phanek" and the other sells basic household provisions. On the outskirts of the market are smaller shops that sell cane and other products.
@@ -114,7 +114,11 @@ glance:
     value: Nov – Dec
   - key: Style
     value: Private & tailor-made
-gallery: []
+gallery:
+  - image: /assets/uploads/Hornbill Festival 5.jpg
+    fallback: ''
+  - image: /assets/uploads/Khaimungan Tribe, Noklak.JPG
+    fallback: ''
 goodtoknow: |-
   ENTRY FORMALITIES FOR NAGALAND & MANIPUR FOR FOREIGN NATIONALS:
   As per the regulations of MHA (Ministry of Home Affairs), all foreign tourists required to obtain PAP (Protected Area Permit) to visit the state of Nagaland & Manipur. The following documents are required to apply for the permit and we need approx. 6 – 7 working days to process the same after we receive these documents:
