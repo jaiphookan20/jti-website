@@ -116,6 +116,7 @@ glance:
     value: Private & tailor-made
 gallery: []
 goodtoknow: |-
+  ENTRY FORMALITIES FOR NAGALAND & MANIPUR FOR FOREIGN NATIONALS:
   As per the regulations of MHA (Ministry of Home Affairs), all foreign tourists required to obtain PAP (Protected Area Permit) to visit the state of Nagaland & Manipur. The following documents are required to apply for the permit and we need approx. 6 – 7 working days to process the same after we receive these documents:
 
   1) Photocopy of valid Passport & e-Visa.
