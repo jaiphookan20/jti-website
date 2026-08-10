@@ -99,5 +99,11 @@ gallery:
     fallback: ''
   - image: /assets/uploads/Leh Market.png
     fallback: ''
-goodtoknow: ''
+goodtoknow: |-
+  -Ladakh’s dramatic landscapes, monasteries and high-altitude villages offer endless opportunities for striking photography.
+  -Carry spare batteries and memory cards—the cold and remote terrain can make charging and backups challenging.
+  -Acclimatise gradually to Ladakh’s high altitude and keep the first few days relaxed.
+  -Early mornings and late afternoons offer the best light for capturing Ladakh’s mountains, monasteries and valleys.
+  -Weather changes quickly in Ladakh; carry layers and protect your camera from dust, cold and sudden temperature changes.
+  -From ancient monasteries to rugged mountains, Ladakh rewards patience, observation and a keen photographic eye.
 ---
