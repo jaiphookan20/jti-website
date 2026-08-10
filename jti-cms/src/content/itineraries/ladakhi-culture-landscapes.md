@@ -4,7 +4,7 @@ slug: ladakhi-culture-landscapes
 category: culture
 kicker: Culture · Ladakh & Zanskar
 description: Ladakhi culture and the incredible trans-Himalayan landscape, from Leh to remote Zanskar.
-hero_image: ''
+hero_image: /assets/uploads/Ladakh2.png
 hero_fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Lamayuru,_Ladakh.jpg?width=1600
 lead: Ladakhi culture and the incredible trans-Himalayan landscape, from Leh to remote Zanskar.
 intro: Twelve days across central Ladakh and the isolated Zanskar valley — monasteries, villages and some of the most dramatic terrain on earth.
