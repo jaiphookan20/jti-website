@@ -66,7 +66,7 @@ days:
     title: Padum – Chilling (135 km/4 to 5 hrs, approx.)
     body: After breakfast, drive north toward Zangla village and explore the hilltop ruins of Zangla Palace and the small Zangla Chumo Nunnery. The Zangla Palace is the ancestral home of the Kings of Zangla. It is historically famous as the place where the Hungarian scholar Alexander Csoma de Kőrös stayed in 1823 to compile the first English-Tibetan dictionary. Proceed along the recently built, spectacular engineering marvel—the Nimmu-Padum-Darcha road—which cuts through deep Zanskar river gorges to reach Chilling. Overnight in Chilling (or a local homestay nearby).
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Chumo Nunnery.png
   - label: Day 9
     title: Chilling – Leh (Zanskar River Rafting) (50 km/1.5 hrs, approx.)
     body: After breakfast, go to explore the Chilling – the absolute hub for white-water rafting in Ladakh. Participate in a thrilling rafting expedition down the freezing, emerald waters of the Zanskar River, ending near the spectacular Sangam (the confluence where the Zanskar meets the Indus River at Nimmu). In the afternoon, drive back toward Leh. On the way, stop at the Magnetic Hill and the army-run Gurudwara Pathar Sahib. Overnight in Leh.
@@ -91,13 +91,13 @@ glance:
 gallery:
   - image: /assets/uploads/image 1.png
     fallback: ''
-  - image: /assets/uploads/DDG.png
+  - image: /assets/uploads/2.png
     fallback: ''
   - image: /assets/uploads/image (1).png
     fallback: ''
-  - image: /assets/uploads/Karsha.png
+  - image: /assets/uploads/Chumo Nunnery.png
     fallback: ''
-  - image: /assets/uploads/Leh Market.png
+  - image: /assets/uploads/4.jpeg
     fallback: ''
 goodtoknow: |-
   -Ladakh’s dramatic landscapes, monasteries and high-altitude villages offer endless opportunities for striking photography.
