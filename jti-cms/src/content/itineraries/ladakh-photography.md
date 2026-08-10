@@ -89,14 +89,15 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
-    fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Thiksey_Monastery.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/image 1.png
+    fallback: ''
+  - image: /assets/uploads/DDG.png
+    fallback: ''
+  - image: /assets/uploads/image (1).png
+    fallback: ''
+  - image: /assets/uploads/Karsha.png
+    fallback: ''
+  - image: /assets/uploads/Leh Market.png
+    fallback: ''
+goodtoknow: ''
 ---
