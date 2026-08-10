@@ -4,7 +4,7 @@ slug: ladakhi-culture-landscapes
 category: culture
 kicker: Culture · Ladakh & Zanskar
 description: Ladakhi culture and the incredible trans-Himalayan landscape, from Leh to remote Zanskar.
-hero_image: /assets/uploads/hans-jurgen-mager-MrW_AqAFNR0-unsplash.jpg
+hero_image: ''
 hero_fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Lamayuru,_Ladakh.jpg?width=1600
 lead: Ladakhi culture and the incredible trans-Himalayan landscape, from Leh to remote Zanskar.
 intro: Twelve days across central Ladakh and the isolated Zanskar valley — monasteries, villages and some of the most dramatic terrain on earth.
@@ -110,4 +110,11 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: ''
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+goodtoknow: |-
+  -Discover Ladakh’s Buddhist culture, ancient monasteries, traditional villages and breathtaking high-altitude landscapes.
+  -Acclimatise gradually to Ladakh’s high altitude and keep the first few days relaxed.
+  -Early mornings offer magical light for capturing monasteries, mountains, valleys and traditional Ladakhi life.
+  -Dress modestly when visiting monasteries and respect local customs, especially during religious ceremonies.
+  -Pack layers, sunscreen and sturdy footwear—Ladakh’s high-altitude climate can be sunny, cold and unpredictable.
+  -From rugged mountains to serene monasteries, Ladakh offers a fascinating blend of culture, spirituality and landscapes.
 ---
