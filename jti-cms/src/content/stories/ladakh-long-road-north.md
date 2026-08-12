@@ -46,7 +46,7 @@ At first glance, Leh appears surrounded by an almost impossible wilderness of mo
 
 The old town still carries traces of this history. Narrow lanes, traditional Ladakhi houses and bustling markets surround the imposing Leh Palace, while monasteries and temples overlook the town from the surrounding hills.
 
-![](/assets/uploads/Namgyal%20Shemo%20Gompa.png)
+![](/assets/uploads/Namgyal%20Shemo%20Gompa.png "Namgyal Shemo Gompa")
 
 But Leh is more than a historical centre. It is also where visitors begin to adjust to the altitude and rhythm of Ladakh. Days here are best taken slowly, allowing time to wander through the old streets, visit local markets and simply absorb the extraordinary atmosphere.
 
