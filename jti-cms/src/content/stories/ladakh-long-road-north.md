@@ -22,7 +22,7 @@ There are journeys that take you from one place to another, and then there are j
 
 Far beyond the green valleys and crowded cities of India lies Ladakh, a stark and spectacular land where snow-capped mountains rise above ancient monasteries, turquoise rivers carve their way through barren valleys, and centuries-old traditions continue to shape everyday life. Reaching this remote Himalayan kingdom is not simply a matter of arriving at a destination—it is about embracing the road itself.
 
-![](/assets/uploads/Miru.png)
+![](/assets/uploads/Miru.png "NH 3")
 
 The journey northwards unfolds slowly, allowing the landscape to transform dramatically. As the plains give way to the Himalayan foothills, the air becomes cooler, the mountains grow taller, and the roads begin to wind through some of the most extraordinary scenery in the Indian Himalayas.
 
@@ -103,6 +103,8 @@ Travelling slowly also allows you to notice the smaller details—the sound of a
 These moments often remain longer in the memory than the famous sights.
 
 Ultimately, **The Long Road North – Ladakh** is not simply a journey through mountains. It is a journey into a different rhythm of life.
+
+![](/assets/uploads/Garkon.png)
 
 It takes you from the familiar into the remote, from crowded roads to silent valleys, from ancient monasteries to timeless villages. It is a journey where the landscape constantly changes, yet the sense of remoteness remains.
 
