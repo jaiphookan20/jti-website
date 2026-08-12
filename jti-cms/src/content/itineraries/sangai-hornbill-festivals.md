@@ -31,7 +31,7 @@ days:
     photo: /assets/uploads/Victoria_Memorial_situated_in_Kolkata.jpg
   - label: Day 2
     title: Kolkata local sightseeing
-    body: Morning set out for a walk tour (for 1 – 1.5 hr. approx.) around the heritage buildings of BBD Bag – covering the GPO, Raj Bhawan – residence of the Governor of Bengal, St. John’s Church. Walk past the Writers Building, the High Court and various other buildings. Return to hotel for breakfast. Afternoon set out for a city tour visit St. Paul’s Cathedral, Victoria Memorial (museum closed on Monday and National Holidays), Kalighat Kali Temple. Evening at leisure and overnight in hotel.
+    body: Morning set out for a walk tour (for 1 – 1.5 hrs. approx.) around the heritage buildings of BBD Bag – covering the GPO, Raj Bhawan – residence of the Governor of Bengal, St. John’s Church. Walk past the Writers Building, the High Court and various other buildings. Return to hotel for breakfast. Afternoon set out for a city tour visit St. Paul’s Cathedral, Victoria Memorial (museum closed on Monday and National Holidays), Kalighat Kali Temple. Evening at leisure and overnight in hotel.
     stay: ''
     photo: /assets/uploads/St_Paul's_Cathedral.jpg
   - label: Day 3
@@ -55,7 +55,7 @@ days:
     stay: ''
     photo: /assets/uploads/Raas Leela Dance at the closing function of Sangai Festival 2014 in Imphal.jpg
   - label: Day 6
-    title: Imphal – Kohima (5.5 hrs drive, approx.)
+    title: Imphal – Kohima (5.5 hrs. drive, approx.)
     body: |-
       After breakfast, visit The Imphal War Cemetery – a beautifully maintained war memorial by the Commonwealth War Graves Commission and commemorates British and Indian soldiers who were killed during the World War II. Later, start your journey towards Kohima, the capital city of Nagaland. Upon arrival, check-in at the hotel. After settling in at our Hotel and some rest, you may wish to take a walking tour of the Hornbill night market. Dinner and overnight stay.
 
@@ -76,7 +76,7 @@ days:
     stay: ''
     photo: /assets/uploads/View of Khonoma Village.jpg
   - label: Day 9
-    title: Kohima – Kaziranga National Park (230 km / 6.5 hrs. approx.)
+    title: Kohima – Kaziranga National Park (6.5 hrs. drive, approx.)
     body: |-
       After breakfast continue to Kaziranga National Park. On your way, you will pass through small hamlets and market places where villagers sell their products ranging from locally grown vegetables, seasonal fruits, some handloom, handicrafts, cane and bamboo items etc. On arrival, check in at the lodge. Evenign at leisure. Dinner and overnight.
 
@@ -92,7 +92,7 @@ days:
     stay: ''
     photo: /assets/uploads/Jeep Safari in Kaziranga NP, Kohara.jpg
   - label: Day 11
-    title: Kaziranga National Park – Guwahati airport (220 km / 4 ½ hrs. approx.)
+    title: Kaziranga National Park – Guwahati airport (4.5 hrs. drive, approx.)
     body: After breakfast, you will be transferred to Guwahati airport to catch the flight for onward journey.
     stay: ''
     photo: /assets/uploads/Kohima War Cemetery 1.jpg
