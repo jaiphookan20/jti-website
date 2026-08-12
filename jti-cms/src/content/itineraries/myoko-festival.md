@@ -43,7 +43,7 @@ days:
     stay: ''
     photo: /assets/uploads/Jeep safari @ KNP.jpg
   - label: Day 3
-    title: Kaziranga National Park – Majuli Island (120 km/3hrs drive + 1 hr ferry, approx.)
+    title: Kaziranga National Park – Majuli Island (3hrs. drive + 1 hr. ferry, approx.)
     body: |-
       Today morning with respective ferry timing, start moving towards the Majuli Island. Upon reaching there, check-in at your hotel. You will be visit the Uttar Kamalabari Satra (Vaishnavite monastery) where you can interact with the monks and spend some time with them to know more about the ancient traditions. The resident monks shall perform a traditional dance performance known as ‘Gayan Bayan’ accompanied by drummers, cymbals etc. 
 
@@ -87,7 +87,7 @@ days:
     stay: ''
     photo: ''
   - label: Day 9
-    title: Dibrugarh – Day trip to Namphake Village, Bordubi & Digboi (120 km/ 4 hrs. – one way, approx.)
+    title: Dibrugarh – Day trip to Namphake Village, Bordubi & Digboi (120 km/4 hrs. – one way, approx.)
     body: After breakfast drive to the Namphake village, a quaint village located on the bank of Buri Dehing River and home of the Tai Phakey community of North East India. A branch of the great Tai race, the Tai Phakeys entered Assam in the latter half of the 18th century. We shall also visit the Buddha Monastery and interact with monks. Later, walk around the village, see and experience the lifestyle of villagers to learn more about the Tai Phakey and their unique ways of life. Later continue your drive to Digboi town and visit the Oil Museum and War Cemetery of World War II. Drive back to Dibrugarh by dusk. Dinner & overnight.
     stay: ''
     photo: ''
