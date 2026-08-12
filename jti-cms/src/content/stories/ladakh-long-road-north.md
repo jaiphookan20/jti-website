@@ -22,6 +22,8 @@ There are journeys that take you from one place to another, and then there are j
 
 Far beyond the green valleys and crowded cities of India lies Ladakh, a stark and spectacular land where snow-capped mountains rise above ancient monasteries, turquoise rivers carve their way through barren valleys, and centuries-old traditions continue to shape everyday life. Reaching this remote Himalayan kingdom is not simply a matter of arriving at a destination—it is about embracing the road itself.
 
+![](/assets/uploads/Miru.png)
+
 The journey northwards unfolds slowly, allowing the landscape to transform dramatically. As the plains give way to the Himalayan foothills, the air becomes cooler, the mountains grow taller, and the roads begin to wind through some of the most extraordinary scenery in the Indian Himalayas.
 
 ## Into the High Himalayas
@@ -38,9 +40,13 @@ Brown and ochre mountains rise sharply from broad valleys, their surfaces sculpt
 
 At the heart of the region lies **Leh**, the historic capital of Ladakh and the natural starting point for exploring its extraordinary landscapes and culture.
 
+![](/assets/uploads/Leh%20Town.png)
+
 At first glance, Leh appears surrounded by an almost impossible wilderness of mountains. Yet for centuries, it was an important stop on the ancient trade routes linking India with Tibet, Central Asia and beyond.
 
 The old town still carries traces of this history. Narrow lanes, traditional Ladakhi houses and bustling markets surround the imposing Leh Palace, while monasteries and temples overlook the town from the surrounding hills.
+
+![](/assets/uploads/Namgyal%20Shemo%20Gompa.png)
 
 But Leh is more than a historical centre. It is also where visitors begin to adjust to the altitude and rhythm of Ladakh. Days here are best taken slowly, allowing time to wander through the old streets, visit local markets and simply absorb the extraordinary atmosphere.
 
