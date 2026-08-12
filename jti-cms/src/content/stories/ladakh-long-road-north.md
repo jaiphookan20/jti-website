@@ -111,3 +111,7 @@ It takes you from the familiar into the remote, from crowded roads to silent val
 And perhaps that is the real magic of Ladakh.
 
 The road keeps climbing, the mountains keep unfolding, and somewhere beyond the next pass lies another valley waiting to be discovered.
+
+Your Guide: Swaleh
+
+![](/assets/uploads/Swaleh.png "Guide: Swaleh")
