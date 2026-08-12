@@ -64,6 +64,8 @@ For travellers, however, the significance of Kamakhya extends beyond the festiva
 
 Even outside Ambubachi, the temple offers a glimpse into a very old spiritual tradition in which the divine feminine is understood not simply as a goddess to be worshipped, but as **the force that creates, transforms and sustains life**.
 
+![](/assets/uploads/KMhya2.jfif)
+
 ### More than a temple
 
 Guwahati is often described as the gateway to Northeast India, but Kamakhya gives the city a spiritual identity of its own.
