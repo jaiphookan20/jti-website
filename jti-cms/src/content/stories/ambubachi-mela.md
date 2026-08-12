@@ -18,26 +18,54 @@ meta:
     value: With a local host
 ---
 
-Replace this opening with your own reporting from the hill. Ambubachi Mela marks the days the goddess is believed to retreat into her annual cycle — the temple closes, then reopens to an extraordinary swell of devotion. Open on a single image that puts the reader inside the crowd: the red cloth, the heat, the river of people climbing toward the shrine at first light.
+High above the bustling city of Guwahati, on the forested slopes of Nilachal Hill, stands the Kamakhya Temple—one of India’s most revered Shakti shrines and a place where devotion takes an unusually intimate form.
 
-A second paragraph gives a reader from outside the region the context they need. What is Kamakhya, why does this festival draw sadhus from across India, and what does it feel like to stand among that crowd as a traveller — welcomed, watchful, a little overwhelmed. Keep the tone respectful and observational throughout.
+Here, the divine is not represented by a conventional idol. Instead, worship centres on a naturally formed stone yoni, kept within the sanctum and perpetually nourished by an underground spring. It is a powerful reminder of the goddess as the embodiment of fertility, creation and the generative force of nature.
 
-## A hill that fills overnight
+But for a few days each year, something remarkable happens.
 
-Use this section to describe the scale — the encampments, the ash-smeared ascetics, the queues that wind down toward the Brahmaputra. Detail is everything here: the smell of incense and marigold, the colour, the particular hush that falls when the temple doors finally reopen.
+**The Goddess rests.**
 
-> “You do not so much visit Ambubachi as let it carry you — up the hill, through the crowd, toward something older than all of it.”
+### When the temple falls silent
 
-Return to the narrative with a human moment: a pilgrim who shares why they came, a vendor, a priest, a family that has made this journey for generations. These small encounters are what turn a festival into a story.
+Every year, around the beginning of the monsoon, Kamakhya observes **Ambubachi**, a festival associated with the annual menstruation of the goddess. The temple closes for several days, and regular worship comes to a pause.
 
-## How to witness it well
+For many visitors, this may seem surprising. A temple is generally imagined as a place where worship continues uninterrupted. At Kamakhya, however, the period of rest is itself sacred.
 
-Close with a short, practical passage for the reader who now wants to go: when to arrive, how to move through the crowds with grace, and how travelling with a local host changes the experience from spectacle into something you are quietly part of.
+The belief is that Mother Kamakhya undergoes her annual menstrual cycle during this time. The earth, too, is understood to be entering a period of renewal as the first monsoon rains arrive across Assam.
 
-End on a line that hands the reader the feeling of the place — the river below, the bells above, the long walk back down as the light goes gold.
+The closure therefore carries a deeper symbolism: **creation requires both activity and rest.**
 
-On the Ground
+When the temple doors close, thousands of devotees, ascetics and spiritual seekers gather around Nilachal Hill. Some come to pray, some to meditate, and others simply to experience one of Assam’s most extraordinary living traditions.
 
-Our Assam Host
+### A sacred connection between womanhood and the earth
 
-A few lines on the JTI host who guides travellers through the Mela — their roots in the region, their relationship with the temple community, and why they can open doors that crowds cannot. Replace with the real bio.
+Ambubachi is particularly significant because it places menstruation—a subject often surrounded by silence and taboo—at the heart of religious worship.
+
+At Kamakhya, menstruation is not considered impure. It is associated with the creative power of the feminine and with the fertility of the earth.
+
+The timing is significant too. Ambubachi coincides with the arrival of the monsoon, when Assam’s parched landscape begins to turn green and the Brahmaputra swells with rainwater.
+
+The goddess rests, the earth is renewed, and life begins another cycle.
+
+It is this connection between **womanhood, fertility, nature and spirituality** that makes Kamakhya unlike almost any other major pilgrimage centre in India.
+
+### When the doors open again
+
+After the period of seclusion, the temple reopens with elaborate rituals and ceremonies. Devotees gather in large numbers to seek blessings and receive _prasad_ associated with Ambubachi.
+
+The atmosphere around Nilachal Hill changes dramatically. What had been a place of anticipation becomes a celebration of renewal.
+
+For travellers, however, the significance of Kamakhya extends beyond the festival itself.
+
+Even outside Ambubachi, the temple offers a glimpse into a very old spiritual tradition in which the divine feminine is understood not simply as a goddess to be worshipped, but as **the force that creates, transforms and sustains life**.
+
+### More than a temple
+
+Guwahati is often described as the gateway to Northeast India, but Kamakhya gives the city a spiritual identity of its own.
+
+From Nilachal Hill, the city stretches towards the Brahmaputra, while the surrounding landscape carries the sounds of bells, chants and temple rituals. The experience can be intense, crowded and deeply atmospheric—but it is also profoundly personal.
+
+Some visitors come as pilgrims. Others arrive as curious travellers. And some simply come to understand why this particular hill has drawn people for centuries.
+
+Perhaps that is the enduring power of Kamakhya.
