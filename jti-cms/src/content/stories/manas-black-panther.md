@@ -144,6 +144,8 @@ Because while you are looking for the shadow in the grass, you are also experien
 
 And perhaps that is the real magic of Manas.
 
+![](/assets/uploads/BP.jfif)
+
 **The rarest animals are not always the reason to enter the forest. Sometimes, they are the reason to slow down, observe carefully, and appreciate everything around them.**
 
 The next time a guide quietly says, _"Look there,"_ among the grass and shadows of Manas, look carefully.
