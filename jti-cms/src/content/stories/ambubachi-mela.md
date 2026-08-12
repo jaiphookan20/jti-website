@@ -26,6 +26,8 @@ But for a few days each year, something remarkable happens.
 
 **The Goddess rests.**
 
+![](/assets/uploads/KMhya1.jfif "Kamakhya Temple")
+
 ### When the temple falls silent
 
 Every year, around the beginning of the monsoon, Kamakhya observes **Ambubachi**, a festival associated with the annual menstruation of the goddess. The temple closes for several days, and regular worship comes to a pause.
