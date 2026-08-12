@@ -40,7 +40,7 @@ Brown and ochre mountains rise sharply from broad valleys, their surfaces sculpt
 
 At the heart of the region lies **Leh**, the historic capital of Ladakh and the natural starting point for exploring its extraordinary landscapes and culture.
 
-![](/assets/uploads/Leh%20Town.png)
+![](/assets/uploads/Leh%20Town.png "Leh Town")
 
 At first glance, Leh appears surrounded by an almost impossible wilderness of mountains. Yet for centuries, it was an important stop on the ancient trade routes linking India with Tibet, Central Asia and beyond.
 
