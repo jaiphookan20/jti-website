@@ -151,5 +151,9 @@ goodtoknow: |-
   Mountain weather can change quickly—carry layers and comfortable footwear for walks around Hilly Terrain.
 
   ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS:
-  All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 in a group to apply for PAP. Less than 2 persons can apply if the total fees of 2 persons are paid by the client. The following documents are required for the permit and we need at least 10 – 15 working days to process the same after we receive these documents: 1) Photocopy of valid Passport & VISA. 2) Recent Passport-size photographs. 3) Duly filled the PAP application form (provided by us). 4) International flight tickets (arrival and departure to India). ** Scanned copies of the above documents will also suffice.
+  As per the regulations of Ministry of Home Affairs, Government of India, all foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 persons in a group to apply for PAP. Solo travellers can obtain the permit by paying the total fee for two persons. The following documents are required to apply for the permit and we need approx. 10 – 14 working days to process the same after we receive these documents:
+  1) Photocopy of valid Passport & e-Visa.
+  2) Recent Passport-size photographs.
+  3) Duly filled the PAP application form with signature (provided by us).
+  4) International flight tickets (arrival and departure to India).
 ---
