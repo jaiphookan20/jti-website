@@ -30,12 +30,12 @@ route:
   - Dimapur
 days:
   - label: Day 1
-    title: Guwahati arrival
-    body: Arrive at Guwahati airport. Meet and assisted by our representative and transfer to hotel. Check in at the hotel on arrival. Later, visit the Brahmaputra River Heritage Center to explore Assamese art and culture. Return to the hotel. Return to hotel. Overnight.
+    title: Arrive in Guwahati
+    body: Arrive at Guwahati airport. Meet and assisted by a JTI representative and transfer to hotel. Check in at the hotel on arrival. Later, visit the Brahmaputra River Heritage Center to explore Assamese art and culture. Return to the hotel. Return to hotel. Overnight.
     stay: ''
     photo: /assets/uploads/Guwahati_HD.jpg
   - label: Day 2
-    title: Guwahati – Bhalukpong (265/ 5 hrs, approx.)
+    title: Guwahati – Bhalukpong (265 km/5 hrs, approx.)
     body: After breakfast, transfer to Bhalukpong, a small town on the Assam-Arunachal Pradesh border. Check in at the hotel upon arrival. Explore the local markets and nearby areas, then return to the hotel. Overnight.
     stay: ''
     photo: ''
@@ -90,8 +90,13 @@ days:
     stay: ''
     photo: /assets/uploads/Orchid park.png
   - label: Day 13
-    title: ''
-    body: 'Jorhat – Day trip to Majuli Island (45 mins. drive + 1 hr. ferry, approx.) After breakfast, head to Majuli Island according to the ferry schedule. Visit the Uttar Kamalabari Satra (Vaishnavite monastery) where you can interact with the monks and spend some time with them to know more about the ancient traditions. The resident monks shall perform a traditional dance performance known as ‘Gayan Bayan’ accompanied by drummers, cymbals etc. Visit the Auniati Satra, founded in the middle of the 17th century and the first one that was patronized by the Ahom kings. The satra also has an in-house museum that has a collection of well-preserved ancient manuscripts and artifacts dating back to the period of the Ahom dynasty and related to neo-Vaishnavism. Proceed to visit Samaguri Satra (Vaishnavite Monastery) known for its ancient mask making tradition, which they wear during performing ‘Bhaona’ – a traditional form of dance drama, based on various Hindu mythological stories with a religious message. Time permitting, take a stroll in a nearby village inhabited by Mishing tribe to experience the lifestyle of the villagers to learn more about their unique ways of life. Later, take a ferry back to Jorhat. Overnight. Note: - To and Fro Majuli Island, Govt. Maintained shared/commercial ferries operate at definitive timings. - Kindly be aware that the villagers are engaged in their daily lives and sometimes some visits may differ based on that. The villagers may not be seen in their traditional dresses which are normally worn on special occasions only.'
+    title: Jorhat – Day trip to Majuli Island (45 mins. drive + 1 hr. ferry, approx.)
+    body: |-
+      After breakfast, head to Majuli Island according to the ferry schedule. Visit the Uttar Kamalabari Satra (Vaishnavite monastery) where you can interact with the monks and spend some time with them to know more about the ancient traditions. The resident monks shall perform a traditional dance performance known as ‘Gayan Bayan’ accompanied by drummers, cymbals etc. Visit the Auniati Satra, founded in the middle of the 17th century and the first one that was patronized by the Ahom kings. The satra also has an in-house museum that has a collection of well-preserved ancient manuscripts and artifacts dating back to the period of the Ahom dynasty and related to neo-Vaishnavism. Proceed to visit Samaguri Satra (Vaishnavite Monastery) known for its ancient mask making tradition, which they wear during performing ‘Bhaona’ – a traditional form of dance drama, based on various Hindu mythological stories with a religious message. Time permitting, take a stroll in a nearby village inhabited by Mishing tribe to experience the lifestyle of the villagers to learn more about their unique ways of life. Later, take a ferry back to Jorhat. Overnight.
+
+      Note:
+      - To and Fro Majuli Island, Govt. Maintained shared/commercial ferries operate at definitive timings.
+      - Kindly be aware that the villagers are engaged in their daily lives and sometimes some visits may differ based on that. The villagers may not be seen in their traditional dresses which are normally worn on special occasions only.
     stay: ''
     photo: /assets/uploads/Monks @ Majuli.jpg
   - label: Day 14
@@ -100,13 +105,16 @@ days:
     stay: ''
     photo: /assets/uploads/Hoolock Gibbon female with baby.webp
   - label: Day 15
-    title: ''
-    body: Kohima – Day trip to Khonoma & local sightseeing (30 km/1 hr. – one way, approx.) After breakfast, visit Khonoma Village, home to the Angami tribe, surrounded by lush hills and terraced fields, known for its conservation efforts. Explore the village to experience local life compared to city dwellers and see the three forts used by the Angami in their resistance against British troops. In the afternoon, visit the Kohima State Museum to learn about Nagaland's indigenous cultures, history, and traditions. Then, head to the Kohima Cathedral, a mid-20th-century landmark with significant cultural and historical value. Return to the hotel for the night. Khonoma Village, renowned for its art, bamboo, and wood crafts, offers a unique experience of Naga heritage and sustainable living. The village is famous for its valor and courage, symbolized by the Khonoma Gate, which commemorates the Naga's resistance against British infiltration. The Angami Naga are celebrated for their warrior spirit, with several memorial stones honoring their achievements.
+    title: Kohima – Day trip to Khonoma & local sightseeing (30 km/1 hr. – one way, approx.)
+    body: |-
+      After breakfast, visit Khonoma Village, home to the Angami tribe, surrounded by lush hills and terraced fields, known for its conservation efforts. Explore the village to experience local life compared to city dwellers and see the three forts used by the Angami in their resistance against British troops. In the afternoon, visit the Kohima State Museum to learn about Nagaland's indigenous cultures, history, and traditions. Then, head to the Kohima Cathedral, a mid-20th-century landmark with significant cultural and historical value. Return to the hotel for overnight stay.
+
+      Khonoma Village, renowned for its art, bamboo, and wood crafts, offers a unique experience of Naga heritage and sustainable living. The village is famous for its valor and courage, symbolized by the Khonoma Gate, which commemorates the Naga's resistance against British infiltration. The Angami Naga are celebrated for their warrior spirit, with several memorial stones honoring their achievements.
     stay: ''
     photo: /assets/uploads/Kohima war cemetery (2).jpg
   - label: Day 16
-    title: Kohima – Dimapur
-    body: 'After breakfast transfer to Dimapur airport for your onward journey. Tour Ends ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS: All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 in a group to apply for PAP. Less than 2 persons can apply if the total fees of 2 persons are paid by the client. The following documents are required for the permit and we need at least 10 – 15 working days to process the same after we receive these documents: 1) Photocopy of valid Passport & VISA. 2) Recent Passport-size photographs. 3) Duly filled the PAP application form (provided by us). 4) International flight tickets (arrival and departure to India). ** Scanned copies of the above documents will also suffice. Notes: - This itinerary is only an offer not a confirmation of services; we shall proceed with your booking once we have received confirmation from you. And if rooms are unavailable in the original hotels, we shall provide equivalent/ alternative hotels. - The category of rooms may differ depending upon the availability at the time of booking. - Most of the Hotels in Arunachal Pradesh do not have laundry service and you may also experience sudden power cuts due to which hot running water may not be available sometimes. However, hot water will be provided in a bucket on request. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - In Arunachal Pradesh, you will drive through hilly areas. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special & unforeseen events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of number of days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
+    title: Kohima – Dimapur (70 km/2 hrs, approx.)
+    body: After breakfast transfer to Dimapur airport for your onward journey.
     stay: ''
     photo: /assets/uploads/kachari ruins, dimapur.JPG
 wildlife:
@@ -141,4 +149,7 @@ goodtoknow: |-
   The trail blends Himalayan landscapes, Tibetan Buddhism, monasteries, vibrant markets and encounters with local communities.
   Respectful dress and quiet behaviour are appreciated when visiting monasteries, temples and Tibetan institutions.
   Mountain weather can change quickly—carry layers and comfortable footwear for walks around Hilly Terrain.
+
+  ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS:
+  All foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 in a group to apply for PAP. Less than 2 persons can apply if the total fees of 2 persons are paid by the client. The following documents are required for the permit and we need at least 10 – 15 working days to process the same after we receive these documents: 1) Photocopy of valid Passport & VISA. 2) Recent Passport-size photographs. 3) Duly filled the PAP application form (provided by us). 4) International flight tickets (arrival and departure to India). ** Scanned copies of the above documents will also suffice.
 ---
