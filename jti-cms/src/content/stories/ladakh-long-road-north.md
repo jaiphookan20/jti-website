@@ -104,7 +104,7 @@ These moments often remain longer in the memory than the famous sights.
 
 Ultimately, **The Long Road North – Ladakh** is not simply a journey through mountains. It is a journey into a different rhythm of life.
 
-![](/assets/uploads/Garkon.png)
+![](/assets/uploads/Garkon.png "Garkon")
 
 It takes you from the familiar into the remote, from crowded roads to silent valleys, from ancient monasteries to timeless villages. It is a journey where the landscape constantly changes, yet the sense of remoteness remains.
 
