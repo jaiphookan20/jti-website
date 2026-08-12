@@ -28,6 +28,8 @@ In recent years, rare sightings and photographs of a melanistic leopard in Manas
 
 But what exactly is a black panther? And why is seeing one in the wild such a remarkable experience?
 
+![](/assets/uploads/BP1.jfif "Black Panther")
+
 ## A Black Panther Is Actually a Leopard
 
 Perhaps the first thing to understand is that a black panther is **not a separate species**.
