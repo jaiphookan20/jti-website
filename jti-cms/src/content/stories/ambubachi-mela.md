@@ -40,6 +40,8 @@ The closure therefore carries a deeper symbolism: **creation requires both activ
 
 When the temple doors close, thousands of devotees, ascetics and spiritual seekers gather around Nilachal Hill. Some come to pray, some to meditate, and others simply to experience one of Assam’s most extraordinary living traditions.
 
+![](/assets/uploads/KMhya.jfif "Kamakhya Temple aerial")
+
 ### A sacred connection between womanhood and the earth
 
 Ambubachi is particularly significant because it places menstruation—a subject often surrounded by silence and taboo—at the heart of religious worship.
