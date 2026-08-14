@@ -4,7 +4,7 @@ slug: assam-meghalaya
 category: culture
 kicker: Culture · Assam & Meghalaya
 description: The wildlife of Assam and the living landscapes of Meghalaya - Kaziranga's rhinos, Cherrapunjee's rains, and bridges grown from living roots.
-hero_image: /assets/uploads/Guwahati_HD.jpg
+hero_image: /assets/uploads/KMhya1.jfif
 hero_fallback: ''
 lead: The wildlife of Assam and the living landscapes of Meghalaya — Kaziranga's rhinos, Cherrapunjee's rains, and bridges grown from living roots.
 intro: Pair the Big Five of Kaziranga with the waterfalls, caves and hand-grown root bridges of the Khasi Hills.
