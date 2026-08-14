@@ -40,7 +40,7 @@ days:
     title: Gangtok local sightseeing
     body: Morning proceeds for a full day sightseeing in and around this capital city of Sikkim, covering Chortan (Stupa), Institute of Tibetology (Closed on Saturdays & Sundays) Institute of Handicrafts and handlooms (Closed on Saturdays & Sundays), Flower show, Tashi View point, Ganesh Tak, Hanuman Tak, and Rumtek Monastery. Overnight at hotel in Gangtok.
     stay: ''
-    photo: /assets/uploads/Gangtok.jpg
+    photo: /assets/uploads/Gangtok.png
   - label: Day 3
     title: Excursion trip to Tsomgo lake.
     body: 'AM start for a day trip to Tsomgo lake (12400ft), which is only 32kms from Gangtok City, the lake is almost about 1Km long, oval in shape and 15 mtrs deep. The lake is considered sacred by the local people. Evening free at Gangtok for shopping and individual activity. Note: In case of Land slide or any reason, Tsomgo Lake is closed we will provide alternate sightseeing at Gangtok. Nathula La is closed to visitors on Monday.'
@@ -135,19 +135,15 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
-    fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Kangchenjunga_India.jpg?width=1600
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: /assets/uploads/Neil.avif
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
-  - image: /assets/uploads/.trashed-1786452537-2020_0101_005218_012 (2).JPG
-    fallback: ''
   - image: /assets/uploads/cellular-jail-andamandmc.jpg
+    fallback: ''
+  - image: /assets/uploads/pemayangtse monastery pelling.jpg
+    fallback: ''
+  - image: /assets/uploads/Cellular Jail 1.jpg
+    fallback: ''
+  - image: /assets/uploads/radhanagar_beach_hd.jpg
     fallback: ''
 goodtoknow: |-
   -Travel from cool Himalayan hills to tropical islands—pack layered clothing, light cottons, and reef-safe sunscreen.
