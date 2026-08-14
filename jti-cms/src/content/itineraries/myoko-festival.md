@@ -43,7 +43,7 @@ days:
     stay: ''
     photo: /assets/uploads/Jeep safari @ KNP.jpg
   - label: Day 3
-    title: Kaziranga National Park – Majuli Island (3hrs. drive + 1 hr. ferry, approx.)
+    title: Kaziranga National Park – Majuli Island (120 km/3hrs drive + 1 hr ferry, approx.)
     body: |-
       Today morning with respective ferry timing, start moving towards the Majuli Island. Upon reaching there, check-in at your hotel. You will be visit the Uttar Kamalabari Satra (Vaishnavite monastery) where you can interact with the monks and spend some time with them to know more about the ancient traditions. The resident monks shall perform a traditional dance performance known as ‘Gayan Bayan’ accompanied by drummers, cymbals etc. 
 
@@ -65,12 +65,12 @@ days:
 
       Ziro is home to the Apatani tribe and it is located in an extremely picturesque valley called Apatani Plateau surrounded by pine-covered mountains. The Apatani tribes themselves are Ziro’s greatest attraction. The older men-folk tie the hair in top-knots and tattoo the faces. Apatani women wear wooden nose plugs and tattooed their faces. However, new generation of Apatani men and women have stopped this practice of tying hair knot, nose plugs and face tattooing since early 1970s. The Apatani are good cultivators and practice both wet and terrace cultivation. Paddy cum fish culture is very popular among them.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Guests interaction with Apatani Ladies.jpg
   - label: Day 5
     title: Ziro
     body: Today we will be engaging ourselves in the festivities of the Myoko Festival. ‘Mioko’ or ‘Myoko’, which is generally celebrated in the month of March, is one of the main festivals of the Apatani community of Arunachal Pradesh. In order to celebrate it all the villages in the Apatani plateau are divided into three major groups namely a) Hong, b) Hari, Reru, Tajang, Kalong, and c) Hija, Mudang-Tage, Duta, Michi Bamin. Unlike the other festivals of Apatanis, ‘Myoko’ is performed by each village only once in three years. One of these three groups celebrate and hosts the festival in a particular year whereas the other two groups join the celebration of the host group. Preparation for the ‘Myoko’ festivals begins much earlier with the hunting of bi-ding (monkey). The most important ritual of the festival is the sacrifices of the pigs which lasts for two days.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Myoko.png
   - label: Day 6
     title: Ziro – Aalo (310 km/7.5 hrs, approx.)
     body: After breakfast, start your drive towards Aalo. We shall take comfort breaks on our way. On arrival, check in at your hotel. Overnight. Aalo or Along is the headquarter of West Siang district of Arunachal Pradesh, located at an altitude of 300 m from the sea level. Sitting amidst abundant natural resources surroundings with impenetrable forests, wide rivers, deep gorges, beautiful villages and plantation, this small town provides a blissful ambience to the visitors. Aalo is mainly inhabited by the Adi tribes – meaning “hill man” or “man of hill”, is one of the largest tribes of Arunachal Pradesh and a very prosperous one. They still prefer to live in traditional broad huge houses made of bamboo, cane and wood and are known for their unique architecture and designs. The religion of the Adi is centered on Donyi-Polo – the Sun-Moon God, who is regarded as the eye of the world. They believe in the world of spirits and perform ceremonies to appease malignant ones to ward off the evil.
@@ -80,17 +80,17 @@ days:
     title: Aalo
     body: After breakfast, you will explore the villages of Adi – Galo tribe in and around Aalo. Here you will meet the unique tribal people, visit local markets and get a more depth exposure to their culture and traditions. The Adi – Galo by nature are democratic and have an organised village council called “Kebang”. Adi villages are situated generally on the spurs of hills. Adi women are very good weavers and weave cloth with highly artistic designs. You can also have a walk near the bank of the Siyom river that has a picturesque view with lofty hills and visit another village scattered on the other side of the river. Return to the hotel by dusk and overnight.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Galo.png
   - label: Day 8
     title: Aalo – Dibrugarh (200 km/5 hrs. approx.)
     body: After breakfast you will begin your drive back to the plains of Assam, towards the city of Dibrugarh. On arrival check-in at the hotel. Evening at leisure. Overnight.
     stay: ''
     photo: ''
   - label: Day 9
-    title: Dibrugarh – Day trip to Namphake Village, Bordubi & Digboi (120 km/4 hrs. – one way, approx.)
+    title: Dibrugarh – Day trip to Namphake Village, Bordubi & Digboi (120 km/ 4 hrs. – one way, approx.)
     body: After breakfast drive to the Namphake village, a quaint village located on the bank of Buri Dehing River and home of the Tai Phakey community of North East India. A branch of the great Tai race, the Tai Phakeys entered Assam in the latter half of the 18th century. We shall also visit the Buddha Monastery and interact with monks. Later, walk around the village, see and experience the lifestyle of villagers to learn more about the Tai Phakey and their unique ways of life. Later continue your drive to Digboi town and visit the Oil Museum and War Cemetery of World War II. Drive back to Dibrugarh by dusk. Dinner & overnight.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/Namphake.png
   - label: Day 10
     title: Departure from Dibrugarh airport
     body: After breakfast, you will be transferred to Dibrugarh airport for your onward journey.
@@ -119,7 +119,9 @@ goodtoknow: |-
   -More than a festival, Myoko is a celebration of friendship, culture, and community among Arunachal's Apatani people.
 
   ENTRY FORMALITIES FOR ARUNACHAL PRADESH FOR FOREIGN NATIONALS:
-  As per the regulations of Ministry of Home Affairs, Government of India, all foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 persons in a group to apply for PAP. Solo travellers can obtain the permit by paying the total fee for two persons. The following documents are required to apply for the permit and we need approx. 10 – 14 working days to process the same after we receive these documents:
+  As per the regulations of Ministry of Home Affairs, Government of India, all foreign nationals need to obtain PAP (Protected Area Permit) to visit the state of Arunachal Pradesh. The Government stipulates the number of tourists to a minimum of 2 persons in a group to apply for PAP. A solo traveller can obtain the permit by paying the total fee for two persons.
+
+  The following documents are required to apply for the permit and we need approx. 10 – 14 working days to process the same after we receive these documents:
   1) Photocopy of valid Passport & e-Visa.
   2) Recent Passport-size photographs.
   3) Duly filled the PAP application form with signature (provided by us).
