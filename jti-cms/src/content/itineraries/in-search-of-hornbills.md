@@ -38,12 +38,12 @@ days:
     title: Eagle's Nest – Nameri National Park
     body: A final morning at Eagle's Nest before descending to Nameri, on the banks of the Bhorelli.
     stay: Eco Camp, Nameri
-    photo: /assets/uploads/greathornbill.jpg
+    photo: /assets/uploads/GHbill.jfif
   - label: Day 8
     title: Nameri – Guwahati
     body: A last birding stop at Deepor Beel en route to Guwahati airport.
     stay: ''
-    photo: /assets/uploads/Wreathed Hornbill.jfif
+    photo: /assets/uploads/Rufous.JPG
 wildlife: []
 birds:
   - Rufous-necked Hornbill
