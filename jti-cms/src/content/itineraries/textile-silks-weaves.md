@@ -45,7 +45,7 @@ days:
     title: Wild Mahseer – Kaziranga National Park (90 kms/ 2 hrs)
     body: Morning after breakfast, visit a tea garden. Afterwards drive to Kaziranga National Park, on arrival check into a lodge. Afternoon, go for a jeep safari. Return by dusk. Dinner and overnight. A UNESCO World Heritage Site, Kaziranga National Park is home to approximately 80% of the world's Indian One-Horned Rhinoceros population. In addition to the rhinoceros, the park boasts a high density of tigers and serves as a major breeding ground for elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it both a premier wildlife destination and a paradise for birdwatchers.
     stay: ''
-    photo: /assets/uploads/KNP_gate_HD.jpg
+    photo: /assets/uploads/OHR.jfif
   - label: Day 5
     title: Kaziranga National Park
     body: Today morning after breakfast visit the weaving center located near to the lodge, where you can meet the in-house production team of local weavers or craftsman. Post lunch go for a jeep safari. Return to the lodge for lunch. Afternoon take an afternoon jeep safari inside the park. Apart from the Rhino, other species found are hog deer, swamp deer, wild buffalo, elephants and if you are lucky, the tiger. It is virtually a paradise for bird watchers, with a variety of migratory and resident birds. It is also home to pelicans, storks and darters as there are a number of water bodies inside the Park.
