@@ -29,7 +29,7 @@ days:
     title: Arrive in Guwahati
     body: Arrival at Guwahati airport. On arrival meet & assist by JTi representative and transfer to the hotel. Check in on arrival. Overnight.
     stay: ''
-    photo: /assets/uploads/guwahati-532786.jpg
+    photo: /assets/uploads/KMhya3.png
   - label: Day 2
     title: Guwahati – Kaziranga National Park (220 km/5 hrs. approx.)
     body: |-
@@ -39,7 +39,7 @@ days:
 
       A UNESCO World Heritage Site, Kaziranga National Park is home to approximately 80% of the world's Indian One-Horned Rhinoceros population. In addition to the rhinoceros, the park boasts a high density of tigers and serves as a major breeding ground for elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it both a premier wildlife destination and a paradise for birdwatchers.
     stay: ''
-    photo: /assets/uploads/KNP_gate_HD.jpg
+    photo: /assets/uploads/Elephants @ Kaziranga NP-1.jpg
   - label: Day 3
     title: Kaziranga National Park
     body: |-
