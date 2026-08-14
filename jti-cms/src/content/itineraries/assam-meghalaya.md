@@ -4,7 +4,7 @@ slug: assam-meghalaya
 category: culture
 kicker: Culture · Assam & Meghalaya
 description: The wildlife of Assam and the living landscapes of Meghalaya - Kaziranga's rhinos, Cherrapunjee's rains, and bridges grown from living roots.
-hero_image: /assets/uploads/Kamakhya Temple 1.webp
+hero_image: /assets/uploads/Guwahati_HD.jpg
 hero_fallback: ''
 lead: The wildlife of Assam and the living landscapes of Meghalaya — Kaziranga's rhinos, Cherrapunjee's rains, and bridges grown from living roots.
 intro: Pair the Big Five of Kaziranga with the waterfalls, caves and hand-grown root bridges of the Khasi Hills.
@@ -29,7 +29,7 @@ days:
     title: Arrive in Guwahati
     body: Arrival at Guwahati airport. On arrival meet & assist by JTi representative and transfer to the hotel. Check in on arrival. Overnight.
     stay: ''
-    photo: /assets/uploads/navarun-baishya-9ubWUB2jnE0-unsplash.jpg
+    photo: /assets/uploads/guwahati-532786.jpg
   - label: Day 2
     title: Guwahati – Kaziranga National Park (220 km/5 hrs. approx.)
     body: |-
@@ -124,26 +124,5 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: /assets/uploads/kamakhya-temple-guwahati-dispur-assam-2-musthead-hero.jpeg
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
-goodtoknow: |-
-  - Best Travel Season: October to April offers pleasant weather, clear skies, and excellent conditions for wildlife viewing and sightseeing.
-
-  - Wildlife Safaris: Jeep safaris in Kaziranga National Park are subject to the opening of the respective safari ranges and weather conditions.
-
-  - Dolphin Boat Ride: Available only for guests staying at Diphlu River Lodge. The shared boat ride is subject to river conditions, weather, and availability.
-
-  - Kamakhya Temple: Long queues are common, especially during weekends and festivals. VIP Darshan tickets are available at an additional cost (subject to availability).
-
-  - Road Journeys: Some travel days involve drives of 5–7 hours. Comfortable clothing and a few essentials are recommended.
-
-  - Cherrapunjee (Sohra): Many tourist attractions, shops, and restaurants remain closed on Sundays.
-
-  - Waterfalls: Water flow varies seasonally. The waterfalls are at their most spectacular during and immediately after the monsoon (June–September), while the October–April season offers pleasant weather and clear views.
-
-  - Living Root Bridges: Visiting the Umkar and Riwai Living Root Bridges involves walking on uneven paths and steps. Comfortable walking shoes are highly recommended.
-
-  - Dawki Boat Ride: The crystal-clear water is usually seen during the winter months (October to April), depending on rainfall and river conditions.
-
-  - Clothing: Carry light cotton clothing for Assam and a light jacket or sweater for Shillong and Cherrapunjee, especially during the evenings and mornings.
-
-  - Cash & Connectivity: ATMs are available in major towns, but it is advisable to carry some cash when visiting remote areas. Mobile connectivity may be limited inside Kaziranga National Park and certain parts of Meghalaya.
+goodtoknow: ''
 ---
