@@ -65,17 +65,17 @@ days:
 
       Ziro is home to the Apatani tribe and it is located in an extremely picturesque valley called Apatani Plateau surrounded by pine-covered mountains. The Apatani tribes themselves are Ziro’s greatest attraction. The older men-folk tie the hair in top-knots and tattoo the faces. Apatani women wear wooden nose plugs and tattooed their faces. However, new generation of Apatani men and women have stopped this practice of tying hair knot, nose plugs and face tattooing since early 1970s. The Apatani are good cultivators and practice both wet and terrace cultivation. Paddy cum fish culture is very popular among them.
     stay: ''
-    photo: /assets/uploads/Guests interaction with Apatani Ladies.jpg
+    photo: /assets/uploads/Apatani elders of Ziro.JPG
   - label: Day 5
     title: Ziro
     body: Today we will be engaging ourselves in the festivities of the Myoko Festival. ‘Mioko’ or ‘Myoko’, which is generally celebrated in the month of March, is one of the main festivals of the Apatani community of Arunachal Pradesh. In order to celebrate it all the villages in the Apatani plateau are divided into three major groups namely a) Hong, b) Hari, Reru, Tajang, Kalong, and c) Hija, Mudang-Tage, Duta, Michi Bamin. Unlike the other festivals of Apatanis, ‘Myoko’ is performed by each village only once in three years. One of these three groups celebrate and hosts the festival in a particular year whereas the other two groups join the celebration of the host group. Preparation for the ‘Myoko’ festivals begins much earlier with the hunting of bi-ding (monkey). The most important ritual of the festival is the sacrifices of the pigs which lasts for two days.
     stay: ''
-    photo: /assets/uploads/Myoko.png
+    photo: /assets/uploads/myoko_festival_ziro_HD.jpg
   - label: Day 6
     title: Ziro – Aalo (310 km/7.5 hrs, approx.)
     body: After breakfast, start your drive towards Aalo. We shall take comfort breaks on our way. On arrival, check in at your hotel. Overnight. Aalo or Along is the headquarter of West Siang district of Arunachal Pradesh, located at an altitude of 300 m from the sea level. Sitting amidst abundant natural resources surroundings with impenetrable forests, wide rivers, deep gorges, beautiful villages and plantation, this small town provides a blissful ambience to the visitors. Aalo is mainly inhabited by the Adi tribes – meaning “hill man” or “man of hill”, is one of the largest tribes of Arunachal Pradesh and a very prosperous one. They still prefer to live in traditional broad huge houses made of bamboo, cane and wood and are known for their unique architecture and designs. The religion of the Adi is centered on Donyi-Polo – the Sun-Moon God, who is regarded as the eye of the world. They believe in the world of spirits and perform ceremonies to appease malignant ones to ward off the evil.
     stay: ''
-    photo: ''
+    photo: /assets/uploads/image.png
   - label: Day 7
     title: Aalo
     body: After breakfast, you will explore the villages of Adi – Galo tribe in and around Aalo. Here you will meet the unique tribal people, visit local markets and get a more depth exposure to their culture and traditions. The Adi – Galo by nature are democratic and have an organised village council called “Kebang”. Adi villages are situated generally on the spurs of hills. Adi women are very good weavers and weave cloth with highly artistic designs. You can also have a walk near the bank of the Siyom river that has a picturesque view with lofty hills and visit another village scattered on the other side of the river. Return to the hotel by dusk and overnight.
