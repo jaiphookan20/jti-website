@@ -40,7 +40,7 @@ The closure therefore carries a deeper symbolism: **creation requires both activ
 
 When the temple doors close, thousands of devotees, ascetics and spiritual seekers gather around Nilachal Hill. Some come to pray, some to meditate, and others simply to experience one of Assam’s most extraordinary living traditions.
 
-![](/assets/uploads/KMhya.jfif "Kamakhya Temple aerial")
+![](/assets/uploads/Guwahati_HD.jpg "Kamakhya Temple aerial")
 
 ### A sacred connection between womanhood and the earth
 
