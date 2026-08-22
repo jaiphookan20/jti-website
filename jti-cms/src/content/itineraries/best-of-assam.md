@@ -4,8 +4,8 @@ slug: best-of-assam
 category: wildlife
 kicker: Wildlife & Birding · Assam
 description: An 8-day private wildlife and birding journey through Manas, Nameri and Kaziranga National Parks. Rhinos, tigers, elephants and the Bengal Florican. Tailor-made by JTI.
-hero_image: ''
-hero_fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
+hero_image: /assets/uploads/OHR.png
+hero_fallback: ''
 lead: Three parks, two UNESCO World Heritage Sites, and the Big Five — a journey through the green heart of Assam, from the Bhutan foothills of Manas to the rhino grasslands of Kaziranga.
 intro: "This eight-day journey threads together the finest of Assam's protected wild: Manas, spectacularly set against the mountains of Bhutan; Nameri, a birder's forest on the Jia-Bhorelli river; and Kaziranga, home to two-thirds of the world's one-horned rhinos. You'll travel by jeep and by elephant, on foot and by raft, with our own naturalists reading the forest for you — and, between safaris, time among the tea gardens, weavers and Bodo villages that make this landscape human as well as wild."
 facts:
@@ -72,15 +72,15 @@ glance:
   - key: Safaris
     value: Jeep · Elephant · On foot · Raft
 gallery:
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_6d4da7c843074631a89c41cfe6f377bb~mv2_d_3025_2012_s_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_950f883b2d88480680470a123bebd6e6~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_3f2b34df61124bc08ad5cc30f7154909~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
+  - image: /assets/uploads/OHR.png
+    fallback: ''
+  - image: /assets/uploads/BP1.jfif
+    fallback: ''
+  - image: /assets/uploads/Elephants @ Kaziranga NP.jpg
+    fallback: ''
+  - image: /assets/uploads/Great Hornbill.jpg
+    fallback: ''
+  - image: /assets/uploads/Sambar Deer.jfif
+    fallback: ''
 goodtoknow: ''
 ---
