@@ -59,7 +59,7 @@ days:
     title: Delhi
     body: Transfer to the airport for your onward flight.
     stay: ''
-    photo: /assets/uploads/Red Fort.jfif
+    photo: ''
 wildlife:
   - Royal Bengal Tiger
   - Leopard
@@ -82,16 +82,16 @@ glance:
   - key: Style
     value: Private & tailor-made
 gallery:
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_6d4da7c843074631a89c41cfe6f377bb~mv2_d_3025_2012_s_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_07791859f86947858223b723ae403eff~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_950f883b2d88480680470a123bebd6e6~mv2.jpg
+  - image: /assets/uploads/Qutub Minar.jfif
+    fallback: ''
+  - image: /assets/uploads/Tiger in Bandavgarh.jfif
+    fallback: ''
+  - image: /assets/uploads/Satpura NP.jfif
+    fallback: ''
+  - image: /assets/uploads/Pench NP.jfif
+    fallback: ''
+  - image: /assets/uploads/Tiger in Bandhavgarh1.jfif
+    fallback: ''
 goodtoknow: |-
   -Visit four of India's finest tiger reserves, each offering unique landscapes and wildlife experiences.
   -Early morning and late afternoon safaris offer the best chances of spotting tigers.
