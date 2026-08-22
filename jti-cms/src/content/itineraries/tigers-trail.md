@@ -54,7 +54,7 @@ days:
     title: Satpura – Delhi
     body: Depart early for Bhopal and fly to Delhi.
     stay: Delhi
-    photo: ''
+    photo: /assets/uploads/image (2).png
   - label: Day 14
     title: Delhi
     body: Transfer to the airport for your onward flight.
