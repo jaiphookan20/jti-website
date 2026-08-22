@@ -100,16 +100,11 @@ glance:
     value: November – April
   - key: Style
     value: Private & tailor-made
-gallery:
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_950f883b2d88480680470a123bebd6e6~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_3f2b34df61124bc08ad5cc30f7154909~mv2.jpg
-  - image: ''
-    fallback: https://static.wixstatic.com/media/12a327_31901260e14b4dec8b8f083765a105c8~mv2_d_3774_2516_s_4_2.jpg
-goodtoknow: ''
+gallery: []
+goodtoknow: |-
+  -Wildlife sightings are never guaranteed and are influenced by weather, season and animal behaviour. Patience is an essential part of the experience.
+  -Assam offers excellent opportunities to see the one-horned rhinoceros, elephants, wild buffalo and a remarkable variety of birds, while Arunachal provides a more pristine and adventurous forest experience.
+  -Safari drives can be bumpy, and early mornings may be cold. Warm layers, comfortable footwear, binoculars and sun protection are recommended.
+  -In remote parts of Arunachal Pradesh, mobile connectivity and internet can be limited. This is an excellent opportunity to disconnect and immerse yourself in the wilderness.
+  -Forest conditions and safari timings may change due to weather and local regulations. Your guide will advise you of any operational changes.
 ---
