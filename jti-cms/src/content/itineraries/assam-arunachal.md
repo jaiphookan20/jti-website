@@ -100,7 +100,15 @@ glance:
     value: November – April
   - key: Style
     value: Private & tailor-made
-gallery: []
+gallery:
+  - image: /assets/uploads/Dibru Saikhowa Ferel Horses.jpg
+    fallback: ''
+  - image: /assets/uploads/Digboi.webp
+    fallback: ''
+  - image: /assets/uploads/Eagle nest1.jfif
+    fallback: ''
+  - image: /assets/uploads/GHbill.jfif
+    fallback: ''
 goodtoknow: |-
   -Wildlife sightings are never guaranteed and are influenced by weather, season and animal behaviour. Patience is an essential part of the experience.
   -Assam offers excellent opportunities to see the one-horned rhinoceros, elephants, wild buffalo and a remarkable variety of birds, while Arunachal provides a more pristine and adventurous forest experience.
