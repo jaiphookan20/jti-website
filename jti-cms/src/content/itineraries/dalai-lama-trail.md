@@ -137,8 +137,8 @@ gallery:
   - image: /assets/uploads/Tawang1.png
     fallback: ''
 goodtoknow: |-
-  Follow the Dalai Lama’s journey through Dharamshala, Tibetan culture, monasteries, mountains and moments of quiet reflection.
-  The trail blends Himalayan landscapes, Tibetan Buddhism, monasteries, vibrant markets and encounters with local communities.
-  Respectful dress and quiet behaviour are appreciated when visiting monasteries, temples and Tibetan institutions.
-  Mountain weather can change quickly—carry layers and comfortable footwear for walks around Hilly Terrain.
+  -Follow the Dalai Lama’s journey through Dharamshala, Tibetan culture, monasteries, mountains and moments of quiet reflection.
+  -The trail blends Himalayan landscapes, Tibetan Buddhism, monasteries, vibrant markets and encounters with local communities.
+  -Respectful dress and quiet behaviour are appreciated when visiting monasteries, temples and Tibetan institutions.
+  -Mountain weather can change quickly—carry layers and comfortable footwear for walks around Hilly Terrain.
 ---
