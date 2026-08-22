@@ -82,5 +82,19 @@ gallery:
     fallback: https://static.wixstatic.com/media/12a327_164cdfdf4cc244d3935297f54442c29c~mv2.jpg
   - image: /assets/uploads/Ibis Bill.jpg
     fallback: https://static.wixstatic.com/media/12a327_e74487e17b444799926d479f75fca3fe~mv2_d_2896_1936_s_2.jpg
-goodtoknow: Every JTI itinerary is fully customisable and can be tailor-made to your interests, pace and dates. Tell us what you'd love and we'll craft it around you.
+goodtoknow: |-
+  A Journey at the Pace of the River
+  The Rudra Singha offers an intimate and leisurely way to discover the Brahmaputra and the landscapes of Assam. Rather than following a rigid sightseeing schedule, the cruise allows the river itself to set the pace, with opportunities to explore remote villages, river islands, forests and traditional communities along the way.
+
+  A Flexible Experience
+  Shore excursions and landings are planned according to the river conditions and may include village walks, cultural encounters, wildlife experiences, cycling and visits to places of local interest. As the Brahmaputra is a constantly changing river, the exact route and landing points may occasionally be adjusted according to water levels, weather and navigation conditions.
+
+  Wildlife & Birdlife
+  The river and its surrounding forests provide excellent opportunities for observing Assam's rich birdlife and, with some luck, other wildlife. Early mornings and late afternoons are particularly rewarding, so keeping binoculars and cameras close at hand is recommended.
+
+  Embrace the Journey
+  The greatest pleasure of the Rudra Singha is its unhurried rhythm. Days are spent watching sandbanks, forests, villages and rural life unfold along the river, while evenings bring spectacular sunsets and a sense of being far removed from the outside world.
+
+  A Note on Comfort
+  The Rudra Singha combines understated comfort with an authentic Assamese character. Guests should expect a relaxed, informal atmosphere rather than the facilities and scale of a conventional luxury cruise ship. The emphasis is on privacy, personal service and an immersive experience of the Brahmaputra.
 ---
