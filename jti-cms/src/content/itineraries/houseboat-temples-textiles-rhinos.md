@@ -40,7 +40,12 @@ days:
     photo: /assets/uploads/One Horned Rhino PWLS.jpg
   - label: Day 4
     title: ''
-    body: 'Today, while having breakfast we will sail down to reach Guwahati and disembark at Pandu Port, Guwahati. Embarkation point: Pandu Port, Guwahati Disembarkation point: Pandu Port, Guwahati NOTE: 1) Card payment facility is not available on the board. 2) Itineraries are subject to river & weather conditions. 3) Cruise Manager will make changes to the itinerary if required. 4) Laundry service is not available in our vessel.'
+    body: |-
+      Today, while having breakfast we will sail down to reach Guwahati and disembark at Pandu Port, Guwahati. 
+
+      Embarkation point: Pandu Port, Guwahati Disembarkation point: Pandu Port, Guwahati 
+
+      NOTE: 1) Card payment facility is not available on the board. 2) Itineraries are subject to river & weather conditions. 3) Cruise Manager will make changes to the itinerary if required. 4) Laundry service is not available in our vessel.
     stay: ''
     photo: ''
 wildlife:
