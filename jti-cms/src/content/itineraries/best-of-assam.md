@@ -82,5 +82,11 @@ gallery:
     fallback: ''
   - image: /assets/uploads/Sambar Deer.jfif
     fallback: ''
-goodtoknow: ''
+goodtoknow: |-
+  -Assam is one of India’s richest wildlife destinations, combining floodplain grasslands, wetlands, tropical forests and Himalayan foothill habitats. The state has seven national parks and numerous wildlife sanctuaries.
+  -Kaziranga National Park is the star attraction, particularly for the Greater One-horned Rhinoceros, Asian Elephant, Wild Water Buffalo, Swamp Deer and, with luck, Bengal Tiger. It is also excellent for waterbirds and migratory birds, with Assam Tourism noting more than 550 bird species.
+  -Birding in Kaziranga is particularly rewarding from late winter to early spring, when resident species are joined by winter migrants. Early mornings are generally the most productive periods for both birds and mammals.
+  -Manas National Park offers a very different experience from Kaziranga. Located along the Bhutan Himalayan foothills, its combination of forests, grasslands and riverine habitats makes it particularly attractive for serious birders and wildlife enthusiasts. The park has recorded 500+ bird species, including globally threatened species.
+  -Nameri National Park is especially good for forest and riverine birding. It is known for species such as the White-winged Wood Duck and several species of hornbills, while the Jia Bhoroli River adds an excellent riverine dimension to the experience.
+  -Hoollongapar Gibbon Wildlife Sanctuary is worth considering as an extension for primate enthusiasts. It is one of the best places to look for Hoolock Gibbon – India's only ape species, along with other primates. Exploration is on foot, making it a more intimate forest experience.
 ---
