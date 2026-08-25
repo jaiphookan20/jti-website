@@ -113,7 +113,10 @@ days:
     photo: ''
   - label: Day 17
     title: Departure from Port Blair
-    body: 'Morning check out and departure transfer to Airport for onward flight. TOUR ENDS Notes: - This itinerary is not a confirmation of services. We shall proceed with your booking once we have received confirmation from you with advance payment. The category of rooms may differ depending upon the availability at the time of booking. If rooms are unavailable in the original hotels mentioned above, we shall provide equivalent/ alternative hotels. - Road conditions are unpredictable in this region and could be under repair and not have an asphalt surface. Re-routing or itinerary changes can be made by the guide depending on the circumstances on the ground. Some portion of the road along these stretches of the road will be broken and bumpy and prone to the vagaries of nature which means often driving long hours. Also, there will be short distances of dirt roads between villages. - Please note that some of the sights/itineraries may change due to time limits, weather, national holidays, and special events. We maintain the right to alter the itinerary since tours are made in advance and unforeseen circumstances that mandate change may arise. Itinerary changes are made to improve your overall travel experience. - The duration mentioned in the itinerary may not be precise; it is the time that can be expected when strictly driving, depending on the present road conditions. Otherwise, the journey is conducted in such a way that we always stop midway to visit villages, markets, photography, and major landmarks of importance or interest depending on the client’s interest. - Clients must be fully insured to cover the costs of medical emergencies/ evacuation, expenses incurred by any amendment of tour itinerary (addition or reduction of several days) necessitated by weather conditions, prevailing road conditions, political or bureaucratic situations, natural calamities, change in flight schedule, mechanical malfunction, or any such unanticipated events or any Acts of God.'
+    body: |-
+      Morning check out and departure transfer to Airport for onward flight. 
+
+      TOUR ENDS
     stay: ''
     photo: ''
 wildlife:
