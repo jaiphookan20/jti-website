@@ -111,7 +111,7 @@ glance:
 gallery:
   - image: /assets/uploads/Elephant sighting @ Kaziranga NP.jpg
     fallback: https://commons.wikimedia.org/wiki/Special:FilePath/Tea_Garden_at_Indo-Bhutan_Border_at_Darranga,_Assam.jpg?width=1600
-  - image: /assets/uploads/Tea Garden visit 1.jpg
+  - image: /assets/uploads/Tea Leaves1.jpg
     fallback: ''
   - image: /assets/uploads/Tea garden.JPG
     fallback: ''
