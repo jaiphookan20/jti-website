@@ -5,7 +5,7 @@ category: birding
 kicker: Birding · Arunachal & Assam
 description: An 8-day birding tour through Eagle's Nest Sanctuary and Nameri, in the Eastern Himalaya Endemic Bird Area.
 hero_image: /assets/uploads/Great Hornbill.jpg
-hero_fallback: https://static.wixstatic.com/media/12a327_3f2b34df61124bc08ad5cc30f7154909~mv2.jpg
+hero_fallback: ''
 lead: A concentrated hornbill quest through the Eastern Himalaya Endemic Bird Area — from Eagle's Nest to Nameri.
 intro: Eight days in one of the richest pockets of the eastern Himalaya, camping in Eagle's Nest Wildlife Sanctuary and walking the forests of Nameri. Look for the Rufous-necked and Great Pied Hornbill, the White-winged Wood Duck and, if fortune smiles, the Bugun Liocichla.
 facts:
