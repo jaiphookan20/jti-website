@@ -4,7 +4,7 @@ slug: foothills-to-andamans
 category: culture
 kicker: Culture · Bengal, Sikkim & Andamans
 description: From the eastern Himalayas to the Andaman Sea - tea gardens, toy trains and a sacred alpine lake, ending on tropical islands.
-hero_image: /assets/uploads/Kalimpong.jpg
+hero_image: /assets/uploads/Kalimpong.png
 hero_fallback: ''
 lead: From the eastern Himalayas to the Andaman Sea — tea gardens, toy trains and a sacred alpine lake, ending on tropical islands.
 intro: A grand traverse of Sikkim and Darjeeling's mountain culture, then a flight south to the beaches and colonial history of the Andaman Islands.
