@@ -42,43 +42,54 @@ days:
   - label: Day 4
     title: Imphal local sightseeing
     body: |-
-      After breakfast, visit the Keibul Lamjao National Park, the only floating national park in the world and the home to various species of plants and animals, including the migratory visitors during the winters. Spread over an area of 40 sq. km, park hosts over 450 types of orchids, over 100 bird species including East Himalayan Pied Kingfisher, Black Kite, Lesser Sky-lark, Northern Hill Myna, Burmese Pied Myna, North Indian Black Drongos, Yellow Headed Wagtail, different types of ducks and cranes and wood peckers. Among the animals, Brow-antlered Deer, Hog Deer, Wild Boar, Large Indian Civets, Fox, Jungle Cat, Golden Cat, Bay Bamboo Rat, Musk Shrew, Common Shrew, Flying Fox, Sambar. A lot of aquatic species, amphibians and reptiles including Keel back Tortoise, Viper, Krait, Cobra, Python, Asian Rat Snake, Water Cobra, Russell’s Viper Checkered Garter Snake.
+      After breakfast, visit the Keibul Lamjao National Park, the only floating national park in the world located in the south western part of the Loktak lake. Spread across an area of approximately 40 sq. km, Keibul Lamjao National Park is characterized by a unique blend of aquatic, wetland and terrestrial ecosystems, complemented by moist semi-evergreen vegetation. The park is best known as the natural habitat of the endangered brow-antlered deer, locally known as the Sangai, which holds immense cultural significance in Manipur and is also the state animal. Apart from this, it is also home to remarkable biodiversity, including more than 450 species of orchids, over 100 species of birds – along with several migratory visitors during the winter months – and a wide variety of mammals, amphibians and reptiles, making it one of Manipur’s most important natural treasures.
 
-      This afternoon tour Imphal starting with Kangla Fort, also known as the Palace of Kangla, this place situated on the banks of the Imphal River, served as the royal palace of King Pakhangba. Later, visit Manipur state museum which focuses on ethnological, geological and archaeological exhibits. Artifacts of special interest are the displays of tribal jewelry, costumes and weapons.
+      This afternoon tour Imphal starting with Kangla Fort, also known as the Palace of Kangla, this place situated on the banks of the Imphal River, served as the royal palace of King Pakhangba.
+
+      Later, visit Manipur state museum which focuses on ethnological, geological and archaeological exhibits. Artifacts of special interest are the displays of tribal jewelry, costumes and weapons.
 
       We can also explore the INA Memorial, once used as the unofficial headquarters of the Indian National Army, this memorial was built to honor the soldiers who had sacrificed their lives for India. Netaji Subhash Chandra Bose motivated and formed armies here to participate in the freedom struggle. Back to hotel by dusk. Dinner and overnight.
     stay: ''
     photo: /assets/uploads/Kangla Fort, Imphal 1.jpg
   - label: Day 5
-    title: Imphal
+    title: Imphal – Sangai Festival
     body: Full day at Sangai Festival.
     stay: ''
     photo: /assets/uploads/Raas Leela Dance at the closing function of Sangai Festival 2014 in Imphal.jpg
   - label: Day 6
     title: Imphal – Kohima (5.5 hrs. drive, approx.)
     body: |-
-      After breakfast, visit The Imphal War Cemetery – a beautifully maintained war memorial by the Commonwealth War Graves Commission and commemorates British and Indian soldiers who were killed during the World War II. Later, start your journey towards Kohima, the capital city of Nagaland. Upon arrival, check-in at the hotel. After settling in at our Hotel and some rest, you may wish to take a walking tour of the Hornbill night market. Dinner and overnight stay.
+      Post breakfast, visit The British War Cemetery – a beautifully maintained war memorial by the Commonwealth War Graves Commission and commemorates British and Indian soldiers who were killed during the World War II.
+
+      Later, transfer to Kohima. Reach by dusk. After settling in at the hotel and some rest, you may wish to take a walking tour of the Hornbill night market. Overnight.
 
       Kohima, the hill capital of Nagaland, stands as one of India’s most significant cultural and historical hubs at an elevation of 1,444.12 meters. Renowned for its pleasant mountain climate and offering panoramic views of the rugged Naga Hills, it’s the home to the Angami Naga tribe – one of the major tribes of Nagaland, well known for their terraced wet rice cultivation. Kohima was the key site of one of the fiercest battles of the World War II, commemorated at the poignant Kohima War Cemetery. It also hosts the vibrant Hornbill Festival celebrating the culture, traditions and heritage of all 16 Naga ethnic groups.
     stay: ''
     photo: /assets/uploads/Imphal War Cemetery 1.jpg
   - label: Day 7
-    title: Hornbill festival
-    body: The Hornbill Festival takes place in the small village of Kisama where various Naga groups come for a cultural, dancing and sporting week dressed in warrior costumes. As most of the region is dependent on agriculture, all their festivals are based around this aspect. Experience the sights and sounds of Naga culture and tribes in colorful and distinct costumes. Whole day will be spent at festival ground exploring their rich heritage, cuisines, local alcoholic brews, traditional sports and handloom and handicraft shops. Different troops will be performing their indigenous dance forms in the arena.
+    title: Kohima – Hornbill Festival
+    body: |-
+      Today, walk to the Kisama Heritage Grounds, the main venue where most of the festival activities take place. Spend the full day at the Hornbill Festival. Overnight stay.
+
+      The Hornbill Festival is celebrated during the first ten days of December (1st–10th December) every year at the heritage village of Kisama, near Kohima. It is an annual cultural extravaganza organized by the tribal communities of Nagaland. Named after the hornbill, a bird highly revered in the folklore of most Naga tribes, the festival aims to preserve, revive, and promote the rich cultural heritage of the region. It offers visitors a unique opportunity to experience the enchanting land, its people, and its traditions through a vibrant display of cultural performances. This ten-day-long festival brings together all of Nagaland in a colourful showcase of dances, folk songs, handlooms, handicrafts, parades, games, sports, ethnic food fairs, and traditional ceremonies of various Naga tribes.
     stay: ''
     photo: /assets/uploads/Hornbill Festival 3.JPG
   - label: Day 8
     title: Kohima – Day trip to Khonoma & local sightseeing
     body: |-
+      Another day at the Hornbill Festival.
+
+      OR
+
       After breakfast, drive to Khonoma Village, inhabited by the Angami tribe. Surrounded by lush green hills and terraced fields, the village is renowned for its conservation efforts. Walk around the village to observe and experience the local lifestyle, offering a contrast to city life. Visit the three forts from where the Angamis once carried out attacks against British troops.
 
-      In the afternoon, visit the Kohima State Museum, which showcases the indigenous tribal cultures, history, and traditions of Nagaland. Then proceed to the Kohima Cathedral, built in the mid-20th century, a site of both cultural and historical significance. Also visit the Kohima War Cemetery, dedicated to the soldiers who fought in the Battle of Kohima during World War II. Evening, you may choose to go for a visit to the Hornbill night carnival. Dinner and overnight stay.
+      Later visit the Kohima State Museum, which showcases the indigenous tribal cultures, history, and traditions of Nagaland. Then proceed to the Kohima Cathedral, built in the mid-20th century, a site of both cultural and historical significance. Also visit the Kohima War Cemetery, dedicated to the soldiers who fought in the Battle of Kohima during World War II. In the evening, you may again go for a visit to the hornbill night carnival near to your hotel. Return to the hotel for an overnight stay.
     stay: ''
     photo: /assets/uploads/View of Khonoma Village.jpg
   - label: Day 9
     title: Kohima – Kaziranga National Park (6.5 hrs. drive, approx.)
     body: |-
-      After breakfast continue to Kaziranga National Park. On your way, you will pass through small hamlets and market places where villagers sell their products ranging from locally grown vegetables, seasonal fruits, some handloom, handicrafts, cane and bamboo items etc. On arrival, check in at the lodge. Evenign at leisure. Dinner and overnight.
+      After breakfast continue to Kaziranga National Park. On your way, you will pass through small hamlets and market places where village women sell their products ranging from locally grown vegetables, seasonal fruits, some handloom, handicraft, cane and bamboo items etc. On arrival, check in at the lodge. Evenign at leisure. Dinner and overnight.
 
       A UNESCO World Heritage Site, Kaziranga National Park is home to approximately 80% of the world's Indian One-Horned Rhinoceros population. In addition to the rhinoceros, the park boasts a high density of tigers and serves as a major breeding ground for elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it both a premier wildlife destination and a paradise for birdwatchers.
     stay: ''
