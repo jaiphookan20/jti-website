@@ -33,11 +33,13 @@ days:
   - label: Day 2
     title: Guwahati – Kaziranga National Park (220 km/5 hrs. approx.)
     body: |-
-      Today morning with an early start, visit the famous Kamakhya temple, situated on top of Nilachal hill. This temple is revered as one of the most sacred and ancient 51 Shakti Peethas in the Indian subcontinent and is devoted to the eternal feminine, the goddess of desire, “Kamakhya” – granter of desires. It symbolizes the "fusion of faiths and practices" of Aryan and non-Aryan elements in Assam.
+      Today morning, with an early start, visit the famous Kamakhya Temple, situated atop Nilachal Hill. The temple is revered as one of the most sacred and ancient of the 51 Shakti Peethas in the Indian subcontinent and is dedicated to Kamakhya, the goddess of desire and the granter of wishes. It also represents a unique fusion of Aryan and non-Aryan faiths and practices in Assam.
 
-      Then we shall drive to Kaziranga National Park. Check in at the hotel on arrival. Later go and visit Kaziranga Orchid & Bio Diversity Park. It has an Orchidarium where you can witness varieties of orchids and other plant species with medicinal value. This park also has an in-house museum displaying art, handicraft items and local musical instruments that represent the culture and heritage of the region. There is also a cultural arena that hosts dance performances of different ethnic communities of Assam. Return to hotel and overnight.
+      Then drive to Kaziranga National Park. Check in at the hotel on arrival. Later, visit the Kaziranga Orchid and Biodiversity Park, which houses an orchidarium showcasing a variety of orchids and other plant species, including those with medicinal value. The park also has a museum displaying traditional art, handicrafts, and local musical instruments representing the culture and heritage of the region. A cultural arena within the park also hosts traditional dance performances by various ethnic communities of Assam.
 
-      A UNESCO World Heritage Site, Kaziranga National Park is home to approximately 80% of the world's Indian One-Horned Rhinoceros population. In addition to the rhinoceros, the park boasts a high density of tigers and serves as a major breeding ground for elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it both a premier wildlife destination and a paradise for birdwatchers.
+      Return to the hotel and overnight.
+
+      A UNESCO World Heritage Site, Kaziranga National Park is home to a significant population of the Indian one-horned rhinoceros. Apart from the rhinoceros, the park is also home to tigers, elephants, swamp deer, and wild water buffaloes. Kaziranga is also recognized as an Important Bird Area (IBA), making it an excellent destination for wildlife enthusiasts and birdwatchers.
     stay: ''
     photo: /assets/uploads/Elephants @ Kaziranga NP-1.jpg
   - label: Day 3
