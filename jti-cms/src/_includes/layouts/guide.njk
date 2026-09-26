@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ name }} — {{ role }} | Jungle Travels India</title>
+<meta name="description" content="{{ description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_guide.njk" %}</style></head><body>
+{% include "_nav_guides.njk" %}
+<section class="ghero2"><div class="gsplit">
+  <div class="gvisual"><img src="{{ photo if photo else photo_fallback }}" alt="{{ name }}"><div class="gvscrim"></div></div>
+  <div class="gpanel"><div class="ginner">
+    <p class="eyebrow">{{ kicker }}</p>
+    <h1>{{ name }}</h1>
+    <p class="grole2">{{ role }} &middot; {{ region }}</p>
+    {% if years %}<p class="gyears">{{ years }}</p>{% endif %}
+    <p class="gintro">&ldquo;{{ intro }}&rdquo;</p>
+    {% if specialties %}<div class="gchips">{% for s in specialties %}<span class="chip">{{ s }}</span>{% endfor %}</div>{% endif %}
+  </div></div>
+</div></section>
+<div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; <a href="/guides/">Guides</a> &nbsp;/&nbsp; {{ name }}</div></div>
+<section class="gbio"><div class="wrap narrow"><p class="lead">{{ bio }}</p></div></section>
+<section class="ginterview"><div class="wrap narrow">
+  <div class="isechead"><p class="eyebrow">In conversation</p><h2>In {{ name }}'s own words</h2></div>
+  {% for item in interview %}
+  <div class="qa">
+    <p class="qn">Question {{ loop.index }} of {{ interview.length }}</p>
+    <p class="q">{{ item.q }}</p>
+    <p class="a">{{ item.a }}</p>
+  </div>
+  {% endfor %}
+</div></section>
+{% if favorite_place %}<section class="gfav"><div class="wrap narrow"><div class="favbox">
+  <p class="eyebrow" style="color:var(--sand);">Their favourite place</p>
+  <h3>{{ favorite_place.name }}</h3>
+  <p>&ldquo;{{ favorite_place.why }}&rdquo;</p>
+</div></div></section>{% endif %}
+<section class="gcta"><div class="wrap">
+  <div class="center-mark"></div><p class="eyebrow">Travel with {{ name }}</p>
+  <h2>Plan a journey through {{ region }}</h2>
+  <a class="btn btn-red" href="/#enquire">Start planning</a>
+</div></section>
+<section class="gteam"><div class="wrap">
+  <div class="sec-head"><div class="center-mark"></div><p class="eyebrow">Meet the rest of the team</p><h2>More of our guides</h2></div>
+  <div class="gcards">
+  {% for g in collections.guides %}{% if g.data.slug != slug %}
+  <a class="gmini" href="/guides/{{ g.data.slug }}/"><div class="ph"><img src="{{ g.data.photo if g.data.photo else g.data.photo_fallback }}" alt="{{ g.data.name }}"></div>
+  <p class="n">{{ g.data.name }}</p><p class="r">{{ g.data.role }}</p></a>
+  {% endif %}{% endfor %}
+  </div>
+</div></section>
+{% include "_footer_guides.njk" %}
+</body></html>

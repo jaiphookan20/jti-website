@@ -1,0 +1,31 @@
+---
+permalink: /guides/index.html
+---
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Guides — Meet the Naturalists | Jungle Travels India</title>
+<meta name="description" content="Meet the naturalists and culture guides of Jungle Travels India — in their own words. Their favourite places, their best stories, and why they do what they do.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_guides.njk" %}</style></head><body>
+{% include "_nav_guides.njk" %}
+<section class="ghero"><div class="wrap"><div class="center-mark"></div><p class="eyebrow">The people behind every journey</p>
+<h1>Our Guides</h1>
+<p class="lede">Every JTI trip is led by someone who has spent years — often decades — getting to know one part of India intimately. We asked them about the places they love most, and the moments they'll never forget.</p></div></section>
+<div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; Guides</div></div>
+<section class="gsection"><div class="wrap"><div class="ggrid">
+{% for g in collections.guides %}
+<a class="gcard" href="/guides/{{ g.data.slug }}/">
+  <div class="gph"><img src="{{ g.data.photo if g.data.photo else g.data.photo_fallback }}" alt="{{ g.data.name }}"></div>
+  <div class="gb"><p class="gk">{{ g.data.kicker }}</p><h3>{{ g.data.name }}</h3><p class="grole">{{ g.data.role }}</p>
+  <p class="gquote">&ldquo;{{ g.data.intro }}&rdquo;</p>
+  <span class="gview">Read the interview &rarr;</span></div>
+</a>
+{% endfor %}
+</div></div></section>
+<section class="ginvite"><div class="wrap"><div class="center-mark" style="margin:0 auto 20px;"></div>
+<p class="eyebrow">Travel with one of them</p><h2>Let a naturalist show you their India</h2>
+<p>Every journey we build is led by one of the people above — tell us what you're drawn to, and we'll match you with the right guide.</p>
+<a class="btn btn-red" href="/#enquire">Start planning</a></div></section>
+{% include "_footer_guides.njk" %}
+</body></html>

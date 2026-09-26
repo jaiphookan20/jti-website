@@ -96,6 +96,44 @@ collections:
           - { name: value, label: Value, widget: string }
       - { name: tours, label: "Journeys that visit this park (slugs)", widget: list, required: false, field: { name: slug, widget: string } }
 
+  # --------------------------- GUIDES ---------------------------
+  - name: guides
+    label: Our Guides
+    label_singular: Guide
+    folder: "jti-cms/src/content/guides"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: name
+    summary: "{{name}}  —  {{role}}"
+    fields:
+      - { name: name, label: Name, widget: string }
+      - { name: slug, label: "Web address (slug)", widget: string, hint: "Lowercase, dashes. Changing this changes the page URL." }
+      - { name: role, label: "Role (e.g. Senior Naturalist Guide)", widget: string }
+      - { name: region, label: "Region / specialty area", widget: string }
+      - { name: years, label: "Experience line (e.g. 18 years guiding)", widget: string, required: false }
+      - { name: kicker, label: "Kicker (small line, e.g. Field Guide · Ladakh)", widget: string, required: false }
+      - { name: description, label: "Search description (SEO)", widget: text, required: false }
+      - { name: photo, label: "Portrait photo", widget: image, required: false, hint: "Leave empty to keep the current stand-in photo." }
+      - { name: photo_fallback, label: "Stand-in photo URL", widget: string, required: false }
+      - { name: intro, label: "Intro line (short, shown large on their page and card)", widget: text }
+      - { name: bio, label: "Bio paragraph", widget: text }
+      - { name: languages, label: Languages, widget: string, required: false }
+      - { name: specialties, label: "Specialty tags", widget: list, required: false, field: { name: item, widget: string } }
+      - name: interview
+        label: "Interview — questions & answers"
+        widget: list
+        summary: "{{fields.q}}"
+        fields:
+          - { name: q, label: Question, widget: string }
+          - { name: a, label: Answer, widget: text }
+      - name: favorite_place
+        label: "Their favourite place"
+        widget: object
+        required: false
+        fields:
+          - { name: name, label: "Place name", widget: string }
+          - { name: why, label: "Why they love it (quote)", widget: text }
+
   # --------------------------- STORIES ---------------------------
   - name: stories
     label: Field Notes (Journal)
