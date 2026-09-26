@@ -11,15 +11,15 @@ permalink: /guides/index.html
 {% include "_nav_guides.njk" %}
 <section class="ghero"><div class="wrap"><div class="center-mark"></div><p class="eyebrow">The people behind every journey</p>
 <h1>Our Guides</h1>
-<p class="lede">Every JTI trip is led by someone who has spent years — often decades — getting to know one part of India intimately. We asked them about the places they love most, and the moments they'll never forget.</p></div></section>
+<p class="lede">We use our own guides and naturalists — people we know and can personally vouch for — rather than subcontracting. Meet some of them here.</p></div></section>
 <div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; Guides</div></div>
 <section class="gsection"><div class="wrap"><div class="ggrid">
 {% for g in collections.guides %}
 <a class="gcard" href="/guides/{{ g.data.slug }}/">
   <div class="gph"><img src="{{ g.data.photo if g.data.photo else g.data.photo_fallback }}" alt="{{ g.data.name }}"></div>
-  <div class="gb"><p class="gk">{{ g.data.kicker }}</p><h3>{{ g.data.name }}</h3><p class="grole">{{ g.data.role }}</p>
-  <p class="gquote">&ldquo;{{ g.data.intro }}&rdquo;</p>
-  <span class="gview">Read the interview &rarr;</span></div>
+  <div class="gb"><p class="gk">{{ g.data.kicker }}</p><h3>{{ g.data.name }}</h3><p class="grole">{{ g.data.role }}{% if g.data.region %} · {{ g.data.region }}{% endif %}</p>
+  {% if g.data.intro %}<p class="gquote">&ldquo;{{ g.data.intro }}&rdquo;</p>{% endif %}
+  <span class="gview">{% if g.data.interview and g.data.interview.length %}Read the interview{% else %}Meet {{ g.data.name }}{% endif %} &rarr;</span></div>
 </a>
 {% endfor %}
 </div></div></section>

@@ -109,19 +109,22 @@ collections:
       - { name: name, label: Name, widget: string }
       - { name: slug, label: "Web address (slug)", widget: string, hint: "Lowercase, dashes. Changing this changes the page URL." }
       - { name: role, label: "Role (e.g. Senior Naturalist Guide)", widget: string }
-      - { name: region, label: "Region / specialty area", widget: string }
+      - { name: region, label: "Region / specialty area", widget: string, required: false }
       - { name: years, label: "Experience line (e.g. 18 years guiding)", widget: string, required: false }
       - { name: kicker, label: "Kicker (small line, e.g. Field Guide · Ladakh)", widget: string, required: false }
       - { name: description, label: "Search description (SEO)", widget: text, required: false }
       - { name: photo, label: "Portrait photo", widget: image, required: false, hint: "Leave empty to keep the current stand-in photo." }
       - { name: photo_fallback, label: "Stand-in photo URL", widget: string, required: false }
-      - { name: intro, label: "Intro line (short, shown large on their page and card)", widget: text }
-      - { name: bio, label: "Bio paragraph", widget: text }
+      - { name: intro, label: "Intro line (short, shown large on their page and card)", widget: text, required: false }
+      - { name: bio, label: "Bio paragraph", widget: text, required: false }
+      - { name: bio_link, label: "Bio — link URL (optional)", widget: string, required: false }
+      - { name: bio_link_label, label: "Bio — link text (optional)", widget: string, required: false }
       - { name: languages, label: Languages, widget: string, required: false }
       - { name: specialties, label: "Specialty tags", widget: list, required: false, field: { name: item, widget: string } }
       - name: interview
-        label: "Interview — questions & answers"
+        label: "Interview — questions & answers (leave empty to hide)"
         widget: list
+        required: false
         summary: "{{fields.q}}"
         fields:
           - { name: q, label: Question, widget: string }
@@ -188,6 +191,8 @@ collections:
           - { name: intro_strip, label: "Intro — species strip", widget: string }
           - { name: intro_image, label: "Intro photo", widget: image, required: false }
           - { name: intro_fallback, label: "Intro stand-in URL", widget: string, required: false }
+          - { name: why_image, label: "'Why travel with JTI' photo", widget: image, required: false }
+          - { name: why_fallback, label: "'Why travel with JTI' stand-in URL", widget: string, required: false }
           - name: journeys
             label: "Signature journey cards"
             widget: list
@@ -223,3 +228,60 @@ collections:
           - { name: email, label: Email, widget: string }
           - { name: address, label: Address, widget: string }
           - { name: url, label: Website URL, widget: string }
+      - name: our_story
+        label: Our Story
+        file: "jti-cms/src/_data/ourstory.json"
+        fields:
+          - { name: hero_eyebrow, label: "Hero — small line", widget: string }
+          - { name: hero_title, label: "Hero — headline", widget: string }
+          - { name: hero_image, label: "Hero photo", widget: image, required: false }
+          - { name: hero_fallback, label: "Hero stand-in URL", widget: string, required: false }
+          - name: hero_facts
+            label: "Hero stat row (3 items)"
+            widget: list
+            fields:
+              - { name: value, label: Value, widget: string }
+              - { name: label, label: Label, widget: string }
+          - { name: founding_kicker, label: "Founding story — small line", widget: string }
+          - { name: founding_title, label: "Founding story — heading", widget: string }
+          - { name: founding_paragraphs, label: "Founding story — paragraphs", widget: list, field: { name: paragraph, widget: text } }
+          - { name: timeline_kicker, label: "Timeline — small line", widget: string }
+          - { name: timeline_title, label: "Timeline — heading", widget: string }
+          - name: timeline
+            label: "Timeline milestones"
+            widget: list
+            summary: "{{fields.year}} — {{fields.title}}"
+            fields:
+              - { name: year, label: "Year (or 'Add year' as a placeholder)", widget: string }
+              - { name: title, label: "Milestone title", widget: string }
+              - { name: text, label: "Milestone description", widget: text }
+          - { name: timeline_note, label: "Small note under the timeline", widget: text, required: false }
+          - { name: why_kicker, label: "Why-us cards — small line", widget: string }
+          - { name: why_title, label: "Why-us cards — heading", widget: string }
+          - name: why_cards
+            label: "Why-us cards (3)"
+            widget: list
+            fields:
+              - { name: kicker, label: "Small label", widget: string }
+              - { name: title, label: Title, widget: string }
+              - { name: text, label: Text, widget: text }
+          - { name: team_kicker, label: "Team section — small line", widget: string }
+          - { name: team_title, label: "Team section — heading", widget: string }
+          - { name: team_paragraphs, label: "Team section — paragraphs", widget: list, field: { name: paragraph, widget: text } }
+          - { name: team_cta_text, label: "Team section — link line", widget: text, required: false }
+          - { name: team_cta_link, label: "Team section — link URL", widget: string, required: false }
+          - { name: team_cta_label, label: "Team section — link label", widget: string, required: false }
+          - { name: group_kicker, label: "Group section — small line", widget: string }
+          - { name: group_title, label: "Group section — heading", widget: string }
+          - { name: group_text, label: "Group section — description", widget: text }
+          - name: sister_brands
+            label: "Sister brands (logos) — leave empty to hide this row"
+            widget: list
+            required: false
+            fields:
+              - { name: name, label: "Brand name", widget: string }
+              - { name: logo, label: "Logo image", widget: image, required: false }
+              - { name: logo_white, label: "Logo is white (show it dark on the white card)", widget: boolean, required: false, default: false }
+              - { name: url, label: "Website (optional)", widget: string, required: false }
+              - { name: blurb, label: "Short description (optional)", widget: string, required: false }
+          - { name: cta_title, label: "Closing banner — heading", widget: string }

@@ -53,6 +53,7 @@ permalink: /index.html
   <a class="park" href="{{ p.href }}"><img src="{{ p.image if p.image else p.fallback }}" alt="{{ p.title }}"><div class="scrim"></div>
   <div class="c"><div class="k">{{ p.kicker }}</div><h3>{{ p.title }}</h3></div></a>{% endfor %}</div></div></section>
 {% include "_why_home.njk" %}
+{% include "_group_home.njk" %}
 <section class="testi"><div class="wrap"><div class="sec-head"><div class="center-mark"></div>
   <p class="eyebrow">In our travellers' words</p><h2>Trusted by serious naturalists</h2></div>
   <div class="quote"><p>{{ home.quote }}</p><div class="who">{{ home.quote_who }}</div></div></div></section>
@@ -66,6 +67,7 @@ permalink: /index.html
   <div class="wrap"><div class="inner"><div><div class="center-mark" style="margin:0 0 22px;"></div>
   <p class="eyebrow" style="color:#F0C9A8;">Let's begin</p><h2>{{ home.enquire_title }}</h2><p>{{ home.enquire_text }}</p>
   <div class="contacts"><b>Call</b> &nbsp; <a href="tel:{{ site.phone_raw }}" style="color:#fff;">{{ site.phone }}</a><br>
+  <b>WhatsApp</b> &nbsp; <a href="https://wa.me/919209200013" target="_blank" rel="noopener" style="color:#fff;">Message us instantly</a><br>
   <b>Email</b> &nbsp; <a href="mailto:{{ site.email }}" style="color:#fff;">{{ site.email }}</a><br>
   <b>Visit</b> &nbsp; <span style="color:#CFD8C8;">{{ site.address }}</span></div></div>
   <form class="form" name="enquiry" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thanks/">
@@ -75,7 +77,9 @@ permalink: /index.html
   <div class="row"><div><label>Interest</label><select name="interest"><option>Wildlife safari</option><option>Birding tour</option><option>Culture &amp; festivals</option><option>A mix / not sure yet</option></select></div>
   <div><label>Approx. dates</label><input type="text" name="dates"></div></div>
   <label>What would you love to see?</label><textarea name="message" rows="3"></textarea>
-  <button class="btn btn-red" type="submit">Send enquiry</button></form></div></div></section>
+  <button class="btn btn-red" type="submit">Send enquiry</button>
+  <p style="text-align:center;font-family:var(--sans);font-size:12px;letter-spacing:1px;color:var(--gold);margin-top:14px;">or <a href="https://wa.me/919209200013" target="_blank" rel="noopener" style="color:var(--red);">message us on WhatsApp &rarr;</a></p>
+  </form></div></div></section>
 {% include "_footer_home.njk" %}
 <script>{% include "_script_home.njk" %}</script>
 </body></html>

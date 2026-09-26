@@ -9,17 +9,18 @@
 <section class="ghero2"><div class="gsplit">
   <div class="gvisual"><img src="{{ photo if photo else photo_fallback }}" alt="{{ name }}"><div class="gvscrim"></div></div>
   <div class="gpanel"><div class="ginner">
-    <p class="eyebrow">{{ kicker }}</p>
+    {% if kicker %}<p class="eyebrow">{{ kicker }}</p>{% endif %}
     <h1>{{ name }}</h1>
-    <p class="grole2">{{ role }} &middot; {{ region }}</p>
+    <p class="grole2">{{ role }}{% if region %} &middot; {{ region }}{% endif %}</p>
     {% if years %}<p class="gyears">{{ years }}</p>{% endif %}
-    <p class="gintro">&ldquo;{{ intro }}&rdquo;</p>
-    {% if specialties %}<div class="gchips">{% for s in specialties %}<span class="chip">{{ s }}</span>{% endfor %}</div>{% endif %}
+    {% if intro %}<p class="gintro">&ldquo;{{ intro }}&rdquo;</p>{% endif %}
+    {% if languages %}<p class="gyears">Speaks {{ languages }}</p>{% endif %}
+    {% if specialties and specialties.length %}<div class="gchips">{% for s in specialties %}<span class="chip">{{ s }}</span>{% endfor %}</div>{% endif %}
   </div></div>
 </div></section>
 <div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; <a href="/guides/">Guides</a> &nbsp;/&nbsp; {{ name }}</div></div>
-<section class="gbio"><div class="wrap narrow"><p class="lead">{{ bio }}</p></div></section>
-<section class="ginterview"><div class="wrap narrow">
+{% if bio %}<section class="gbio"><div class="wrap narrow"><p class="lead">{{ bio }}{% if bio_link %} <a href="{{ bio_link }}" style="color:var(--red);border-bottom:1px solid var(--red);">{{ bio_link_label if bio_link_label else "Read more" }} &rarr;</a>{% endif %}</p></div></section>{% endif %}
+{% if interview and interview.length %}<section class="ginterview"><div class="wrap narrow">
   <div class="isechead"><p class="eyebrow">In conversation</p><h2>In {{ name }}'s own words</h2></div>
   {% for item in interview %}
   <div class="qa">
@@ -28,15 +29,15 @@
     <p class="a">{{ item.a }}</p>
   </div>
   {% endfor %}
-</div></section>
-{% if favorite_place %}<section class="gfav"><div class="wrap narrow"><div class="favbox">
+</div></section>{% endif %}
+{% if favorite_place and favorite_place.name %}<section class="gfav"><div class="wrap narrow"><div class="favbox">
   <p class="eyebrow" style="color:var(--sand);">Their favourite place</p>
   <h3>{{ favorite_place.name }}</h3>
-  <p>&ldquo;{{ favorite_place.why }}&rdquo;</p>
+  {% if favorite_place.why %}<p>&ldquo;{{ favorite_place.why }}&rdquo;</p>{% endif %}
 </div></div></section>{% endif %}
-<section class="gcta"><div class="wrap">
+<section class="gcta" style="padding-top:80px;"><div class="wrap">
   <div class="center-mark"></div><p class="eyebrow">Travel with {{ name }}</p>
-  <h2>Plan a journey through {{ region }}</h2>
+  <h2>{% if region %}Plan a journey through {{ region }}{% else %}Plan a journey with us{% endif %}</h2>
   <a class="btn btn-red" href="/#enquire">Start planning</a>
 </div></section>
 <section class="gteam"><div class="wrap">
@@ -44,7 +45,7 @@
   <div class="gcards">
   {% for g in collections.guides %}{% if g.data.slug != slug %}
   <a class="gmini" href="/guides/{{ g.data.slug }}/"><div class="ph"><img src="{{ g.data.photo if g.data.photo else g.data.photo_fallback }}" alt="{{ g.data.name }}"></div>
-  <p class="n">{{ g.data.name }}</p><p class="r">{{ g.data.role }}</p></a>
+  <p class="n">{{ g.data.name }}</p><p class="r">{{ g.data.role }}{% if g.data.region %} · {{ g.data.region }}{% endif %}</p></a>
   {% endif %}{% endfor %}
   </div>
 </div></section>

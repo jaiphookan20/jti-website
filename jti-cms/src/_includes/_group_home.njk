@@ -1,0 +1,13 @@
+{% if ourstory.sister_brands and ourstory.sister_brands.length %}
+<section class="groupstrip"><div class="wrap">
+  <p class="eyebrow">{{ ourstory.group_title }}</p>
+  <div class="gs-row">
+  {% for b in ourstory.sister_brands %}
+    <a class="gs-item" href="{{ b.url if b.url else '#' }}" {% if b.url and b.url != '/' %}target="_blank" rel="noopener"{% endif %} title="{{ b.name }} — {{ b.blurb }}">
+      {% if b.logo %}<img class="{{ 'white' if b.logo_white }}" src="{{ b.logo | media }}" alt="{{ b.name }}" onerror="this.outerHTML='<span class=gs-name>{{ b.name }}</span>'">{% else %}<span class="gs-name">{{ b.name }}</span>{% endif %}
+    </a>
+  {% endfor %}
+  </div>
+  <a class="gs-link" href="/our-story/">Our story &amp; the family of brands &rarr;</a>
+</div></section>
+{% endif %}

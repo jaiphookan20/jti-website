@@ -1,0 +1,74 @@
+---
+permalink: /our-story/index.html
+---
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Story — Family-run since 1989 | Jungle Travels India</title>
+<meta name="description" content="Jungle Travels India is a family-run, award-winning wildlife and birding company founded in 1989 by Ashish and Jahnabi Phookan. Our history, our team, and the group we're part of.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>{% include "_css_ourstory.njk" %}</style></head><body>
+{% include "_nav_guides.njk" %}
+
+<section class="shero"><img class="bg" src="{{ ourstory.hero_image if ourstory.hero_image else ourstory.hero_fallback }}" alt="Jungle Travels India"><div class="scrim"></div>
+  <div class="wrap"><div class="inner"><p class="eyebrow">{{ ourstory.hero_eyebrow }}</p><h1>{{ ourstory.hero_title }}</h1>
+  <div class="facts">{% for f in ourstory.hero_facts %}<span><b>{{ f.value }}</b>{{ f.label }}</span>{% endfor %}</div></div></div></section>
+
+<div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; Our Story</div></div>
+
+<section class="founding"><div class="wrap narrow">
+  <div class="sechead"><div class="center-mark"></div><p class="eyebrow">{{ ourstory.founding_kicker }}</p><h2>{{ ourstory.founding_title }}</h2></div>
+  {% for p in ourstory.founding_paragraphs %}<p>{{ p }}</p>{% endfor %}
+</div></section>
+
+<section class="tlsec"><div class="wrap">
+  <div class="sechead"><div class="center-mark" style="margin:0 auto 20px;"></div><p class="eyebrow">{{ ourstory.timeline_kicker }}</p><h2>{{ ourstory.timeline_title }}</h2></div>
+  <div class="tl-track">
+    {% for t in ourstory.timeline %}
+    <div class="tl-item"><div class="tl-year">{{ t.year }}</div><h3>{{ t.title }}</h3><p>{{ t.text }}</p></div>
+    {% endfor %}
+  </div>
+  {% if ourstory.timeline_note %}<p class="tl-note">{{ ourstory.timeline_note }}</p>{% endif %}
+</div></section>
+
+<section class="why3"><div class="wrap">
+  <div class="sechead"><div class="center-mark" style="margin:0 auto 20px;"></div><p class="eyebrow">{{ ourstory.why_kicker }}</p><h2>{{ ourstory.why_title }}</h2></div>
+  <div class="why3grid">
+  {% for c in ourstory.why_cards %}
+  <div class="why3card"><p class="k">{{ c.kicker }}</p><h3>{{ c.title }}</h3><p>{{ c.text }}</p></div>
+  {% endfor %}
+  </div>
+</div></section>
+
+<section class="team"><div class="wrap narrow">
+  <div class="sechead"><div class="center-mark"></div><p class="eyebrow">{{ ourstory.team_kicker }}</p><h2>{{ ourstory.team_title }}</h2></div>
+  {% for p in ourstory.team_paragraphs %}<p>{{ p }}</p>{% endfor %}
+  {% if ourstory.team_cta_text %}<div class="cta-line"><p>{{ ourstory.team_cta_text }}</p><a class="btn btn-outline" href="{{ ourstory.team_cta_link }}">{{ ourstory.team_cta_label }} &rarr;</a></div>{% endif %}
+</div></section>
+
+<section class="groupsec"><div class="wrap">
+  <div class="center-mark"></div><p class="eyebrow">{{ ourstory.group_kicker }}</p><h2>{{ ourstory.group_title }}</h2>
+  <p class="gtext">{{ ourstory.group_text }}</p>
+  {% if ourstory.sister_brands and ourstory.sister_brands.length %}
+  <div class="brandrow">
+  {% for b in ourstory.sister_brands %}
+    <a class="brandtile" href="{{ b.url if b.url else '#' }}" {% if b.url and b.url != '/' %}target="_blank" rel="noopener"{% endif %}>
+      <div class="logo">{% if b.logo %}<img class="{{ 'white' if b.logo_white }}" src="{{ b.logo | media }}" alt="{{ b.name }}" onerror="this.parentNode.innerHTML='<span class=bn>{{ b.name }}</span>'">{% else %}<span class="bn">{{ b.name }}</span>{% endif %}</div>
+      <div class="bname">{{ b.name }}</div>
+      {% if b.blurb %}<div class="bb">{{ b.blurb }}</div>{% endif %}
+    </a>
+  {% endfor %}
+  </div>
+  {% else %}
+  <p class="brandnote">Sister-brand logos coming soon — add them anytime via Pages &amp; Settings &rarr; Our Story in the Content Manager.</p>
+  {% endif %}
+</div></section>
+
+<section class="finalcta"><div class="wrap">
+  <div class="center-mark"></div><p class="eyebrow">Travel with us</p>
+  <h2>{{ ourstory.cta_title }}</h2>
+  <a class="btn btn-red" href="/#enquire">Plan your journey</a>
+</div></section>
+
+{% include "_footer_guides.njk" %}
+</body></html>

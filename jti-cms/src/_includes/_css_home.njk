@@ -1,4 +1,5 @@
-:root{
+
+    :root{
       --paper:#F5F0E6;--paper-deep:#E9E2D4;--ink:#2B2B26;--body:#3F3E36;
       --green:#1F3D2B;--green-soft:#2E4A38;--red:#7B2E2A;--gold:#8A7E63;--line:#D8CFBA;--sand:#D9B48A;
       --serif:'Cormorant', Georgia, serif;
@@ -126,13 +127,39 @@
     .park .c h3{color:var(--paper);font-size:19px;margin-top:6px;line-height:1.2;}
 
     /* ---------- why jti ---------- */
-    .why{background:var(--green);color:var(--paper);}
-    .why .sec-head h2{color:var(--paper);}
-    .why .sec-head p{color:#CFD8C8;}
-    .why .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:34px;margin-top:10px;}
-    .why .col .ic{width:44px;height:44px;border:1px solid var(--red);display:flex;align-items:center;justify-content:center;color:var(--red);font-family:var(--serif);font-size:22px;margin-bottom:18px;}
-    .why .col h3{color:var(--paper);font-size:21px;margin-bottom:12px;}
-    .why .col p{color:#C6D0C0;font-size:16px;line-height:1.6;}
+    .why{background:var(--green);color:var(--paper);position:relative;overflow:hidden;}
+    .why::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 88% 10%,rgba(217,180,138,.12),transparent 55%);pointer-events:none;}
+    .why .wrap{position:relative;z-index:2;}
+    .whygrid{display:grid;grid-template-columns:.86fr 1.14fr;gap:70px;align-items:center;}
+    .whyvisual{position:relative;}
+    .whyvisual img{width:100%;height:560px;object-fit:cover;}
+    .whybadge{position:absolute;left:0;bottom:0;background:var(--red);color:var(--paper);padding:22px 32px;text-align:center;}
+    .whybadge .n{display:block;font-family:var(--serif);font-size:38px;line-height:1;}
+    .whybadge .l{display:block;font-family:var(--sans);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#F0C9A8;margin-top:6px;}
+    .whycontent .center-mark{margin-bottom:20px;}
+    .whycontent .eyebrow{color:var(--sand);}
+    .whycontent h2{color:var(--paper);font-size:42px;margin:16px 0 18px;}
+    .whycontent .lede{font-family:var(--garamond);font-style:italic;font-size:19px;line-height:1.6;color:#CFD8C8;margin-bottom:0;padding-bottom:34px;border-bottom:1px solid rgba(255,255,255,.14);}
+    .whylist{margin:8px 0 32px;}
+    .whyitem{display:flex;gap:22px;padding:24px 0;border-bottom:1px solid rgba(255,255,255,.12);}
+    .whyitem:last-child{border-bottom:none;}
+    .whyitem .num{font-family:var(--serif);font-size:22px;color:var(--red);flex:0 0 auto;line-height:1.35;}
+    .whyitem h3{color:var(--paper);font-size:20px;margin-bottom:8px;}
+    .whyitem p{color:#C6D0C0;font-size:15.5px;line-height:1.65;}
+    .whyitem p a{color:var(--sand);}
+
+    /* ---------- family of brands strip ---------- */
+    .groupstrip{background:#fff;padding:54px 0 50px;text-align:center;border-bottom:1px solid var(--line);}
+    .groupstrip .eyebrow{color:var(--gold);}
+    .gs-row{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:56px;margin:30px 0 26px;}
+    .gs-item{display:flex;align-items:center;justify-content:center;height:84px;}
+    .gs-item img{max-height:84px;max-width:170px;object-fit:contain;filter:grayscale(1);opacity:.7;transition:.25s;}
+    .gs-item img.white{filter:brightness(0);opacity:.7;}
+    .gs-item:hover img{filter:none;opacity:1;}
+    .gs-item:hover img.white{filter:brightness(0);opacity:1;}
+    .gs-name{font-family:var(--serif);font-size:20px;color:var(--green);}
+    .gs-link{font-family:var(--sans);font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:var(--green);border-bottom:1px solid var(--red);padding-bottom:3px;}
+    @media (max-width:760px){.gs-row{gap:30px;}.gs-item{height:60px;}.gs-item img{max-height:60px;max-width:120px;}}
 
     /* ---------- testimonials ---------- */
     .testi .sec-head{margin-bottom:40px;}
@@ -190,7 +217,9 @@
 
     /* ---------- responsive ---------- */
     @media (max-width:1000px){
-      .why .grid{grid-template-columns:repeat(2,1fr);}
+      .whygrid{grid-template-columns:1fr;gap:40px;}
+      .whyvisual img{height:320px;}
+      .whycontent h2{font-size:30px;}
       .parks .strip{grid-template-columns:repeat(2,1fr);}
       .journeys .cards,.featured .cards,.fieldnotes .cards{grid-template-columns:1fr 1fr;}
     }
@@ -213,3 +242,4 @@
       footer.site .grid{grid-template-columns:1fr 1fr;gap:30px;}
       .form .row{grid-template-columns:1fr;}
     }
+  

@@ -3,8 +3,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
+  eleventyConfig.addFilter("media", (u) => { if(!u) return ""; if(/^https?:\/\//.test(u)) return u; return u.startsWith("/") ? u : "/"+u.replace(/^\.?\/*/,""); });
   eleventyConfig.addFilter("head", (arr, n) => (arr || []).slice(0, n));
-  eleventyConfig.addPassthroughCopy({ "src/static/our-story": "our-story" });
   eleventyConfig.addPassthroughCopy({ "src/static/thanks": "thanks" });
   eleventyConfig.addPassthroughCopy({ "src/static/404.html": "404.html" });
   eleventyConfig.addFilter("where", (arr, key, val) => (arr || []).filter(i => (i.data ? i.data[key] : i[key]) === val));

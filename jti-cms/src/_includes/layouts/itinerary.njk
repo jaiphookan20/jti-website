@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>{% include "_css_itinerary.njk" %}</style></head><body>
 {% include "_nav_itinerary.njk" %}
-<section class="hero"><img class="bg" src="{{ hero_image if hero_image else hero_fallback }}" alt="{{ title }}"><div class="scrim"></div>
+<section class="hero"><img class="bg" src="{{ (hero_image | media) if hero_image else hero_fallback }}" alt="{{ title }}"><div class="scrim"></div>
   <div class="wrap"><div class="inner"><p class="eyebrow">{{ kicker }}</p><h1>{{ title }}</h1>
   <div class="facts">{% for f in facts %}<span><b>{{ f.value }}</b> {{ f.label }}</span>{% endfor %}</div></div></div></section>
 <div class="crumbs"><div class="wrap"><a href="/">Home</a> &nbsp;/&nbsp; <a href="/tours/">Journeys</a> &nbsp;/&nbsp; {{ title }}</div></div>
@@ -14,7 +14,7 @@
   <p class="lead">{{ lead }}</p>{% if intro %}<p>{{ intro }}</p>{% endif %}
   {% if route %}<h2>The route</h2><div class="route">{% for s in route %}<span class="stop">{{ s }}</span>{% if not loop.last %}<span class="arrow">&rarr;</span>{% endif %}{% endfor %}</div>{% endif %}
   <h2>Day by day</h2><div class="timeline">
-  {% for d in days %}<div class="day"><div class="num">{{ d.label }}</div>{% if d.title %}<h3>{{ d.title }}</h3>{% endif %}<p>{{ d.body }}</p>{% if d.stay %}<p class="stay"><b>Overnight:</b> {{ d.stay }}</p>{% endif %}{% if d.photo %}<img class="day-photo" src="{{ d.photo }}" alt="" loading="lazy">{% endif %}</div>{% endfor %}
+  {% for d in days %}<div class="day"><div class="num">{{ d.label }}</div>{% if d.title %}<h3>{{ d.title }}</h3>{% endif %}<p>{{ d.body }}</p>{% if d.stay %}<p class="stay"><b>Overnight:</b> {{ d.stay }}</p>{% endif %}{% if d.photo %}<img class="day-photo" src="{{ d.photo | media }}" alt="" loading="lazy" onerror="this.style.display='none'">{% endif %}</div>{% endfor %}
   </div>
   {% if wildlife %}<h2>Wildlife you may see</h2><div class="chips">{% for c in wildlife %}<span class="chip">{{ c }}</span>{% endfor %}</div>{% endif %}
   {% if birds %}<h2>Birds to look for</h2><div class="chips">{% for c in birds %}<span class="chip">{{ c }}</span>{% endfor %}</div>{% endif %}
@@ -26,9 +26,9 @@
   <a class="btn btn-red" href="#enquire">Start your enquiry</a><p class="call">or call <a href="tel:{{ site.phone_raw }}">{{ site.phone }}</a></p></div></aside>
 </div></div>
 {% if gallery %}<section class="gallery-sec"><div class="wrap"><div class="gallery">
-{% for g in gallery %}<div class="g"><img src="{{ g.image if g.image else g.fallback }}" alt="{{ title }}"></div>{% endfor %}
+{% for g in gallery %}<div class="g"><img src="{{ (g.image | media) if g.image else g.fallback }}" alt="{{ title }}"></div>{% endfor %}
 </div></div></section>{% endif %}
-<section class="enquire-sec" id="enquire"><img class="bg" src="{{ hero_image if hero_image else hero_fallback }}" alt=""><div class="scrim"></div>
+<section class="enquire-sec" id="enquire"><img class="bg" src="{{ (hero_image | media) if hero_image else hero_fallback }}" alt=""><div class="scrim"></div>
   <div class="wrap"><div class="inner"><div><div class="center-mark" style="margin-bottom:20px;"></div>
   <p class="eyebrow" style="color:var(--sand);">Let's begin</p><h2>Enquire about this journey</h2>
   <p>Tell us your dates and what you most hope to see. One of our specialists will tailor this journey to you and reply personally.</p>

@@ -1,0 +1,145 @@
+{
+  "hero_eyebrow": "Family-run since 1989",
+  "hero_title": "Our Story",
+  "hero_image": "",
+  "hero_fallback": "https://static.wixstatic.com/media/12a327_22183612546b41d990a968247ee57828~mv2_d_4320_3240_s_4_2.jpg",
+  "hero_facts": [
+    { "value": "1989", "label": "Founded in Guwahati" },
+    { "value": "1996", "label": "First IATA agent in the Northeast" },
+    { "value": "2004", "label": "National Tourism Award" }
+  ],
+  "founding_kicker": "How it began",
+  "founding_title": "A back room in Guwahati, and a region nobody was selling",
+  "founding_paragraphs": [
+    "In 1989, Ashish and Jahnabi Phookan started Jungle Travels India from a tiny back room in Guwahati. Ashish was a tea taster with the tea brokers J Thomas & Co., having worked in both London and Assam; Jahnabi was a journalist, trained at the Indian Institute of Mass Communication in Delhi and at Indiana University in the United States. They began with a telephone, a thick index of flights, a cousin who knew a little about the travel trade, two delivery boys — and ₹1,000 in rent.",
+    "At the time, the tourism map barely acknowledged the Northeast. \"When I started, travel as a profession was unconventional, more so in Assam,\" Jahnabi recalls. There was little infrastructure and even less awareness, so the Phookans marketed the region themselves — carrying Assam to international travel marts long before anyone else from the Northeast did.",
+    "From the start they worked to a simple principle: high value, low volume. Small numbers of travellers, a light footprint, and the benefits kept within the communities that make these journeys possible — from the village women at their looms to the boatmen of the Brahmaputra. They held to it long before it became an industry phrase.",
+    "Thirty-seven years on, JTI is still family-run. The same instincts went on to build Assam Bengal Navigation, Diphlu River Lodge and Lahé Looms — and they still shape every journey we plan."
+  ],
+  "timeline_kicker": "1989 to today",
+  "timeline_title": "How we got here",
+  "timeline": [
+    {
+      "year": "1989",
+      "title": "Jungle Travels India is founded",
+      "text": "Ashish and Jahnabi Phookan open JTI in Guwahati, setting out to take travellers deep into the jungles of Assam — handling both incoming and outbound travel for a region few outsiders had visited."
+    },
+    {
+      "year": "1994",
+      "title": "American Express comes calling",
+      "text": "American Express Travel, looking for a franchise partner in Northeast India, chooses JTI. \"After that, for me and Ashish, there was no looking back,\" says Jahnabi."
+    },
+    {
+      "year": "1996",
+      "title": "The Northeast's first IATA-accredited agent",
+      "text": "JTI becomes the first IATA-accredited travel agent in Northeast India — a milestone that helped put the region on India's mainstream tourism map."
+    },
+    {
+      "year": "2000",
+      "title": "Taking the Northeast to the world",
+      "text": "JTI becomes the first travel agent from the region to take the Northeast to travel shows abroad, marketing Assam and its neighbours directly to international travellers."
+    },
+    {
+      "year": "2002",
+      "title": "Assam Bengal Navigation is born",
+      "text": "A 2001 meeting in Guwahati between Ashish Phookan and Andrew Brock leads to an Indo-British joint venture: Assam Bengal Navigation, founded by the Phookans with Andrew and Grania Brock."
+    },
+    {
+      "year": "2003",
+      "title": "River cruising begins on the Brahmaputra",
+      "text": "ABN pioneers long-distance river cruising in India with its first cruises on the Brahmaputra in Assam."
+    },
+    {
+      "year": "2004",
+      "title": "National Tourism Award",
+      "text": "Fifteen years after that back room in Guwahati, JTI receives the National Tourism Award from the Government of India."
+    },
+    {
+      "year": "2007",
+      "title": "First cruises on the Hooghly",
+      "text": "ABN becomes the first to run river cruises on the Hooghly (Lower Ganges), between Kolkata and Farakka."
+    },
+    {
+      "year": "2008",
+      "title": "Diphlu River Lodge opens at Kaziranga",
+      "text": "The family opens Diphlu River Lodge on the edge of Kaziranga National Park, where Ashish grew up — thatched bamboo cottages inspired by traditional Mishing homes. The same year, Jahnabi begins her work with Assam's women weavers."
+    },
+    {
+      "year": "2011",
+      "title": "Lahé Looms",
+      "text": "Jahnabi sets up the Lahé Looms residential centre for migrant women weavers beside Diphlu River Lodge, reviving Assam's traditional motifs, its four silks and its natural dyes. Lahé means 'slow' in Assamese."
+    },
+    {
+      "year": "2016",
+      "title": "Royal guests at Kaziranga",
+      "text": "The Duke and Duchess of Cambridge, Prince William and Catherine, stay at Diphlu River Lodge during their visit to Assam."
+    },
+    {
+      "year": "2017",
+      "title": "The ABN Foundation",
+      "text": "The family launches the ABN Foundation to support rural community development and conservation in the riverine and park-edge villages where our journeys take place."
+    },
+    {
+      "year": "2020",
+      "title": "A national voice for women in enterprise",
+      "text": "Jahnabi Phookan is appointed National President of FICCI FLO, the women's wing of the Federation of Indian Chambers of Commerce & Industry — with a focus on sustainable livelihoods for rural women."
+    },
+    {
+      "year": "2025",
+      "title": "Outlook Traveller 'Pathfinders'",
+      "text": "Ashish and Jahnabi are recognised as Pathfinders at Outlook Traveller's Responsible Tourism Awards, for more than three decades of pioneering responsible travel in the Northeast."
+    }
+  ],
+  "timeline_note": "",
+  "why_kicker": "Why travel with us",
+  "why_title": "What makes JTI different",
+  "why_cards": [
+    { "kicker": "Our own naturalists", "title": "Guides we vouch for", "text": "Not subcontracted. Our in-house guides have led birders from the Harvard Natural History Society and the Massachusetts Audubon Society." },
+    { "kicker": "Culture woven in", "title": "More than wildlife", "text": "Between safaris, a walk to a weavers' village or a tribal folk dance — the living Northeast, not just its animals." },
+    { "kicker": "Cared for, dawn to dusk", "title": "Everything, handled", "text": "Hand-picked jungle lodges, seamless logistics, and someone always on call — come storm or the infamous Indian strikes." }
+  ],
+  "team_kicker": "Only as great as our team",
+  "team_title": "The people who look after you",
+  "team_paragraphs": [
+    "From Nemo, who oversees operations in every capacity, to Imran and Abid, who have led birding groups from around the world; from Bijita and Amar, always on call to craft the perfect tailor-made itinerary, to Rupak, who leads challenging treks across little-explored valleys — there is always someone to look after you.",
+    "Ensuring your entire trip runs like clockwork, from dawn to dusk, day in and day out, is what we are honoured to do: showing travellers from all over the world our favourite spots, our jealously-guarded secrets, and the fascinating vignettes of this corner of the subcontinent."
+  ],
+  "team_cta_text": "Meet our naturalist guides individually — their favourite places, in their own words.",
+  "team_cta_link": "/guides/",
+  "team_cta_label": "Meet our guides",
+  "group_kicker": "One family, several journeys",
+  "group_title": "Part of the Assam Bengal Navigation Group",
+  "group_text": "Jungle Travels India sits within a family of brands founded by Ashish and Jahnabi Phookan — river cruising on the Brahmaputra and the Ganges, travel services, and the handloom of Assam — all built on the same roots and the same belief in responsible travel.",
+  "sister_brands": [
+    {
+      "name": "Assam Bengal Navigation",
+      "logo": "/assets/uploads/brands/abn-logo.png",
+      "logo_white": false,
+      "url": "https://www.assambengalnavigation.com",
+      "blurb": "River cruises on the Brahmaputra & Ganges since 2003"
+    },
+    {
+      "name": "Jungle Travels India",
+      "logo": "https://static.wixstatic.com/media/12a327_9bafb66c9bdf4bdb95dac3cd8390920f~mv2.png",
+      "logo_white": true,
+      "url": "/",
+      "blurb": "Wildlife, birding & culture journeys since 1989"
+    },
+    {
+      "name": "JTI Holidays",
+      "logo": "/assets/uploads/brands/jti-holidays-logo.png",
+      "logo_white": false,
+      "url": "http://www.jtiholidays.in/jti/index.html",
+      "blurb": "Domestic & international travel, flights and visas"
+    },
+    {
+      "name": "Lahé Looms",
+      "logo": "https://lahelooms.com/cdn/shop/files/Lahe_Looms_Logo_new_1.png?v=1746506985&width=500",
+      "logo_white": false,
+      "url": "https://lahelooms.com",
+      "blurb": "Handwoven in Assam's four silks, since 2011"
+    }
+  ],
+  "cta_title": "Let us show you our Northeast",
+  "cta_text": ""
+}
